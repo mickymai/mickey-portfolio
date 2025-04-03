@@ -1,11 +1,11 @@
 {
-  "commit": "",
-  "generated": "2025-04-03T17:47:46.460Z",
+  "commit": "8f38c9a17be5e9343b86316fe1fd4b4496ceb9de",
+  "generated": "2025-04-03T17:47:49.060Z",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "",
-        "hash": "3754778487",
+        "commit": "8f38c9a17be5e9343b86316fe1fd4b4496ceb9de",
+        "hash": "1025215864",
         "path": "outstatic/content/posts/test-post.mdx"
       },
       "author": {
@@ -15,7 +15,7 @@
       "collection": "posts",
       "publishedAt": "2025-04-03T18:29:33.130Z",
       "slug": "test-post",
-      "status": "draft",
+      "status": "published",
       "title": "Test Post"
     }
   ]
