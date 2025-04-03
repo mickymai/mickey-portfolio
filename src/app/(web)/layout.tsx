@@ -1,63 +1,43 @@
-import { BuiltWithOutstatic } from "@/components/built-with-outstatic";
-import Footer from "@/components/footer";
-import Header from "@/components/header";
-import { ThemeProvider } from "@/components/theme-provider";
-import { absoluteUrl, ogUrl } from "@/lib/utils";
-import "@/styles/index.css";
-import { Metadata } from "next";
+import { absoluteUrl } from '@/lib/utils'
+import { Metadata } from 'next'
+import '@/styles/index.css'
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://outstatic.com"),
+  metadataBase: new URL('https://outstatic.com'),
   title: {
-    default: "Jeremy - Design. Develop. Deploy.",
-    template: "%s | Andre Vitorio",
+    default: 'Outstatic',
+    template: '%s | Outstatic'
   },
-  description:
-    "Design engineer from Maceió, Brazil. I write about web development, software engineering, and more.",
+  description: 'A blog starter built with Outstatic.',
   openGraph: {
-    title: "Andre Vitorio - Design. Develop. Deploy.",
-    description:
-      "Design engineer from Maceió, Brazil. I write about web development, software engineering, and more.",
-    url: absoluteUrl("/"),
-    siteName: "AndreVitorio.com",
+    title: 'Outstatic - A Static Site CMS for Next.js',
+    description: 'A blog starter built with Outstatic.',
+    url: absoluteUrl('/'),
+    siteName: 'Next.js',
     images: [
       {
-        url: ogUrl("Andre Vitorio - Design. Develop. Deploy."),
-        width: 1200,
-        height: 630,
-      },
+        url: absoluteUrl('/images/og-image.png'),
+        width: 1800,
+        height: 1600
+      }
     ],
-    locale: "en_US",
-    type: "website",
+    locale: 'en_US',
+    type: 'website'
   },
   icons: {
-    icon: [{ url: "/favicon/favicon-32x32.png" }],
-    apple: [{ url: "/favicon/apple-touch-icon.png" }],
-  },
-};
+    icon: [{ url: '/favicon/favicon-32x32.png' }],
+    apple: [{ url: '/favicon/apple-touch-icon.png' }]
+  }
+}
 
 export default function RootLayout({
-  children,
+  children
 }: {
-  children: React.ReactNode;
+  children: React.ReactNode
 }) {
   return (
-    <html lang="en" suppressHydrationWarning>
-      <body className="relative pb-56 md:pb-36 min-h-screen">
-        <ThemeProvider
-          attribute="class"
-          defaultTheme="system"
-          enableSystem
-          disableTransitionOnChange
-        >
-          <Header />
-          <div className="relative max-w-6xl mx-auto px-5 h-full pt-8 md:py-24">
-            {children}
-          </div>
-          <BuiltWithOutstatic fixed />
-          <Footer />
-        </ThemeProvider>
-      </body>
+    <html lang="en">
+      <body>{children}</body>
     </html>
-  );
+  )
 }

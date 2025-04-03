@@ -1,7 +1,3 @@
-export const metadata = {
-  title: 'Outstatic'
-}
-
 export default function RootLayout({
   children
 }: {
