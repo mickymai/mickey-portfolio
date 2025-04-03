@@ -1,0 +1,22 @@
+{
+  "commit": "",
+  "generated": "2025-04-03T17:47:46.460Z",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "3754778487",
+        "path": "outstatic/content/posts/test-post.mdx"
+      },
+      "author": {
+        "name": "Jeremyn",
+        "picture": "https://avatars.githubusercontent.com/u/46276430?v=4"
+      },
+      "collection": "posts",
+      "publishedAt": "2025-04-03T18:29:33.130Z",
+      "slug": "test-post",
+      "status": "draft",
+      "title": "Test Post"
+    }
+  ]
+}
