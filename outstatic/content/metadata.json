@@ -1,6 +1,6 @@
 {
-  "commit": "8f38c9a17be5e9343b86316fe1fd4b4496ceb9de",
-  "generated": "2025-04-03T17:47:49.060Z",
+  "commit": "b2248fe3b24cd033d87b62b9bf1136d20599eafa",
+  "generated": "2025-04-03T17:52:17.336Z",
   "metadata": [
     {
       "__outstatic": {
@@ -17,6 +17,22 @@
       "slug": "test-post",
       "status": "published",
       "title": "Test Post"
+    },
+    {
+      "__outstatic": {
+        "commit": "b2248fe3b24cd033d87b62b9bf1136d20599eafa",
+        "hash": "4035941190",
+        "path": "outstatic/content/pages/test-page.mdx"
+      },
+      "author": {
+        "name": "Jeremyn",
+        "picture": "https://avatars.githubusercontent.com/u/46276430?v=4"
+      },
+      "collection": "pages",
+      "publishedAt": "2025-04-03T18:34:03.380Z",
+      "slug": "test-page",
+      "status": "published",
+      "title": "Test page"
     }
   ]
 }
