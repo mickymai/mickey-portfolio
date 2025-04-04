@@ -1,6 +1,6 @@
 {
-  "commit": "7b06758207d1723b0a8f4e576a21c2882b624170",
-  "generated": "2025-04-03T18:00:29.389Z",
+  "commit": "71f532e40a884ee6b586646b305d4c068282a6f1",
+  "generated": "2025-04-04T06:05:13.070Z",
   "metadata": [
     {
       "__outstatic": {
@@ -49,6 +49,22 @@
       "slug": "home",
       "status": "published",
       "title": "home"
+    },
+    {
+      "__outstatic": {
+        "commit": "71f532e40a884ee6b586646b305d4c068282a6f1",
+        "hash": "739229643",
+        "path": "outstatic/content/posts/test-post-2.mdx"
+      },
+      "author": {
+        "name": "Quinn",
+        "picture": "https://avatars.githubusercontent.com/u/46276430?v=4"
+      },
+      "collection": "posts",
+      "publishedAt": "2025-04-04T06:46:28.935Z",
+      "slug": "test-post-2",
+      "status": "draft",
+      "title": "Test post 2"
     }
   ]
 }
