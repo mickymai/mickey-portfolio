@@ -1,6 +1,6 @@
 {
-  "commit": "71f532e40a884ee6b586646b305d4c068282a6f1",
-  "generated": "2025-04-04T06:05:13.070Z",
+  "commit": "ce25369dd5603fd1f4272edbc629d8663b8c07b7",
+  "generated": "2025-04-04T06:05:16.794Z",
   "metadata": [
     {
       "__outstatic": {
@@ -52,8 +52,8 @@
     },
     {
       "__outstatic": {
-        "commit": "71f532e40a884ee6b586646b305d4c068282a6f1",
-        "hash": "739229643",
+        "commit": "ce25369dd5603fd1f4272edbc629d8663b8c07b7",
+        "hash": "2508945029",
         "path": "outstatic/content/posts/test-post-2.mdx"
       },
       "author": {
@@ -63,7 +63,7 @@
       "collection": "posts",
       "publishedAt": "2025-04-04T06:46:28.935Z",
       "slug": "test-post-2",
-      "status": "draft",
+      "status": "published",
       "title": "Test post 2"
     }
   ]
