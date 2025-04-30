@@ -1,5 +1,11 @@
 @import 'tailwindcss';
+@import "slick-carousel/slick/slick.css";
+@import "slick-carousel/slick/slick-theme.css";
+@import "flowbite/src/themes/default";
+
 @plugin '@tailwindcss/typography';
+@plugin "flowbite/plugin";
+@source "../node_modules/flowbite";
 
 /*
   The default border color has changed to `currentColor` in Tailwind CSS v4,
@@ -19,6 +25,31 @@
   }
 }
 
+html{
+  scroll-behavior: smooth;
+}
+
 .home-intro p {
   @apply text-2xl font-semibold leading-9;
+}
+
+.image-slider-container{
+  .slick-slider, .slick-list, .slick-track{
+    height: 100%;
+  }
+  .slick-slide{
+    >div{
+      display: flex;
+      justify-content: center;
+      height: 100%;
+      align-items: center;
+    }
+  }
+  img{
+    aspect-ratio: 2/3;
+    object-fit: cover;
+    max-width: 300px;
+    border-radius: 20px;
+    margin: auto;
+  }
 }
