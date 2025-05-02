@@ -16,5 +16,11 @@
     "slug": "pages",
     "path": "outstatic/content/pages",
     "children": []
+  },
+  {
+    "title": "Video",
+    "slug": "video",
+    "path": "outstatic/content/video",
+    "children": []
   }
 ]
