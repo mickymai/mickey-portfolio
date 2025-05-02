@@ -1,6 +1,6 @@
 {
-  "commit": "a0d05fd30ff04b63a321f41e3cc21fb5b94b7423",
-  "generated": "2025-05-02T01:40:19.528Z",
+  "commit": "79920f897ee3695744cae853dae4fcfb2b4c2840",
+  "generated": "2025-05-02T01:41:31.210Z",
   "metadata": [
     {
       "__outstatic": {
@@ -52,8 +52,8 @@
     },
     {
       "__outstatic": {
-        "commit": "a0d05fd30ff04b63a321f41e3cc21fb5b94b7423",
-        "hash": "1550991889",
+        "commit": "79920f897ee3695744cae853dae4fcfb2b4c2840",
+        "hash": "1269773356",
         "path": "outstatic/content/posts/test-post-2.mdx"
       },
       "author": {
@@ -61,6 +61,7 @@
         "picture": "https://avatars.githubusercontent.com/u/46276430?v=4"
       },
       "collection": "posts",
+      "coverImage": "/images/flycream-travel.png",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ips\n\n",
       "publishedAt": "2025-04-04T06:46:28.935Z",
       "slug": "test-post-2",
