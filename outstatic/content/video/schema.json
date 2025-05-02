@@ -1,6 +1,12 @@
 {
-  "title": "Video",
-  "slug": "video",
+  "title": "video",
   "type": "object",
-  "properties": {}
+  "properties": {
+    "youtubeUrl": {
+      "required": true,
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "youtubeUrl"
+    }
+  }
 }
