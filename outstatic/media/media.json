@@ -1,6 +1,6 @@
 {
-  "commit": "",
-  "generated": "Thu, 03 Apr 2025 17:52:41 GMT",
+  "commit": "c59ae08e4b94202002d141c2917247fd84b9b271",
+  "generated": "2025-05-07T13:49:36.770Z",
   "media": [
     {
       "__outstatic": {
@@ -11,6 +11,17 @@
       "alt": "",
       "filename": "bearbnb.png",
       "publishedAt": "2025-04-03T17:52:41.257Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "c59ae08e4b94202002d141c2917247fd84b9b271",
+        "hash": "3716703723",
+        "path": "public/images/chatgpt-image-apr-8--2025--04_03_20-pm-k5Mz.png"
+      },
+      "alt": "",
+      "filename": "chatgpt-image-apr-8--2025--04_03_20-pm-k5Mz.png",
+      "publishedAt": "2025-05-07T13:49:36.770Z",
       "type": "image"
     },
     {
