@@ -6,13 +6,11 @@ import Header from "@/components/Header";
 import ImageSlider from "@/components/ImageSlider";
 
 export default async function Index() {
-    const {content, allPosts, allProjects} = await getData()
+    const {content, allPosts, allVideos} = await getData()
     const images = [
         '/images/banner1.jpg',
         '/images/banner2.jpg',
-        '/images/banner3.jpg',
-        '/images/banner4.heic',
-        '/images/banner5.HEIC'
+        '/images/banner3.jpg'
     ]
 
     return (
@@ -44,71 +42,75 @@ export default async function Index() {
                     </button>
                 </div>
             </div>
-            <div className="max-w-7xl mx-auto h-screen pt-40" id="di-hoc">
+            <div className="max-w-7xl mx-auto pt-40" id="di-hoc">
                 {allPosts.length > 0 && (
                     <ContentGrid
-                        title="Bài viết"
+                        title="#Micky đi học"
+                        subtitle="Bài viết"
                         items={allPosts}
                         collection="posts"
                         priority
                     />
                 )}
-                {allProjects.length > 0 && (
+                {allVideos.length > 0 && (
                     <ContentGrid
-                        title="Video"
-                        items={allProjects}
-                        collection="projects"
+                        subtitle="Video"
+                        items={allVideos}
+                        collection="video"
                     />
                 )}
             </div>
-            <div className="max-w-7xl mx-auto  h-screen pt-40" id="di-lam">
+            <div className="max-w-7xl mx-auto pt-40" id="di-lam">
                 {allPosts.length > 0 && (
                     <ContentGrid
-                        title="Bài viết"
+                        title="#Micky đi làm"
+                        subtitle="Bài viết"
                         items={allPosts}
                         collection="posts"
                         priority
                     />
                 )}
-                {allProjects.length > 0 && (
+                {allVideos.length > 0 && (
                     <ContentGrid
-                        title="Video"
-                        items={allProjects}
-                        collection="projects"
+                        subtitle="Video"
+                        items={allVideos}
+                        collection="video"
                     />
                 )}
             </div>
-            <div className="max-w-7xl mx-auto h-screen pt-40" id="di-du-lich">
+            <div className="max-w-7xl mx-auto pt-40" id="di-du-lich">
                 {allPosts.length > 0 && (
                     <ContentGrid
-                        title="Bài viết"
+                        title="#Micky đi du lịch"
+                        subtitle="Bài viết"
                         items={allPosts}
                         collection="posts"
                         priority
                     />
                 )}
-                {allProjects.length > 0 && (
+                {allVideos.length > 0 && (
                     <ContentGrid
-                        title="Video"
-                        items={allProjects}
-                        collection="projects"
+                        subtitle="Video"
+                        items={allVideos}
+                        collection="video"
                     />
                 )}
             </div>
-            <div className="max-w-7xl mx-auto h-screen pt-40" id="phong-cach-song">
+            <div className="max-w-7xl mx-auto pt-40" id="phong-cach-song">
                 {allPosts.length > 0 && (
                     <ContentGrid
-                        title="Bài viết"
+                        title="#Phong cách sống"
+                        subtitle="Bài viết"
                         items={allPosts}
                         collection="posts"
                         priority
                     />
                 )}
-                {allProjects.length > 0 && (
+                {allVideos.length > 0 && (
                     <ContentGrid
-                        title="Video"
-                        items={allProjects}
-                        collection="projects"
+                        subtitle="Video"
+                        items={allVideos}
+                        collection="video"
                     />
                 )}
             </div>
@@ -137,14 +139,14 @@ async function getData() {
         .sort({publishedAt: -1})
         .toArray()
 
-    const allProjects = await db
-        .find({collection: 'projects'}, ['title', 'slug', 'coverImage'])
+    const allVideos = await db
+        .find({collection: 'video'}, ['title', 'slug', 'coverImage', 'youtubeUrl', 'description'])
         .sort({publishedAt: -1})
         .toArray()
 
     return {
         content,
         allPosts,
-        allProjects
+        allVideos
     }
 }
