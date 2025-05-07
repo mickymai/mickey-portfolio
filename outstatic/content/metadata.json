@@ -1,6 +1,6 @@
 {
-  "commit": "",
-  "generated": "Wed, 07 May 2025 13:53:58 GMT",
+  "commit": "68de432f51df51387775efca0bafb06117874f29",
+  "generated": "2025-05-07T15:14:37.347Z",
   "metadata": [
     {
       "__outstatic": {
@@ -53,22 +53,6 @@
       "slug": "test-post-after-deployment",
       "status": "published",
       "title": "Test Post after deployment"
-    },
-    {
-      "__outstatic": {
-        "commit": "056dccc2e97eec25aa600ee6e6a95665c2b457d1",
-        "hash": "1025215864",
-        "path": "outstatic/content/posts/test-post.mdx"
-      },
-      "author": {
-        "name": "Jeremyn",
-        "picture": "https://avatars.githubusercontent.com/u/46276430?v=4"
-      },
-      "collection": "posts",
-      "publishedAt": "2025-04-03T18:29:33.130Z",
-      "slug": "test-post",
-      "status": "published",
-      "title": "Test Post"
     },
     {
       "__outstatic": {
