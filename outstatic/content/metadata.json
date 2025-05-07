@@ -1,58 +1,10 @@
 {
-  "commit": "f4ef0e402fbc89c497918b9f94719fb7b876d6a2",
-  "generated": "2025-05-07T13:50:11.349Z",
+  "commit": "",
+  "generated": "Wed, 07 May 2025 13:53:58 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "8f38c9a17be5e9343b86316fe1fd4b4496ceb9de",
-        "hash": "1025215864",
-        "path": "outstatic/content/posts/test-post.mdx"
-      },
-      "author": {
-        "name": "Jeremyn",
-        "picture": "https://avatars.githubusercontent.com/u/46276430?v=4"
-      },
-      "collection": "posts",
-      "publishedAt": "2025-04-03T18:29:33.130Z",
-      "slug": "test-post",
-      "status": "published",
-      "title": "Test Post"
-    },
-    {
-      "__outstatic": {
-        "commit": "8197c50938d965c0bbfc1522d9fe0fa69f0085d4",
-        "hash": "1240907175",
-        "path": "outstatic/content/projects/test-project.mdx"
-      },
-      "author": {
-        "name": "Jeremyn",
-        "picture": "https://avatars.githubusercontent.com/u/46276430?v=4"
-      },
-      "collection": "projects",
-      "publishedAt": "2025-04-03T18:38:19.184Z",
-      "slug": "test-project",
-      "status": "published",
-      "title": "Test Project"
-    },
-    {
-      "__outstatic": {
-        "commit": "7b06758207d1723b0a8f4e576a21c2882b624170",
-        "hash": "2342225516",
-        "path": "outstatic/content/pages/home.mdx"
-      },
-      "author": {
-        "name": "Jeremyn",
-        "picture": "https://avatars.githubusercontent.com/u/46276430?v=4"
-      },
-      "collection": "pages",
-      "publishedAt": "2025-04-03T18:42:04.263Z",
-      "slug": "home",
-      "status": "published",
-      "title": "home"
-    },
-    {
-      "__outstatic": {
-        "commit": "79920f897ee3695744cae853dae4fcfb2b4c2840",
+        "commit": "db5f6460af2214ec79dfb5e4f8333c9fabfd2e0d",
         "hash": "1269773356",
         "path": "outstatic/content/posts/test-post-2.mdx"
       },
@@ -70,7 +22,73 @@
     },
     {
       "__outstatic": {
-        "commit": "8674f2168509bba5b6159fdda44a400d9e1451af",
+        "commit": "a35df241cddac3b5f19b59afc61abb698cf0a6fb",
+        "hash": "1240907175",
+        "path": "outstatic/content/projects/test-project.mdx"
+      },
+      "author": {
+        "name": "Jeremyn",
+        "picture": "https://avatars.githubusercontent.com/u/46276430?v=4"
+      },
+      "collection": "projects",
+      "publishedAt": "2025-04-03T18:38:19.184Z",
+      "slug": "test-project",
+      "status": "published",
+      "title": "Test Project"
+    },
+    {
+      "__outstatic": {
+        "commit": "08c91a59924c9605950209577e0392c2fb848a3b",
+        "hash": "3816652316",
+        "path": "outstatic/content/posts/test-post-after-deployment.mdx"
+      },
+      "author": {
+        "name": "Jeremyn",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/chatgpt-image-apr-8--2025--04_03_20-pm-k5Mz.png",
+      "description": "Khum thích để description",
+      "publishedAt": "2025-05-07T14:30:51.136Z",
+      "slug": "test-post-after-deployment",
+      "status": "published",
+      "title": "Test Post after deployment"
+    },
+    {
+      "__outstatic": {
+        "commit": "056dccc2e97eec25aa600ee6e6a95665c2b457d1",
+        "hash": "1025215864",
+        "path": "outstatic/content/posts/test-post.mdx"
+      },
+      "author": {
+        "name": "Jeremyn",
+        "picture": "https://avatars.githubusercontent.com/u/46276430?v=4"
+      },
+      "collection": "posts",
+      "publishedAt": "2025-04-03T18:29:33.130Z",
+      "slug": "test-post",
+      "status": "published",
+      "title": "Test Post"
+    },
+    {
+      "__outstatic": {
+        "commit": "7b80983b46661642172a712c3f3e01d5ae64b580",
+        "hash": "2342225516",
+        "path": "outstatic/content/pages/home.mdx"
+      },
+      "author": {
+        "name": "Jeremyn",
+        "picture": "https://avatars.githubusercontent.com/u/46276430?v=4"
+      },
+      "collection": "pages",
+      "publishedAt": "2025-04-03T18:42:04.263Z",
+      "slug": "home",
+      "status": "published",
+      "title": "home"
+    },
+    {
+      "__outstatic": {
+        "commit": "4bf047e7499c7ef81b63885879256b36e1e619c5",
         "hash": "911263275",
         "path": "outstatic/content/video/new-new-new.mdx"
       },
@@ -86,24 +104,6 @@
       "status": "published",
       "title": "New new new",
       "youtubeUrl": "https://www.youtube.com/watch?v=W-0lSiV-H7k&list=RDW-0lSiV-H7k&start_radio=1"
-    },
-    {
-      "__outstatic": {
-        "commit": "f4ef0e402fbc89c497918b9f94719fb7b876d6a2",
-        "hash": "3816652316",
-        "path": "outstatic/content/posts/test-post-after-deployment.mdx"
-      },
-      "author": {
-        "name": "Jeremyn",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "/images/chatgpt-image-apr-8--2025--04_03_20-pm-k5Mz.png",
-      "description": "Khum thích để description",
-      "publishedAt": "2025-05-07T14:30:51.136Z",
-      "slug": "test-post-after-deployment",
-      "status": "published",
-      "title": "Test Post after deployment"
     }
   ]
 }
