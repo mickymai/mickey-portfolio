@@ -1,6 +1,6 @@
 {
-  "commit": "8674f2168509bba5b6159fdda44a400d9e1451af",
-  "generated": "2025-05-02T02:23:02.721Z",
+  "commit": "f4ef0e402fbc89c497918b9f94719fb7b876d6a2",
+  "generated": "2025-05-07T13:50:11.349Z",
   "metadata": [
     {
       "__outstatic": {
@@ -86,6 +86,24 @@
       "status": "published",
       "title": "New new new",
       "youtubeUrl": "https://www.youtube.com/watch?v=W-0lSiV-H7k&list=RDW-0lSiV-H7k&start_radio=1"
+    },
+    {
+      "__outstatic": {
+        "commit": "f4ef0e402fbc89c497918b9f94719fb7b876d6a2",
+        "hash": "3816652316",
+        "path": "outstatic/content/posts/test-post-after-deployment.mdx"
+      },
+      "author": {
+        "name": "Jeremyn",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/chatgpt-image-apr-8--2025--04_03_20-pm-k5Mz.png",
+      "description": "Khum thích để description",
+      "publishedAt": "2025-05-07T14:30:51.136Z",
+      "slug": "test-post-after-deployment",
+      "status": "published",
+      "title": "Test Post after deployment"
     }
   ]
 }
