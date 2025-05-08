@@ -1,6 +1,6 @@
 {
-  "commit": "a124f68461535f5939da69c76d81348445826ad0",
-  "generated": "2025-05-08T09:17:11.746Z",
+  "commit": "a80cfb377ae4b82b7fa3d676225e2e46d34ee16c",
+  "generated": "2025-05-08T09:17:19.233Z",
   "media": [
     {
       "__outstatic": {
@@ -44,6 +44,17 @@
       "alt": "",
       "filename": "couple-pizza.png",
       "publishedAt": "2025-04-03T17:52:41.257Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "a80cfb377ae4b82b7fa3d676225e2e46d34ee16c",
+        "hash": "1834816411",
+        "path": "public/images/di-hoc-1-I1OT.jpg"
+      },
+      "alt": "",
+      "filename": "di-hoc-1-I1OT.jpg",
+      "publishedAt": "2025-05-08T09:17:19.233Z",
       "type": "image"
     },
     {
