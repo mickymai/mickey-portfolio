@@ -1,6 +1,6 @@
 {
-  "commit": "d8385a286686ed14a247971f4d69be042a571a05",
-  "generated": "2025-05-08T09:21:07.677Z",
+  "commit": "66675df8915679fec5108da30440023980e79ce3",
+  "generated": "2025-05-08T09:21:14.728Z",
   "media": [
     {
       "__outstatic": {
@@ -352,6 +352,17 @@
       "alt": "",
       "filename": "thuc-tap-tai-an-5-c3MT.jpg",
       "publishedAt": "2025-05-08T09:21:07.677Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "66675df8915679fec5108da30440023980e79ce3",
+        "hash": "4037196858",
+        "path": "public/images/thuc-tap-tai-an-A5Nz.jpg"
+      },
+      "alt": "",
+      "filename": "thuc-tap-tai-an-A5Nz.jpg",
+      "publishedAt": "2025-05-08T09:21:14.728Z",
       "type": "image"
     }
   ]
