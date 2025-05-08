@@ -44,7 +44,7 @@ const ContentGrid = ({
                 <Slider {...settings}>
                     {items.map((item, id) => (
                         <Link key={item.slug}
-                              href={item.youtubeUrl ?? `/${collection}/${item.slug}`} className="mr-12">
+                              href={item.youtubeUrl ?? `/${collection}/${item.slug}`} className="mr-12" target="_blank">
                             <div
                                 className="cursor-pointer shadow-[2px_2px_10px_0px_#0000001A] project-card rounded-md md:w-full scale-100 hover:scale-[1.02] active:scale-[0.97] motion-safe:transform-gpu transition duration-100 motion-reduce:hover:scale-100 hover:shadow-xs overflow-hidden">
                                 <div className="sm:mx-0">

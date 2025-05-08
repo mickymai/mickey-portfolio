@@ -49,13 +49,12 @@ html{
   img{
     aspect-ratio: 2/3;
     object-fit: cover;
-    max-width: 300px;
     border-radius: 20px;
     margin: auto;
   }
 }
 
-#posts, #video {
+:not(.image-slider-container){
   .slick-slide {
     padding-right: 20px;
   }
