@@ -1,6 +1,6 @@
 {
-  "commit": "",
-  "generated": "Thu, 08 May 2025 13:13:19 GMT",
+  "commit": "e031edd1e1fd4fa128f3ee1a36a735b87be08008",
+  "generated": "2025-05-08T13:27:20.304Z",
   "metadata": [
     {
       "__outstatic": {
@@ -143,6 +143,24 @@
       "status": "published",
       "title": "title",
       "youtubeUrl": "https://www.youtube.com/watch?v=dvlT4fUb2xQ"
+    },
+    {
+      "__outstatic": {
+        "commit": "e031edd1e1fd4fa128f3ee1a36a735b87be08008",
+        "hash": "1470195195",
+        "path": "outstatic/content/di-hoc/new-2.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc",
+      "coverImage": "/images/speaker-cho-aiesec-M4Mz.jpg",
+      "description": "https://portfolio-iota-flame-18.vercel.app/",
+      "publishedAt": "2025-05-08T14:09:01.110Z",
+      "slug": "new-2",
+      "status": "draft",
+      "title": "new 2"
     }
   ]
 }
