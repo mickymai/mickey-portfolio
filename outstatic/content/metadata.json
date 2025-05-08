@@ -1,6 +1,6 @@
 {
-  "commit": "ea4789d5a04d993916ac4671d20f29c67bed3d02",
-  "generated": "2025-05-08T13:27:51.328Z",
+  "commit": "eeea347865caeb82cc132c5999500ac04a5f8177",
+  "generated": "2025-05-08T13:27:53.787Z",
   "metadata": [
     {
       "__outstatic": {
@@ -164,8 +164,8 @@
     },
     {
       "__outstatic": {
-        "commit": "ea4789d5a04d993916ac4671d20f29c67bed3d02",
-        "hash": "2631710483",
+        "commit": "eeea347865caeb82cc132c5999500ac04a5f8177",
+        "hash": "3534362135",
         "path": "outstatic/content/di-hoc/new-3.mdx"
       },
       "author": {
@@ -177,7 +177,7 @@
       "description": "aaaa",
       "publishedAt": "2025-05-08T14:09:36.537Z",
       "slug": "new-3",
-      "status": "draft",
+      "status": "published",
       "title": "New 3"
     }
   ]
