@@ -1,6 +1,13 @@
 {
-  "title": "Đi học Video",
-  "slug": "di-hoc-video",
+  "title": "di-hoc-video",
   "type": "object",
-  "properties": {}
+  "properties": {
+    "youtubeUrl": {
+      "description": "Add youtube url here",
+      "required": true,
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "youtubeUrl"
+    }
+  }
 }
