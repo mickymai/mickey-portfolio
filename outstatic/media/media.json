@@ -1,6 +1,6 @@
 {
-  "commit": "e27888cdc1234bb264867fe04aab3cfe3e331466",
-  "generated": "2025-05-08T09:19:04.996Z",
+  "commit": "5145afb109483a94d4bfbffcc48d54f97f27c9f5",
+  "generated": "2025-05-08T09:19:15.645Z",
   "media": [
     {
       "__outstatic": {
@@ -143,6 +143,17 @@
       "alt": "",
       "filename": "di-hoc-4-MyND.jpg",
       "publishedAt": "2025-05-08T09:17:38.113Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "5145afb109483a94d4bfbffcc48d54f97f27c9f5",
+        "hash": "1450315196",
+        "path": "public/images/di-hoc-4-c2Nj.jpg"
+      },
+      "alt": "",
+      "filename": "di-hoc-4-c2Nj.jpg",
+      "publishedAt": "2025-05-08T09:19:15.645Z",
       "type": "image"
     },
     {
