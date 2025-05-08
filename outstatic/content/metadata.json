@@ -1,6 +1,6 @@
 {
-  "commit": "cc19c35540bf851234e7b89a12ac7dc882069435",
-  "generated": "2025-05-08T14:08:54.239Z",
+  "commit": "1c6046f5acb713f7aa6934299f6814560ef2130d",
+  "generated": "2025-05-08T14:08:59.542Z",
   "metadata": [
     {
       "__outstatic": {
@@ -185,8 +185,8 @@
     },
     {
       "__outstatic": {
-        "commit": "cc19c35540bf851234e7b89a12ac7dc882069435",
-        "hash": "2226128501",
+        "commit": "1c6046f5acb713f7aa6934299f6814560ef2130d",
+        "hash": "2896217024",
         "path": "outstatic/content/phong-cach-song/song-ao-ne.mdx"
       },
       "author": {
@@ -198,7 +198,7 @@
       "description": "Chúng ta vẫn biết rằng, làm việc với một đoạn văn bản dễ đọc",
       "publishedAt": "2025-05-08T14:49:52.678Z",
       "slug": "song-ao-ne",
-      "status": "draft",
+      "status": "published",
       "title": "Song ao ne"
     }
   ]
