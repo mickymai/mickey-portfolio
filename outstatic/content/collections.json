@@ -46,5 +46,11 @@
     "slug": "di-lam-video",
     "path": "outstatic/content/di-lam-video",
     "children": []
+  },
+  {
+    "title": "Đi Du Lịch",
+    "slug": "di-du-lich",
+    "path": "outstatic/content/di-du-lich",
+    "children": []
   }
 ]
