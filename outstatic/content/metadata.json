@@ -1,23 +1,7 @@
 {
-  "commit": "8cb1d3f739fa5b39c87a7a069e1bd5149a4e0a86",
-  "generated": "2025-05-08T13:02:31.551Z",
+  "commit": "",
+  "generated": "Thu, 08 May 2025 13:05:11 GMT",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "7b80983b46661642172a712c3f3e01d5ae64b580",
-        "hash": "2342225516",
-        "path": "outstatic/content/pages/home.mdx"
-      },
-      "author": {
-        "name": "Jeremyn",
-        "picture": "https://avatars.githubusercontent.com/u/46276430?v=4"
-      },
-      "collection": "pages",
-      "publishedAt": "2025-04-03T18:42:04.263Z",
-      "slug": "home",
-      "status": "published",
-      "title": "home"
-    },
     {
       "__outstatic": {
         "commit": "08c91a59924c9605950209577e0392c2fb848a3b",
@@ -38,22 +22,6 @@
     },
     {
       "__outstatic": {
-        "commit": "a35df241cddac3b5f19b59afc61abb698cf0a6fb",
-        "hash": "1240907175",
-        "path": "outstatic/content/projects/test-project.mdx"
-      },
-      "author": {
-        "name": "Jeremyn",
-        "picture": "https://avatars.githubusercontent.com/u/46276430?v=4"
-      },
-      "collection": "projects",
-      "publishedAt": "2025-04-03T18:38:19.184Z",
-      "slug": "test-project",
-      "status": "published",
-      "title": "Test Project"
-    },
-    {
-      "__outstatic": {
         "commit": "db5f6460af2214ec79dfb5e4f8333c9fabfd2e0d",
         "hash": "1269773356",
         "path": "outstatic/content/posts/test-post-2.mdx"
@@ -69,6 +37,40 @@
       "slug": "test-post-2",
       "status": "published",
       "title": "Test post 2"
+    },
+    {
+      "__outstatic": {
+        "commit": "7b80983b46661642172a712c3f3e01d5ae64b580",
+        "hash": "2342225516",
+        "path": "outstatic/content/pages/home.mdx"
+      },
+      "author": {
+        "name": "Jeremyn",
+        "picture": "https://avatars.githubusercontent.com/u/46276430?v=4"
+      },
+      "collection": "pages",
+      "publishedAt": "2025-04-03T18:42:04.263Z",
+      "slug": "home",
+      "status": "published",
+      "title": "home"
+    },
+    {
+      "__outstatic": {
+        "commit": "f5f0378281ae55ca05fb8a7683762487eafdbef9",
+        "hash": "2294845688",
+        "path": "outstatic/content/di-hoc/abc.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc",
+      "coverImage": "/images/thuc-tap-tai-an-5-c3MT.jpg",
+      "description": "ssss",
+      "publishedAt": "2025-05-08T13:42:44.689Z",
+      "slug": "abc",
+      "status": "published",
+      "title": "abc"
     },
     {
       "__outstatic": {
@@ -91,7 +93,7 @@
     },
     {
       "__outstatic": {
-        "commit": "043d8a8d54fd9d2872808d737dfde5774f3412f0",
+        "commit": "9bbe2093a664090a79093d4ca6796c4c43e51c3d",
         "hash": "365577226",
         "path": "outstatic/content/di-hoc/new-post-di-hoc.mdx"
       },
@@ -109,21 +111,19 @@
     },
     {
       "__outstatic": {
-        "commit": "8cb1d3f739fa5b39c87a7a069e1bd5149a4e0a86",
-        "hash": "2294845688",
-        "path": "outstatic/content/di-hoc/abc.mdx"
+        "commit": "a35df241cddac3b5f19b59afc61abb698cf0a6fb",
+        "hash": "1240907175",
+        "path": "outstatic/content/projects/test-project.mdx"
       },
       "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+        "name": "Jeremyn",
+        "picture": "https://avatars.githubusercontent.com/u/46276430?v=4"
       },
-      "collection": "di-hoc",
-      "coverImage": "/images/thuc-tap-tai-an-5-c3MT.jpg",
-      "description": "ssss",
-      "publishedAt": "2025-05-08T13:42:44.689Z",
-      "slug": "abc",
+      "collection": "projects",
+      "publishedAt": "2025-04-03T18:38:19.184Z",
+      "slug": "test-project",
       "status": "published",
-      "title": "abc"
+      "title": "Test Project"
     }
   ]
 }
