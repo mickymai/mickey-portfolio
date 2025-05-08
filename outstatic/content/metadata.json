@@ -1,6 +1,6 @@
 {
-  "commit": "54667d5ed405bba807811eb6c2ebbac41b56d250",
-  "generated": "2025-05-08T14:00:53.501Z",
+  "commit": "e69785a77aeec8da26ff4cf238bf11ed40d611b5",
+  "generated": "2025-05-08T14:05:57.012Z",
   "metadata": [
     {
       "__outstatic": {
@@ -131,24 +131,6 @@
     },
     {
       "__outstatic": {
-        "commit": "4a24406b3e1ad94f373b0016346ffcb489607de2",
-        "hash": "1723996602",
-        "path": "outstatic/content/di-lam/di-lam-lai-ne.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-lam",
-      "coverImage": "/images/lam-viec-3-AxMz.jpg",
-      "description": "diLamPosts",
-      "publishedAt": "2025-05-08T14:39:02.147Z",
-      "slug": "di-lam-lai-ne",
-      "status": "draft",
-      "title": "Di làm lại nè "
-    },
-    {
-      "__outstatic": {
         "commit": "d940e375bce9fc61d8324541db4407a943ea4bdc",
         "hash": "1064833262",
         "path": "outstatic/content/di-du-lich/di-du-lich-ne.mdx"
@@ -182,6 +164,24 @@
       "slug": "di-hoc-lai-ne",
       "status": "published",
       "title": "đi học lại nè"
+    },
+    {
+      "__outstatic": {
+        "commit": "e69785a77aeec8da26ff4cf238bf11ed40d611b5",
+        "hash": "3669538457",
+        "path": "outstatic/content/di-lam/di-lam-lai-ne.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-lam",
+      "coverImage": "/images/lam-viec-3-AxMz.jpg",
+      "description": "diLamPosts",
+      "publishedAt": "2025-05-08T14:39:02.147Z",
+      "slug": "di-lam-lai-ne",
+      "status": "published",
+      "title": "Di làm lại nè "
     }
   ]
 }
