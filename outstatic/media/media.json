@@ -1,6 +1,6 @@
 {
-  "commit": "3b7b83f07ca36e9822b5716be4ad9544f69663c6",
-  "generated": "2025-05-08T09:18:44.699Z",
+  "commit": "ff3013b889c8d12aaaaa21dc404dda103e156f7a",
+  "generated": "2025-05-08T09:18:54.553Z",
   "media": [
     {
       "__outstatic": {
@@ -187,6 +187,17 @@
       "alt": "",
       "filename": "di-tinh-nguyen-1-Y2MT.jpg",
       "publishedAt": "2025-05-08T09:18:21.229Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "ff3013b889c8d12aaaaa21dc404dda103e156f7a",
+        "hash": "3073662085",
+        "path": "public/images/exchange-tai-malaysia-E5Mz.jpg"
+      },
+      "alt": "",
+      "filename": "exchange-tai-malaysia-E5Mz.jpg",
+      "publishedAt": "2025-05-08T09:18:54.553Z",
       "type": "image"
     },
     {
