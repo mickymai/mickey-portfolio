@@ -1,6 +1,6 @@
 {
-  "commit": "",
-  "generated": "Thu, 08 May 2025 13:53:37 GMT",
+  "commit": "4a24406b3e1ad94f373b0016346ffcb489607de2",
+  "generated": "2025-05-08T13:57:22.045Z",
   "metadata": [
     {
       "__outstatic": {
@@ -128,6 +128,24 @@
       "slug": "new-post-di-hoc",
       "status": "published",
       "title": "New post đi học"
+    },
+    {
+      "__outstatic": {
+        "commit": "4a24406b3e1ad94f373b0016346ffcb489607de2",
+        "hash": "1723996602",
+        "path": "outstatic/content/di-lam/di-lam-lai-ne.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-lam",
+      "coverImage": "/images/lam-viec-3-AxMz.jpg",
+      "description": "diLamPosts",
+      "publishedAt": "2025-05-08T14:39:02.147Z",
+      "slug": "di-lam-lai-ne",
+      "status": "draft",
+      "title": "Di làm lại nè "
     }
   ]
 }
