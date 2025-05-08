@@ -1,6 +1,6 @@
 {
-  "commit": "0974bf30ef4fca4a981581eaffadc0d6b26629ae",
-  "generated": "2025-05-08T13:50:22.102Z",
+  "commit": "caff1ce1c9f7d837aadcfa22bb10cf21a226e74f",
+  "generated": "2025-05-08T13:50:26.153Z",
   "metadata": [
     {
       "__outstatic": {
@@ -20,22 +20,6 @@
       "status": "published",
       "title": "New new new",
       "youtubeUrl": "https://www.youtube.com/watch?v=W-0lSiV-H7k&list=RDW-0lSiV-H7k&start_radio=1"
-    },
-    {
-      "__outstatic": {
-        "commit": "7b80983b46661642172a712c3f3e01d5ae64b580",
-        "hash": "2342225516",
-        "path": "outstatic/content/pages/home.mdx"
-      },
-      "author": {
-        "name": "Jeremyn",
-        "picture": "https://avatars.githubusercontent.com/u/46276430?v=4"
-      },
-      "collection": "pages",
-      "publishedAt": "2025-04-03T18:42:04.263Z",
-      "slug": "home",
-      "status": "published",
-      "title": "home"
     },
     {
       "__outstatic": {
