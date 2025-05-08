@@ -1,6 +1,6 @@
 {
-  "commit": "bd1c9c2b3cadee6659abeb92da8f3b058e364cfd",
-  "generated": "2025-05-08T13:52:19.816Z",
+  "commit": "2f7b1eb87b7c230814059b7e6aa477596b9e836c",
+  "generated": "2025-05-08T13:52:27.103Z",
   "metadata": [
     {
       "__outstatic": {
@@ -113,8 +113,8 @@
     },
     {
       "__outstatic": {
-        "commit": "bd1c9c2b3cadee6659abeb92da8f3b058e364cfd",
-        "hash": "2093339932",
+        "commit": "2f7b1eb87b7c230814059b7e6aa477596b9e836c",
+        "hash": "3052112964",
         "path": "outstatic/content/di-lam/di-lam-ne.mdx"
       },
       "author": {
@@ -126,7 +126,7 @@
       "description": "Chúng ta vẫn biết rằng, làm việc với một đoạn văn bản dễ đọc và rõ nghĩa dễ gây rối trí và cản trở việc tập trung vào yếu tố trình bày văn bản",
       "publishedAt": "2025-05-08T14:32:45.789Z",
       "slug": "di-lam-ne",
-      "status": "draft",
+      "status": "published",
       "title": "Di lam ne"
     }
   ]
