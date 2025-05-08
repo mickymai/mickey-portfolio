@@ -58,5 +58,11 @@
     "slug": "di-du-lich-video",
     "path": "outstatic/content/di-du-lich-video",
     "children": []
+  },
+  {
+    "title": "Phong cách sống",
+    "slug": "phong-cach-song",
+    "path": "outstatic/content/phong-cach-song",
+    "children": []
   }
 ]
