@@ -6,7 +6,7 @@ import Header from "@/components/Header";
 import ImageSlider from "@/components/ImageSlider";
 
 export default async function Index() {
-    const {allPosts, allVideos, diHocVideos, diLamVideos, diDuLichVideos, phongCachSongVideos, phongCachSongPosts, diHocPosts, diLamPosts, diDuLichPosts} = await getData()
+    const {diHocVideos, diLamVideos, diDuLichVideos, phongCachSongVideos, phongCachSongPosts, diHocPosts, diLamPosts, diDuLichPosts} = await getData()
     const images = [
         '/images/banner1.jpg',
         '/images/banner2.jpg',
@@ -121,24 +121,6 @@ export default async function Index() {
 async function getData() {
     const db = await load()
 
-    const page = await db
-        .find({collection: 'pages', slug: 'home'}, ['content'])
-        .first()
-
-    const content = await markdownToHtml(page.content)
-
-    const allPosts = await db
-        .find({collection: 'posts'}, [
-            'title',
-            'publishedAt',
-            'slug',
-            'coverImage',
-            'description',
-            'tags'
-        ])
-        .sort({publishedAt: -1})
-        .toArray()
-
     const diHocPosts = await db
         .find({collection: 'di-hoc'}, [
             'title',
@@ -213,8 +195,6 @@ async function getData() {
         .toArray()
 
     return {
-        content,
-        allPosts,
         diHocPosts,
         diLamPosts,
         diDuLichPosts,
