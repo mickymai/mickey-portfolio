@@ -28,9 +28,18 @@ const ContentGrid = ({
     const settings = {
         dots: false,
         speed: 500,
-        slidesToShow: 4,
+        slidesToShow: 3.5,
         slidesToScroll: 1,
         infinite: false,
+        responsive: [
+            {
+                breakpoint: 768,
+                settings: {
+                    slidesToShow: 1.2,
+                    slidesToScroll: 1,
+                }
+            }
+        ]
     };
     return (
         <section id={collection}>
@@ -73,7 +82,7 @@ const ContentGrid = ({
                                         {item.title}
                                     </h3>
                                     <div className="text-md mb-4 text-slate-700"></div>
-                                    <p className="text-lg leading-relaxed mb-4">
+                                    <p className="text-lg leading-relaxed mb-4 card-description">
                                         {item.description}
                                     </p>
                                 </div>

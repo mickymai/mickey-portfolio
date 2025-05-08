@@ -16,7 +16,7 @@ export default async function Index() {
     return (
         <Layout>
             <Header/>
-            <div className="grid grid-cols-2 gap-12 max-w-7xl mx-auto mt-40">
+            <div className="grid md:grid-cols-2 grid-cols-1 gap-12 max-w-7xl mx-auto md:mt-40 mt-4 md:px-0 px-8">
                 <div className="image-slider-container">
                     <ImageSlider images={images}/>
                 </div>
@@ -42,7 +42,7 @@ export default async function Index() {
                     </button>
                 </div>
             </div>
-            <div className="max-w-7xl mx-auto pt-40" id="di-hoc">
+            <div className="max-w-7xl mx-auto md:pt-40 md:px-0 px-8 pt-10" id="di-hoc">
                 {diHocPosts.length > 0 && (
                     <ContentGrid
                         title="#Micky đi học"
