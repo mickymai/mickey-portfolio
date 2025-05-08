@@ -7,6 +7,12 @@
       "fieldType": "Text",
       "dataType": "string",
       "title": "description"
+    },
+    "coverImage": {
+      "required": false,
+      "fieldType": "Image",
+      "dataType": "image",
+      "title": "coverImage"
     }
   }
 }
