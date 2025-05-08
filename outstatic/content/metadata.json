@@ -1,6 +1,6 @@
 {
-  "commit": "3a6d4d06ab2a096405631f40938abb5ba55e9f3c",
-  "generated": "2025-05-08T12:57:02.826Z",
+  "commit": "c1f135561f3b857b91ad02d8b5785fbc4b9c48f0",
+  "generated": "2025-05-08T12:58:11.400Z",
   "metadata": [
     {
       "__outstatic": {
@@ -91,8 +91,8 @@
     },
     {
       "__outstatic": {
-        "commit": "3a6d4d06ab2a096405631f40938abb5ba55e9f3c",
-        "hash": "864400288",
+        "commit": "c1f135561f3b857b91ad02d8b5785fbc4b9c48f0",
+        "hash": "2987198142",
         "path": "outstatic/content/di-hoc/new-post-di-hoc.mdx"
       },
       "author": {
