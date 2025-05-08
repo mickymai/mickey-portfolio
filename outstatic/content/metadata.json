@@ -1,25 +1,7 @@
 {
-  "commit": "2f7b1eb87b7c230814059b7e6aa477596b9e836c",
-  "generated": "2025-05-08T13:52:27.103Z",
+  "commit": "",
+  "generated": "Thu, 08 May 2025 13:53:37 GMT",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "9bbe2093a664090a79093d4ca6796c4c43e51c3d",
-        "hash": "365577226",
-        "path": "outstatic/content/di-hoc/new-post-di-hoc.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-hoc",
-      "coverImage": "/images/thuc-tap-tai-an-5-c3MT.jpg",
-      "description": "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-      "publishedAt": "2025-05-08T13:37:33.661Z",
-      "slug": "new-post-di-hoc",
-      "status": "published",
-      "title": "New post đi học"
-    },
     {
       "__outstatic": {
         "commit": "f5f0378281ae55ca05fb8a7683762487eafdbef9",
@@ -37,6 +19,60 @@
       "slug": "abc",
       "status": "published",
       "title": "abc"
+    },
+    {
+      "__outstatic": {
+        "commit": "fd29b9bbdf469837ae1c1e06f539267ed849331e",
+        "hash": "3660834767",
+        "path": "outstatic/content/di-hoc/new-2.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc",
+      "coverImage": "/images/speaker-cho-aiesec-M4Mz.jpg",
+      "description": "https://portfolio-iota-flame-18.vercel.app/",
+      "publishedAt": "2025-05-08T14:09:01.110Z",
+      "slug": "new-2",
+      "status": "published",
+      "title": "new 2"
+    },
+    {
+      "__outstatic": {
+        "commit": "974e5e294488ca7f27f46215adbf8f2e9b5a1472",
+        "hash": "3052112964",
+        "path": "outstatic/content/di-lam/di-lam-ne.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-lam",
+      "coverImage": "/images/lam-viec-1-YwNz.jpg",
+      "description": "Chúng ta vẫn biết rằng, làm việc với một đoạn văn bản dễ đọc và rõ nghĩa dễ gây rối trí và cản trở việc tập trung vào yếu tố trình bày văn bản",
+      "publishedAt": "2025-05-08T14:32:45.789Z",
+      "slug": "di-lam-ne",
+      "status": "published",
+      "title": "Di lam ne"
+    },
+    {
+      "__outstatic": {
+        "commit": "e6b619745d543693b44e9d9cf54652373fcc4c21",
+        "hash": "2178147079",
+        "path": "outstatic/content/di-hoc/new-4.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc",
+      "coverImage": "/images/lam-viec-4-k5Nj.jpg",
+      "description": "aaaa",
+      "publishedAt": "2025-05-08T14:10:00.098Z",
+      "slug": "new-4",
+      "status": "published",
+      "title": "new 4"
     },
     {
       "__outstatic": {
@@ -59,25 +95,7 @@
     },
     {
       "__outstatic": {
-        "commit": "d0176d967f08d1f6ed8fd88f72dc7f7d1b6f88e5",
-        "hash": "3660834767",
-        "path": "outstatic/content/di-hoc/new-2.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-hoc",
-      "coverImage": "/images/speaker-cho-aiesec-M4Mz.jpg",
-      "description": "https://portfolio-iota-flame-18.vercel.app/",
-      "publishedAt": "2025-05-08T14:09:01.110Z",
-      "slug": "new-2",
-      "status": "published",
-      "title": "new 2"
-    },
-    {
-      "__outstatic": {
-        "commit": "eeea347865caeb82cc132c5999500ac04a5f8177",
+        "commit": "1d6e231609899cd778da5a9aba79ba5d0a2ab37a",
         "hash": "3534362135",
         "path": "outstatic/content/di-hoc/new-3.mdx"
       },
@@ -95,39 +113,21 @@
     },
     {
       "__outstatic": {
-        "commit": "85040295a7374d5f44b82a41d89721cdf9b05b63",
-        "hash": "2178147079",
-        "path": "outstatic/content/di-hoc/new-4.mdx"
+        "commit": "9bbe2093a664090a79093d4ca6796c4c43e51c3d",
+        "hash": "365577226",
+        "path": "outstatic/content/di-hoc/new-post-di-hoc.mdx"
       },
       "author": {
         "name": "Micky",
         "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
       },
       "collection": "di-hoc",
-      "coverImage": "/images/lam-viec-4-k5Nj.jpg",
-      "description": "aaaa",
-      "publishedAt": "2025-05-08T14:10:00.098Z",
-      "slug": "new-4",
+      "coverImage": "/images/thuc-tap-tai-an-5-c3MT.jpg",
+      "description": "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "publishedAt": "2025-05-08T13:37:33.661Z",
+      "slug": "new-post-di-hoc",
       "status": "published",
-      "title": "new 4"
-    },
-    {
-      "__outstatic": {
-        "commit": "2f7b1eb87b7c230814059b7e6aa477596b9e836c",
-        "hash": "3052112964",
-        "path": "outstatic/content/di-lam/di-lam-ne.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-lam",
-      "coverImage": "/images/lam-viec-1-YwNz.jpg",
-      "description": "Chúng ta vẫn biết rằng, làm việc với một đoạn văn bản dễ đọc và rõ nghĩa dễ gây rối trí và cản trở việc tập trung vào yếu tố trình bày văn bản",
-      "publishedAt": "2025-05-08T14:32:45.789Z",
-      "slug": "di-lam-ne",
-      "status": "published",
-      "title": "Di lam ne"
+      "title": "New post đi học"
     }
   ]
 }
