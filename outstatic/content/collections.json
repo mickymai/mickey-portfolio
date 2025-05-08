@@ -40,5 +40,11 @@
     "slug": "di-lam",
     "path": "outstatic/content/di-lam",
     "children": []
+  },
+  {
+    "title": "Đi Làm Video",
+    "slug": "di-lam-video",
+    "path": "outstatic/content/di-lam-video",
+    "children": []
   }
 ]
