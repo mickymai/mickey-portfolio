@@ -1,6 +1,6 @@
 {
-  "commit": "06ee54caa8e2e7d1c692abe047a3681ce80acb6e",
-  "generated": "2025-05-08T09:20:24.261Z",
+  "commit": "5a783f2575925e876bc8a95ccb0df7b3fd405d54",
+  "generated": "2025-05-08T09:20:36.654Z",
   "media": [
     {
       "__outstatic": {
@@ -308,6 +308,17 @@
       "alt": "",
       "filename": "skyline.png",
       "publishedAt": "2025-04-03T17:52:41.257Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "5a783f2575925e876bc8a95ccb0df7b3fd405d54",
+        "hash": "2017613870",
+        "path": "public/images/speaker-cho-aiesec-M4Mz.jpg"
+      },
+      "alt": "",
+      "filename": "speaker-cho-aiesec-M4Mz.jpg",
+      "publishedAt": "2025-05-08T09:20:36.654Z",
       "type": "image"
     }
   ]
