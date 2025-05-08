@@ -1,11 +1,5 @@
 [
   {
-    "title": "Projects",
-    "slug": "projects",
-    "path": "outstatic/content/projects",
-    "children": []
-  },
-  {
     "title": "Pages",
     "slug": "pages",
     "path": "outstatic/content/pages",

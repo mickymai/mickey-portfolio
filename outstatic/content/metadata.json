@@ -1,23 +1,7 @@
 {
-  "commit": "d018a25bad671c366af432a4f08b6d849e94986e",
-  "generated": "2025-05-08T13:50:18.133Z",
+  "commit": "0974bf30ef4fca4a981581eaffadc0d6b26629ae",
+  "generated": "2025-05-08T13:50:22.102Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "a35df241cddac3b5f19b59afc61abb698cf0a6fb",
-        "hash": "1240907175",
-        "path": "outstatic/content/projects/test-project.mdx"
-      },
-      "author": {
-        "name": "Jeremyn",
-        "picture": "https://avatars.githubusercontent.com/u/46276430?v=4"
-      },
-      "collection": "projects",
-      "publishedAt": "2025-04-03T18:38:19.184Z",
-      "slug": "test-project",
-      "status": "published",
-      "title": "Test Project"
-    },
     {
       "__outstatic": {
         "commit": "4bf047e7499c7ef81b63885879256b36e1e619c5",
