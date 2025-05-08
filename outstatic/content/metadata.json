@@ -1,6 +1,6 @@
 {
-  "commit": "0a92dbd4cb0440c5de737d4055285011f86246f8",
-  "generated": "2025-05-08T13:50:30.229Z",
+  "commit": "bd1c9c2b3cadee6659abeb92da8f3b058e364cfd",
+  "generated": "2025-05-08T13:52:19.816Z",
   "metadata": [
     {
       "__outstatic": {
@@ -110,6 +110,24 @@
       "slug": "new-4",
       "status": "published",
       "title": "new 4"
+    },
+    {
+      "__outstatic": {
+        "commit": "bd1c9c2b3cadee6659abeb92da8f3b058e364cfd",
+        "hash": "2093339932",
+        "path": "outstatic/content/di-lam/di-lam-ne.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-lam",
+      "coverImage": "/images/lam-viec-1-YwNz.jpg",
+      "description": "Chúng ta vẫn biết rằng, làm việc với một đoạn văn bản dễ đọc và rõ nghĩa dễ gây rối trí và cản trở việc tập trung vào yếu tố trình bày văn bản",
+      "publishedAt": "2025-05-08T14:32:45.789Z",
+      "slug": "di-lam-ne",
+      "status": "draft",
+      "title": "Di lam ne"
     }
   ]
 }
