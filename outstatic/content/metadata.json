@@ -1,6 +1,6 @@
 {
-  "commit": "1c6046f5acb713f7aa6934299f6814560ef2130d",
-  "generated": "2025-05-08T14:08:59.542Z",
+  "commit": "92b59062211e6a21830338a2dc202326b49ce083",
+  "generated": "2025-05-08T14:09:32.313Z",
   "metadata": [
     {
       "__outstatic": {
@@ -185,8 +185,8 @@
     },
     {
       "__outstatic": {
-        "commit": "1c6046f5acb713f7aa6934299f6814560ef2130d",
-        "hash": "2896217024",
+        "commit": "92b59062211e6a21830338a2dc202326b49ce083",
+        "hash": "2619979102",
         "path": "outstatic/content/phong-cach-song/song-ao-ne.mdx"
       },
       "author": {
