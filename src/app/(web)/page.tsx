@@ -20,7 +20,7 @@ export default async function Index() {
                 <div className="image-slider-container">
                     <ImageSlider images={images}/>
                 </div>
-                <div className="banner-content flex flex-col gap-6">
+                <div className="banner-content flex flex-col gap-6 justify-between">
                     <h2 className="font-[Cormorant_Garamond] text-2xl italic font-light">XIN CHÀO!</h2>
                     <p>
                         Tôi là Micky Mai, một người đam mê truyền thông và luôn tìm kiếm cơ hội để học hỏi, khám phá và đóng góp cho cộng đồng.
