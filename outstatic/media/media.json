@@ -1,6 +1,6 @@
 {
-  "commit": "519791a6fb4253a77e8495fefb6e135b33f90584",
-  "generated": "2025-05-08T09:20:13.096Z",
+  "commit": "06ee54caa8e2e7d1c692abe047a3681ce80acb6e",
+  "generated": "2025-05-08T09:20:24.261Z",
   "media": [
     {
       "__outstatic": {
@@ -286,6 +286,17 @@
       "alt": "",
       "filename": "lam-viec-5-E5MT.jpg",
       "publishedAt": "2025-05-08T09:20:13.096Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "06ee54caa8e2e7d1c692abe047a3681ce80acb6e",
+        "hash": "655290273",
+        "path": "public/images/lam-viec-A5Nz.jpg"
+      },
+      "alt": "",
+      "filename": "lam-viec-A5Nz.jpg",
+      "publishedAt": "2025-05-08T09:20:24.261Z",
       "type": "image"
     },
     {
