@@ -64,5 +64,11 @@
     "slug": "phong-cach-song",
     "path": "outstatic/content/phong-cach-song",
     "children": []
+  },
+  {
+    "title": "Phong cách sống video",
+    "slug": "phong-cach-song-video",
+    "path": "outstatic/content/phong-cach-song-video",
+    "children": []
   }
 ]
