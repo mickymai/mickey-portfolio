@@ -6,7 +6,7 @@ import Header from "@/components/Header";
 import ImageSlider from "@/components/ImageSlider";
 
 export default async function Index() {
-    const {content, allPosts, allVideos} = await getData()
+    const {allPosts, allVideos, diHocVideos, diLamVideos, diDuLichVideos, phongCachSongVideos, phongCachSongPosts, diHocPosts, diLamPosts, diDuLichPosts} = await getData()
     const images = [
         '/images/banner1.jpg',
         '/images/banner2.jpg',
@@ -43,74 +43,74 @@ export default async function Index() {
                 </div>
             </div>
             <div className="max-w-7xl mx-auto pt-40" id="di-hoc">
-                {allPosts.length > 0 && (
+                {diHocPosts.length > 0 && (
                     <ContentGrid
                         title="#Micky đi học"
                         subtitle="Bài viết"
-                        items={allPosts}
-                        collection="posts"
+                        items={diHocPosts}
+                        collection="di-hoc"
                         priority
                     />
                 )}
-                {allVideos.length > 0 && (
+                {diHocVideos.length > 0 && (
                     <ContentGrid
                         subtitle="Video"
-                        items={allVideos}
-                        collection="video"
+                        items={diHocVideos}
+                        collection="di-hoc-video"
                     />
                 )}
             </div>
             <div className="max-w-7xl mx-auto pt-40" id="di-lam">
-                {allPosts.length > 0 && (
+                {diLamPosts.length > 0 && (
                     <ContentGrid
                         title="#Micky đi làm"
                         subtitle="Bài viết"
-                        items={allPosts}
-                        collection="posts"
+                        items={diLamPosts}
+                        collection="di-lam"
                         priority
                     />
                 )}
-                {allVideos.length > 0 && (
+                {diLamVideos.length > 0 && (
                     <ContentGrid
                         subtitle="Video"
-                        items={allVideos}
-                        collection="video"
+                        items={diLamVideos}
+                        collection="di-lam-video"
                     />
                 )}
             </div>
             <div className="max-w-7xl mx-auto pt-40" id="di-du-lich">
-                {allPosts.length > 0 && (
+                {diDuLichPosts.length > 0 && (
                     <ContentGrid
                         title="#Micky đi du lịch"
                         subtitle="Bài viết"
-                        items={allPosts}
-                        collection="posts"
+                        items={diDuLichPosts}
+                        collection="di-du-lich"
                         priority
                     />
                 )}
-                {allVideos.length > 0 && (
+                {diDuLichVideos.length > 0 && (
                     <ContentGrid
                         subtitle="Video"
-                        items={allVideos}
-                        collection="video"
+                        items={diDuLichVideos}
+                        collection="di-du-lich-video"
                     />
                 )}
             </div>
             <div className="max-w-7xl mx-auto pt-40" id="phong-cach-song">
-                {allPosts.length > 0 && (
+                {phongCachSongPosts.length > 0 && (
                     <ContentGrid
                         title="#Phong cách sống"
                         subtitle="Bài viết"
-                        items={allPosts}
-                        collection="posts"
+                        items={phongCachSongPosts}
+                        collection="phong-cach-song"
                         priority
                     />
                 )}
-                {allVideos.length > 0 && (
+                {phongCachSongVideos.length > 0 && (
                     <ContentGrid
                         subtitle="Video"
-                        items={allVideos}
-                        collection="video"
+                        items={phongCachSongVideos}
+                        collection="phong-cach-song-video"
                     />
                 )}
             </div>
@@ -139,14 +139,90 @@ async function getData() {
         .sort({publishedAt: -1})
         .toArray()
 
+    const diHocPosts = await db
+        .find({collection: 'di-hoc'}, [
+            'title',
+            'publishedAt',
+            'slug',
+            'coverImage',
+            'description',
+            'tags'
+        ])
+        .sort({publishedAt: -1})
+        .toArray()
+
+    const diLamPosts = await db
+        .find({collection: 'di-lam'}, [
+            'title',
+            'publishedAt',
+            'slug',
+            'coverImage',
+            'description',
+            'tags'
+        ])
+        .sort({publishedAt: -1})
+        .toArray()
+
+    const diDuLichPosts = await db
+        .find({collection: 'di-du-lich'}, [
+            'title',
+            'publishedAt',
+            'slug',
+            'coverImage',
+            'description',
+            'tags'
+        ])
+        .sort({publishedAt: -1})
+        .toArray()
+
+    const phongCachSongPosts = await db
+        .find({collection: 'phong-cach-song'}, [
+            'title',
+            'publishedAt',
+            'slug',
+            'coverImage',
+            'description',
+            'tags'
+        ])
+        .sort({publishedAt: -1})
+        .toArray()
+
     const allVideos = await db
         .find({collection: 'video'}, ['title', 'slug', 'coverImage', 'youtubeUrl', 'description'])
+        .sort({publishedAt: -1})
+        .toArray()
+
+    const diHocVideos = await db
+        .find({collection: 'di-hoc-video'}, ['title', 'slug', 'coverImage', 'youtubeUrl', 'description'])
+        .sort({publishedAt: -1})
+        .toArray()
+
+    const diLamVideos = await db
+        .find({collection: 'di-lam-video'}, ['title', 'slug', 'coverImage', 'youtubeUrl', 'description'])
+        .sort({publishedAt: -1})
+        .toArray()
+
+    const diDuLichVideos = await db
+        .find({collection: 'di-du-lich-video'}, ['title', 'slug', 'coverImage', 'youtubeUrl', 'description'])
+        .sort({publishedAt: -1})
+        .toArray()
+
+    const phongCachSongVideos = await db
+        .find({collection: 'phong-cach-song-video'}, ['title', 'slug', 'coverImage', 'youtubeUrl', 'description'])
         .sort({publishedAt: -1})
         .toArray()
 
     return {
         content,
         allPosts,
-        allVideos
+        diHocPosts,
+        diLamPosts,
+        diDuLichPosts,
+        phongCachSongPosts,
+        allVideos,
+        diHocVideos,
+        diLamVideos,
+        diDuLichVideos,
+        phongCachSongVideos
     }
 }

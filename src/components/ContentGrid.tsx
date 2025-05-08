@@ -11,8 +11,8 @@ type Item = {
 } & OstDocument
 
 type Props = {
-    collection: 'posts' | 'projects' | 'video'
-    title?: string
+    collection: 'posts' | 'projects' | 'video' | 'di-hoc' | 'di-lam' | 'di-du-lich' | 'phong-cach-song'| 'phong-cach-song-video' |  'di-hoc-video' | 'di-lam-video' | 'di-du-lich-video'
+        title?: string
     subtitle?: string
     items: Item[]
     priority?: boolean
@@ -29,7 +29,8 @@ const ContentGrid = ({
         dots: false,
         speed: 500,
         slidesToShow: 4,
-        slidesToScroll: 1
+        slidesToScroll: 1,
+        infinite: false,
     };
     return (
         <section id={collection}>
@@ -39,11 +40,11 @@ const ContentGrid = ({
             <h3 className="mb-8 text-2xl md:text-6xl font-bold tracking-tighter leading-tight">
                 {subtitle}
             </h3>
-            <div className="mb-8">
+            <div className="mb-8 w-full">
                 <Slider {...settings}>
                     {items.map((item, id) => (
                         <Link key={item.slug}
-                              href={item.youtubeUrl ? item.youtubeUrl : `/${collection}/${item.slug}`} className="mr-12">
+                              href={item.youtubeUrl ?? `/${collection}/${item.slug}`} className="mr-12">
                             <div
                                 className="cursor-pointer shadow-[2px_2px_10px_0px_#0000001A] project-card rounded-md md:w-full scale-100 hover:scale-[1.02] active:scale-[0.97] motion-safe:transform-gpu transition duration-100 motion-reduce:hover:scale-100 hover:shadow-xs overflow-hidden">
                                 <div className="sm:mx-0">
