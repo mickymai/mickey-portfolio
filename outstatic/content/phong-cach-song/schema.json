@@ -1,6 +1,12 @@
 {
-  "title": "Phong cách sống",
-  "slug": "phong-cach-song",
+  "title": "phong-cach-song",
   "type": "object",
-  "properties": {}
+  "properties": {
+    "description": {
+      "required": true,
+      "fieldType": "Text",
+      "dataType": "string",
+      "title": "description"
+    }
+  }
 }
