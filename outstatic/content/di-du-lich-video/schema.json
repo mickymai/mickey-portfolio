@@ -1,6 +1,13 @@
 {
-  "title": "Đi Du Lịch Video",
-  "slug": "di-du-lich-video",
+  "title": "di-du-lich-video",
   "type": "object",
-  "properties": {}
+  "properties": {
+    "youtubeUrl": {
+      "description": "Add youtube url here",
+      "required": true,
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "youtubeUrl"
+    }
+  }
 }
