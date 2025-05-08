@@ -1,6 +1,12 @@
 {
-  "title": "Đi Làm",
-  "slug": "di-lam",
+  "title": "di-lam",
   "type": "object",
-  "properties": {}
+  "properties": {
+    "description": {
+      "required": true,
+      "fieldType": "Text",
+      "dataType": "string",
+      "title": "description"
+    }
+  }
 }
