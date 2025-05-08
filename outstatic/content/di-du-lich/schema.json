@@ -1,6 +1,12 @@
 {
-  "title": "Đi Du Lịch",
-  "slug": "di-du-lich",
+  "title": "di-du-lich",
   "type": "object",
-  "properties": {}
+  "properties": {
+    "description": {
+      "required": true,
+      "fieldType": "Text",
+      "dataType": "string",
+      "title": "description"
+    }
+  }
 }
