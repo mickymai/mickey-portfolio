@@ -28,5 +28,11 @@
     "slug": "di-hoc",
     "path": "outstatic/content/di-hoc",
     "children": []
+  },
+  {
+    "title": "Đi học Video",
+    "slug": "di-hoc-video",
+    "path": "outstatic/content/di-hoc-video",
+    "children": []
   }
 ]
