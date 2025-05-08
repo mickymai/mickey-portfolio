@@ -1,6 +1,6 @@
 {
-  "commit": "e031edd1e1fd4fa128f3ee1a36a735b87be08008",
-  "generated": "2025-05-08T13:27:20.304Z",
+  "commit": "d0176d967f08d1f6ed8fd88f72dc7f7d1b6f88e5",
+  "generated": "2025-05-08T13:27:23.170Z",
   "metadata": [
     {
       "__outstatic": {
@@ -146,8 +146,8 @@
     },
     {
       "__outstatic": {
-        "commit": "e031edd1e1fd4fa128f3ee1a36a735b87be08008",
-        "hash": "1470195195",
+        "commit": "d0176d967f08d1f6ed8fd88f72dc7f7d1b6f88e5",
+        "hash": "3660834767",
         "path": "outstatic/content/di-hoc/new-2.mdx"
       },
       "author": {
@@ -159,7 +159,7 @@
       "description": "https://portfolio-iota-flame-18.vercel.app/",
       "publishedAt": "2025-05-08T14:09:01.110Z",
       "slug": "new-2",
-      "status": "draft",
+      "status": "published",
       "title": "new 2"
     }
   ]
