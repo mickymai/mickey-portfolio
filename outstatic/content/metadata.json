@@ -1,6 +1,6 @@
 {
-  "commit": "043d8a8d54fd9d2872808d737dfde5774f3412f0",
-  "generated": "2025-05-08T12:59:05.494Z",
+  "commit": "8cb1d3f739fa5b39c87a7a069e1bd5149a4e0a86",
+  "generated": "2025-05-08T13:02:31.551Z",
   "metadata": [
     {
       "__outstatic": {
@@ -106,6 +106,24 @@
       "slug": "new-post-di-hoc",
       "status": "published",
       "title": "New post đi học"
+    },
+    {
+      "__outstatic": {
+        "commit": "8cb1d3f739fa5b39c87a7a069e1bd5149a4e0a86",
+        "hash": "2294845688",
+        "path": "outstatic/content/di-hoc/abc.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc",
+      "coverImage": "/images/thuc-tap-tai-an-5-c3MT.jpg",
+      "description": "ssss",
+      "publishedAt": "2025-05-08T13:42:44.689Z",
+      "slug": "abc",
+      "status": "published",
+      "title": "abc"
     }
   ]
 }
