@@ -1,6 +1,6 @@
 {
-  "commit": "ff3013b889c8d12aaaaa21dc404dda103e156f7a",
-  "generated": "2025-05-08T09:18:54.553Z",
+  "commit": "72456806ca0632b23e38cb93b2438c2559d67975",
+  "generated": "2025-05-08T09:18:59.907Z",
   "media": [
     {
       "__outstatic": {
@@ -231,6 +231,17 @@
       "alt": "",
       "filename": "jupiter-spaceship.png",
       "publishedAt": "2025-04-03T17:52:41.257Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "72456806ca0632b23e38cb93b2438c2559d67975",
+        "hash": "1070766566",
+        "path": "public/images/lam-viec-1-YwNz.jpg"
+      },
+      "alt": "",
+      "filename": "lam-viec-1-YwNz.jpg",
+      "publishedAt": "2025-05-08T09:18:59.907Z",
       "type": "image"
     },
     {
