@@ -1,6 +1,6 @@
 {
-  "commit": "8cf7383aa799942ae31b06d1140e4f0c867f66e5",
-  "generated": "2025-05-08T09:18:09.906Z",
+  "commit": "311c1967bd6a6a0517253e57cabbc2153f947e1d",
+  "generated": "2025-05-08T09:18:16.048Z",
   "media": [
     {
       "__outstatic": {
@@ -11,6 +11,17 @@
       "alt": "",
       "filename": "-i-hoc-MzMD.jpg",
       "publishedAt": "2025-05-08T09:18:09.906Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "311c1967bd6a6a0517253e57cabbc2153f947e1d",
+        "hash": "495373144",
+        "path": "public/images/-i-thuc-tap-3-UzNj.jpg"
+      },
+      "alt": "",
+      "filename": "-i-thuc-tap-3-UzNj.jpg",
+      "publishedAt": "2025-05-08T09:18:16.048Z",
       "type": "image"
     },
     {
