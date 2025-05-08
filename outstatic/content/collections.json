@@ -34,5 +34,11 @@
     "slug": "di-hoc-video",
     "path": "outstatic/content/di-hoc-video",
     "children": []
+  },
+  {
+    "title": "Đi Làm",
+    "slug": "di-lam",
+    "path": "outstatic/content/di-lam",
+    "children": []
   }
 ]
