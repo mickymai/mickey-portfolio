@@ -1,26 +1,7 @@
 {
-  "commit": "caff1ce1c9f7d837aadcfa22bb10cf21a226e74f",
-  "generated": "2025-05-08T13:50:26.153Z",
+  "commit": "0a92dbd4cb0440c5de737d4055285011f86246f8",
+  "generated": "2025-05-08T13:50:30.229Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "4bf047e7499c7ef81b63885879256b36e1e619c5",
-        "hash": "911263275",
-        "path": "outstatic/content/video/new-new-new.mdx"
-      },
-      "author": {
-        "name": "Jeremyn",
-        "picture": "https://avatars.githubusercontent.com/u/46276430?v=4"
-      },
-      "collection": "video",
-      "coverImage": "/images/bearbnb.png",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially ",
-      "publishedAt": "2025-05-02T03:03:39.080Z",
-      "slug": "new-new-new",
-      "status": "published",
-      "title": "New new new",
-      "youtubeUrl": "https://www.youtube.com/watch?v=W-0lSiV-H7k&list=RDW-0lSiV-H7k&start_radio=1"
-    },
     {
       "__outstatic": {
         "commit": "9bbe2093a664090a79093d4ca6796c4c43e51c3d",
