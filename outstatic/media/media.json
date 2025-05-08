@@ -1,6 +1,6 @@
 {
-  "commit": "5a783f2575925e876bc8a95ccb0df7b3fd405d54",
-  "generated": "2025-05-08T09:20:36.654Z",
+  "commit": "98ef71b094feb5c273ebef9223ce921f21425b4c",
+  "generated": "2025-05-08T09:20:48.217Z",
   "media": [
     {
       "__outstatic": {
@@ -319,6 +319,17 @@
       "alt": "",
       "filename": "speaker-cho-aiesec-M4Mz.jpg",
       "publishedAt": "2025-05-08T09:20:36.654Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "98ef71b094feb5c273ebef9223ce921f21425b4c",
+        "hash": "1660209137",
+        "path": "public/images/thuc-tap-tai-an-2-I4Mz.jpg"
+      },
+      "alt": "",
+      "filename": "thuc-tap-tai-an-2-I4Mz.jpg",
+      "publishedAt": "2025-05-08T09:20:48.217Z",
       "type": "image"
     }
   ]
