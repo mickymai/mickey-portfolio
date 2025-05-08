@@ -1,7 +1,18 @@
 {
-  "commit": "2936e97b85c4cf778119376f38b7460033e2beb9",
-  "generated": "2025-05-08T09:18:00.997Z",
+  "commit": "8cf7383aa799942ae31b06d1140e4f0c867f66e5",
+  "generated": "2025-05-08T09:18:09.906Z",
   "media": [
+    {
+      "__outstatic": {
+        "commit": "8cf7383aa799942ae31b06d1140e4f0c867f66e5",
+        "hash": "1267150336",
+        "path": "public/images/-i-hoc-MzMD.jpg"
+      },
+      "alt": "",
+      "filename": "-i-hoc-MzMD.jpg",
+      "publishedAt": "2025-05-08T09:18:09.906Z",
+      "type": "image"
+    },
     {
       "__outstatic": {
         "commit": "a124f68461535f5939da69c76d81348445826ad0",
