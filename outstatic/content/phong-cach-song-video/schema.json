@@ -1,6 +1,13 @@
 {
-  "title": "Phong cách sống video",
-  "slug": "phong-cach-song-video",
+  "title": "phong-cach-song-video",
   "type": "object",
-  "properties": {}
+  "properties": {
+    "youtubeUrl": {
+      "description": "Add youtube url here",
+      "required": true,
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "youtubeUrl"
+    }
+  }
 }
