@@ -1,6 +1,6 @@
 {
-  "commit": "c1f135561f3b857b91ad02d8b5785fbc4b9c48f0",
-  "generated": "2025-05-08T12:58:11.400Z",
+  "commit": "043d8a8d54fd9d2872808d737dfde5774f3412f0",
+  "generated": "2025-05-08T12:59:05.494Z",
   "metadata": [
     {
       "__outstatic": {
@@ -91,8 +91,8 @@
     },
     {
       "__outstatic": {
-        "commit": "c1f135561f3b857b91ad02d8b5785fbc4b9c48f0",
-        "hash": "2987198142",
+        "commit": "043d8a8d54fd9d2872808d737dfde5774f3412f0",
+        "hash": "365577226",
         "path": "outstatic/content/di-hoc/new-post-di-hoc.mdx"
       },
       "author": {
@@ -104,7 +104,7 @@
       "description": "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
       "publishedAt": "2025-05-08T13:37:33.661Z",
       "slug": "new-post-di-hoc",
-      "status": "draft",
+      "status": "published",
       "title": "New post đi học"
     }
   ]
