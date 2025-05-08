@@ -9,7 +9,7 @@
       "title": "description"
     },
     "coverImage": {
-      "required": false,
+      "required": true,
       "fieldType": "Image",
       "dataType": "image",
       "title": "coverImage"
