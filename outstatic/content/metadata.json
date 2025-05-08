@@ -1,25 +1,7 @@
 {
-  "commit": "85040295a7374d5f44b82a41d89721cdf9b05b63",
-  "generated": "2025-05-08T13:28:13.866Z",
+  "commit": "d018a25bad671c366af432a4f08b6d849e94986e",
+  "generated": "2025-05-08T13:50:18.133Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "08c91a59924c9605950209577e0392c2fb848a3b",
-        "hash": "3816652316",
-        "path": "outstatic/content/posts/test-post-after-deployment.mdx"
-      },
-      "author": {
-        "name": "Jeremyn",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "/images/chatgpt-image-apr-8--2025--04_03_20-pm-k5Mz.png",
-      "description": "Khum thích để description",
-      "publishedAt": "2025-05-07T14:30:51.136Z",
-      "slug": "test-post-after-deployment",
-      "status": "published",
-      "title": "Test Post after deployment"
-    },
     {
       "__outstatic": {
         "commit": "a35df241cddac3b5f19b59afc61abb698cf0a6fb",
@@ -35,24 +17,6 @@
       "slug": "test-project",
       "status": "published",
       "title": "Test Project"
-    },
-    {
-      "__outstatic": {
-        "commit": "db5f6460af2214ec79dfb5e4f8333c9fabfd2e0d",
-        "hash": "1269773356",
-        "path": "outstatic/content/posts/test-post-2.mdx"
-      },
-      "author": {
-        "name": "Quinn",
-        "picture": "https://avatars.githubusercontent.com/u/46276430?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "/images/flycream-travel.png",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ips\n\n",
-      "publishedAt": "2025-04-04T06:46:28.935Z",
-      "slug": "test-post-2",
-      "status": "published",
-      "title": "Test post 2"
     },
     {
       "__outstatic": {
