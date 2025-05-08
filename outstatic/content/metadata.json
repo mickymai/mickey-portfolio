@@ -1,23 +1,7 @@
 {
   "commit": "",
-  "generated": "Thu, 08 May 2025 13:07:00 GMT",
+  "generated": "Thu, 08 May 2025 13:13:19 GMT",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "a35df241cddac3b5f19b59afc61abb698cf0a6fb",
-        "hash": "1240907175",
-        "path": "outstatic/content/projects/test-project.mdx"
-      },
-      "author": {
-        "name": "Jeremyn",
-        "picture": "https://avatars.githubusercontent.com/u/46276430?v=4"
-      },
-      "collection": "projects",
-      "publishedAt": "2025-04-03T18:38:19.184Z",
-      "slug": "test-project",
-      "status": "published",
-      "title": "Test Project"
-    },
     {
       "__outstatic": {
         "commit": "08c91a59924c9605950209577e0392c2fb848a3b",
@@ -35,6 +19,22 @@
       "slug": "test-post-after-deployment",
       "status": "published",
       "title": "Test Post after deployment"
+    },
+    {
+      "__outstatic": {
+        "commit": "a35df241cddac3b5f19b59afc61abb698cf0a6fb",
+        "hash": "1240907175",
+        "path": "outstatic/content/projects/test-project.mdx"
+      },
+      "author": {
+        "name": "Jeremyn",
+        "picture": "https://avatars.githubusercontent.com/u/46276430?v=4"
+      },
+      "collection": "projects",
+      "publishedAt": "2025-04-03T18:38:19.184Z",
+      "slug": "test-project",
+      "status": "published",
+      "title": "Test Project"
     },
     {
       "__outstatic": {
@@ -56,22 +56,38 @@
     },
     {
       "__outstatic": {
-        "commit": "4894bf43052c3a63b620750e485018db83d9b7fb",
-        "hash": "1511234308",
-        "path": "outstatic/content/di-hoc-video/title.mdx"
+        "commit": "4bf047e7499c7ef81b63885879256b36e1e619c5",
+        "hash": "911263275",
+        "path": "outstatic/content/video/new-new-new.mdx"
       },
       "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+        "name": "Jeremyn",
+        "picture": "https://avatars.githubusercontent.com/u/46276430?v=4"
       },
-      "collection": "di-hoc-video",
-      "coverImage": "/images/lam-viec-5-E5MT.jpg",
-      "description": "",
-      "publishedAt": "2025-05-08T13:47:44.725Z",
-      "slug": "title",
+      "collection": "video",
+      "coverImage": "/images/bearbnb.png",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially ",
+      "publishedAt": "2025-05-02T03:03:39.080Z",
+      "slug": "new-new-new",
       "status": "published",
-      "title": "title",
-      "youtubeUrl": "https://www.youtube.com/watch?v=dvlT4fUb2xQ"
+      "title": "New new new",
+      "youtubeUrl": "https://www.youtube.com/watch?v=W-0lSiV-H7k&list=RDW-0lSiV-H7k&start_radio=1"
+    },
+    {
+      "__outstatic": {
+        "commit": "7b80983b46661642172a712c3f3e01d5ae64b580",
+        "hash": "2342225516",
+        "path": "outstatic/content/pages/home.mdx"
+      },
+      "author": {
+        "name": "Jeremyn",
+        "picture": "https://avatars.githubusercontent.com/u/46276430?v=4"
+      },
+      "collection": "pages",
+      "publishedAt": "2025-04-03T18:42:04.263Z",
+      "slug": "home",
+      "status": "published",
+      "title": "home"
     },
     {
       "__outstatic": {
@@ -93,22 +109,6 @@
     },
     {
       "__outstatic": {
-        "commit": "7b80983b46661642172a712c3f3e01d5ae64b580",
-        "hash": "2342225516",
-        "path": "outstatic/content/pages/home.mdx"
-      },
-      "author": {
-        "name": "Jeremyn",
-        "picture": "https://avatars.githubusercontent.com/u/46276430?v=4"
-      },
-      "collection": "pages",
-      "publishedAt": "2025-04-03T18:42:04.263Z",
-      "slug": "home",
-      "status": "published",
-      "title": "home"
-    },
-    {
-      "__outstatic": {
         "commit": "f5f0378281ae55ca05fb8a7683762487eafdbef9",
         "hash": "2294845688",
         "path": "outstatic/content/di-hoc/abc.mdx"
@@ -127,22 +127,22 @@
     },
     {
       "__outstatic": {
-        "commit": "4bf047e7499c7ef81b63885879256b36e1e619c5",
-        "hash": "911263275",
-        "path": "outstatic/content/video/new-new-new.mdx"
+        "commit": "4894bf43052c3a63b620750e485018db83d9b7fb",
+        "hash": "1511234308",
+        "path": "outstatic/content/di-hoc-video/title.mdx"
       },
       "author": {
-        "name": "Jeremyn",
-        "picture": "https://avatars.githubusercontent.com/u/46276430?v=4"
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
       },
-      "collection": "video",
-      "coverImage": "/images/bearbnb.png",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially ",
-      "publishedAt": "2025-05-02T03:03:39.080Z",
-      "slug": "new-new-new",
+      "collection": "di-hoc-video",
+      "coverImage": "/images/lam-viec-5-E5MT.jpg",
+      "description": "",
+      "publishedAt": "2025-05-08T13:47:44.725Z",
+      "slug": "title",
       "status": "published",
-      "title": "New new new",
-      "youtubeUrl": "https://www.youtube.com/watch?v=W-0lSiV-H7k&list=RDW-0lSiV-H7k&start_radio=1"
+      "title": "title",
+      "youtubeUrl": "https://www.youtube.com/watch?v=dvlT4fUb2xQ"
     }
   ]
 }
