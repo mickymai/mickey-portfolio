@@ -1,6 +1,6 @@
 {
-  "commit": "e69785a77aeec8da26ff4cf238bf11ed40d611b5",
-  "generated": "2025-05-08T14:05:57.012Z",
+  "commit": "cc19c35540bf851234e7b89a12ac7dc882069435",
+  "generated": "2025-05-08T14:08:54.239Z",
   "metadata": [
     {
       "__outstatic": {
@@ -182,6 +182,24 @@
       "slug": "di-lam-lai-ne",
       "status": "published",
       "title": "Di làm lại nè "
+    },
+    {
+      "__outstatic": {
+        "commit": "cc19c35540bf851234e7b89a12ac7dc882069435",
+        "hash": "2226128501",
+        "path": "outstatic/content/phong-cach-song/song-ao-ne.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "phong-cach-song",
+      "coverImage": "/images/bearbnb.png",
+      "description": "Chúng ta vẫn biết rằng, làm việc với một đoạn văn bản dễ đọc",
+      "publishedAt": "2025-05-08T14:49:52.678Z",
+      "slug": "song-ao-ne",
+      "status": "draft",
+      "title": "Song ao ne"
     }
   ]
 }
