@@ -1,7 +1,18 @@
 {
-  "commit": "84f2e60abd63c66fa01435574d0f8c46d4ba785a",
-  "generated": "2025-05-07T13:53:40.122Z",
+  "commit": "a124f68461535f5939da69c76d81348445826ad0",
+  "generated": "2025-05-08T09:17:11.746Z",
   "media": [
+    {
+      "__outstatic": {
+        "commit": "a124f68461535f5939da69c76d81348445826ad0",
+        "hash": "3201116875",
+        "path": "public/images/banner1-Q4Nj.jpg"
+      },
+      "alt": "",
+      "filename": "banner1-Q4Nj.jpg",
+      "publishedAt": "2025-05-08T09:17:11.746Z",
+      "type": "image"
+    },
     {
       "__outstatic": {
         "commit": "",
