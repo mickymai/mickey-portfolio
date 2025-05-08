@@ -1,6 +1,13 @@
 {
-  "title": "Đi Làm Video",
-  "slug": "di-lam-video",
+  "title": "di-lam-video",
   "type": "object",
-  "properties": {}
+  "properties": {
+    "youtubeUrl": {
+      "description": "Add youtube url here",
+      "required": true,
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "youtubeUrl"
+    }
+  }
 }
