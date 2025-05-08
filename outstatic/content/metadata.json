@@ -1,6 +1,6 @@
 {
-  "commit": "eeea347865caeb82cc132c5999500ac04a5f8177",
-  "generated": "2025-05-08T13:27:53.787Z",
+  "commit": "85040295a7374d5f44b82a41d89721cdf9b05b63",
+  "generated": "2025-05-08T13:28:13.866Z",
   "metadata": [
     {
       "__outstatic": {
@@ -179,6 +179,24 @@
       "slug": "new-3",
       "status": "published",
       "title": "New 3"
+    },
+    {
+      "__outstatic": {
+        "commit": "85040295a7374d5f44b82a41d89721cdf9b05b63",
+        "hash": "2178147079",
+        "path": "outstatic/content/di-hoc/new-4.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc",
+      "coverImage": "/images/lam-viec-4-k5Nj.jpg",
+      "description": "aaaa",
+      "publishedAt": "2025-05-08T14:10:00.098Z",
+      "slug": "new-4",
+      "status": "published",
+      "title": "new 4"
     }
   ]
 }
