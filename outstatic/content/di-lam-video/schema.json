@@ -8,6 +8,12 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "youtubeUrl"
+    },
+    "coverImage": {
+      "required": true,
+      "fieldType": "Image",
+      "dataType": "image",
+      "title": "coverImage"
     }
   }
 }
