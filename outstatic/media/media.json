@@ -1,6 +1,6 @@
 {
-  "commit": "311c1967bd6a6a0517253e57cabbc2153f947e1d",
-  "generated": "2025-05-08T09:18:16.048Z",
+  "commit": "366bc864b1c6ab6a51995ea994420b342d5eac01",
+  "generated": "2025-05-08T09:18:21.229Z",
   "media": [
     {
       "__outstatic": {
@@ -143,6 +143,17 @@
       "alt": "",
       "filename": "di-hoc-t-I4MD.jpg",
       "publishedAt": "2025-05-08T09:18:00.997Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "366bc864b1c6ab6a51995ea994420b342d5eac01",
+        "hash": "857361065",
+        "path": "public/images/di-tinh-nguyen-1-Y2MT.jpg"
+      },
+      "alt": "",
+      "filename": "di-tinh-nguyen-1-Y2MT.jpg",
+      "publishedAt": "2025-05-08T09:18:21.229Z",
       "type": "image"
     },
     {
