@@ -1,7 +1,23 @@
 {
-  "commit": "1cfd88e169484f0c85f3fdb87e3c538024ab6dc2",
-  "generated": "2025-05-08T13:06:44.489Z",
+  "commit": "",
+  "generated": "Thu, 08 May 2025 13:07:00 GMT",
   "metadata": [
+    {
+      "__outstatic": {
+        "commit": "a35df241cddac3b5f19b59afc61abb698cf0a6fb",
+        "hash": "1240907175",
+        "path": "outstatic/content/projects/test-project.mdx"
+      },
+      "author": {
+        "name": "Jeremyn",
+        "picture": "https://avatars.githubusercontent.com/u/46276430?v=4"
+      },
+      "collection": "projects",
+      "publishedAt": "2025-04-03T18:38:19.184Z",
+      "slug": "test-project",
+      "status": "published",
+      "title": "Test Project"
+    },
     {
       "__outstatic": {
         "commit": "08c91a59924c9605950209577e0392c2fb848a3b",
@@ -37,6 +53,43 @@
       "slug": "test-post-2",
       "status": "published",
       "title": "Test post 2"
+    },
+    {
+      "__outstatic": {
+        "commit": "4894bf43052c3a63b620750e485018db83d9b7fb",
+        "hash": "1511234308",
+        "path": "outstatic/content/di-hoc-video/title.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc-video",
+      "coverImage": "/images/lam-viec-5-E5MT.jpg",
+      "description": "",
+      "publishedAt": "2025-05-08T13:47:44.725Z",
+      "slug": "title",
+      "status": "published",
+      "title": "title",
+      "youtubeUrl": "https://www.youtube.com/watch?v=dvlT4fUb2xQ"
+    },
+    {
+      "__outstatic": {
+        "commit": "9bbe2093a664090a79093d4ca6796c4c43e51c3d",
+        "hash": "365577226",
+        "path": "outstatic/content/di-hoc/new-post-di-hoc.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc",
+      "coverImage": "/images/thuc-tap-tai-an-5-c3MT.jpg",
+      "description": "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "publishedAt": "2025-05-08T13:37:33.661Z",
+      "slug": "new-post-di-hoc",
+      "status": "published",
+      "title": "New post đi học"
     },
     {
       "__outstatic": {
@@ -90,59 +143,6 @@
       "status": "published",
       "title": "New new new",
       "youtubeUrl": "https://www.youtube.com/watch?v=W-0lSiV-H7k&list=RDW-0lSiV-H7k&start_radio=1"
-    },
-    {
-      "__outstatic": {
-        "commit": "9bbe2093a664090a79093d4ca6796c4c43e51c3d",
-        "hash": "365577226",
-        "path": "outstatic/content/di-hoc/new-post-di-hoc.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-hoc",
-      "coverImage": "/images/thuc-tap-tai-an-5-c3MT.jpg",
-      "description": "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-      "publishedAt": "2025-05-08T13:37:33.661Z",
-      "slug": "new-post-di-hoc",
-      "status": "published",
-      "title": "New post đi học"
-    },
-    {
-      "__outstatic": {
-        "commit": "a35df241cddac3b5f19b59afc61abb698cf0a6fb",
-        "hash": "1240907175",
-        "path": "outstatic/content/projects/test-project.mdx"
-      },
-      "author": {
-        "name": "Jeremyn",
-        "picture": "https://avatars.githubusercontent.com/u/46276430?v=4"
-      },
-      "collection": "projects",
-      "publishedAt": "2025-04-03T18:38:19.184Z",
-      "slug": "test-project",
-      "status": "published",
-      "title": "Test Project"
-    },
-    {
-      "__outstatic": {
-        "commit": "1cfd88e169484f0c85f3fdb87e3c538024ab6dc2",
-        "hash": "1511234308",
-        "path": "outstatic/content/di-hoc-video/title.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-hoc-video",
-      "coverImage": "/images/lam-viec-5-E5MT.jpg",
-      "description": "",
-      "publishedAt": "2025-05-08T13:47:44.725Z",
-      "slug": "title",
-      "status": "published",
-      "title": "title",
-      "youtubeUrl": "https://www.youtube.com/watch?v=dvlT4fUb2xQ"
     }
   ]
 }
