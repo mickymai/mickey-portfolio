@@ -1,6 +1,6 @@
 {
-  "commit": "5fe76d421d544c8612743dc003bbfa02b19157b6",
-  "generated": "2025-05-08T09:18:29.533Z",
+  "commit": "bc935336ade4694c38244d28f156c7cb0be0d85f",
+  "generated": "2025-05-08T09:18:37.041Z",
   "media": [
     {
       "__outstatic": {
@@ -33,6 +33,17 @@
       "alt": "",
       "filename": "-i-tinh-nguyen-4-YyMD.jpg",
       "publishedAt": "2025-05-08T09:18:29.533Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "bc935336ade4694c38244d28f156c7cb0be0d85f",
+        "hash": "2964046288",
+        "path": "public/images/-i-tinh-nguyen-5-YxNj.jpg"
+      },
+      "alt": "",
+      "filename": "-i-tinh-nguyen-5-YxNj.jpg",
+      "publishedAt": "2025-05-08T09:18:37.041Z",
       "type": "image"
     },
     {
