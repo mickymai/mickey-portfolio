@@ -1,6 +1,6 @@
 {
-  "commit": "92b59062211e6a21830338a2dc202326b49ce083",
-  "generated": "2025-05-08T14:09:32.313Z",
+  "commit": "4271d2310bb4769ace9103dcebb3f1f9cabe3804",
+  "generated": "2025-05-08T14:13:15.485Z",
   "metadata": [
     {
       "__outstatic": {
@@ -200,6 +200,25 @@
       "slug": "song-ao-ne",
       "status": "published",
       "title": "Song ao ne"
+    },
+    {
+      "__outstatic": {
+        "commit": "4271d2310bb4769ace9103dcebb3f1f9cabe3804",
+        "hash": "457912828",
+        "path": "outstatic/content/phong-cach-song-video/bi-quyet-giu-chong.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "phong-cach-song-video",
+      "coverImage": "/images/couple-pizza.png",
+      "description": "cùng cô tham gia khóa học giữ chồng nhé! ",
+      "publishedAt": "2025-05-08T14:53:26.479Z",
+      "slug": "bi-quyet-giu-chong",
+      "status": "published",
+      "title": "Bí quyết giữ chồng",
+      "youtubeUrl": "https://www.youtube.com/watch?v=_UF62YbB0sE"
     }
   ]
 }
