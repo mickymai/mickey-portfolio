@@ -1,6 +1,6 @@
 {
-  "commit": "366bc864b1c6ab6a51995ea994420b342d5eac01",
-  "generated": "2025-05-08T09:18:21.229Z",
+  "commit": "5fe76d421d544c8612743dc003bbfa02b19157b6",
+  "generated": "2025-05-08T09:18:29.533Z",
   "media": [
     {
       "__outstatic": {
@@ -22,6 +22,17 @@
       "alt": "",
       "filename": "-i-thuc-tap-3-UzNj.jpg",
       "publishedAt": "2025-05-08T09:18:16.048Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "5fe76d421d544c8612743dc003bbfa02b19157b6",
+        "hash": "1996612187",
+        "path": "public/images/-i-tinh-nguyen-4-YyMD.jpg"
+      },
+      "alt": "",
+      "filename": "-i-tinh-nguyen-4-YyMD.jpg",
+      "publishedAt": "2025-05-08T09:18:29.533Z",
       "type": "image"
     },
     {
