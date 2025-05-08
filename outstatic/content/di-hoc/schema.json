@@ -1,6 +1,12 @@
 {
-  "title": "Đi học",
-  "slug": "di-hoc",
+  "title": "di-hoc",
   "type": "object",
-  "properties": {}
+  "properties": {
+    "description": {
+      "required": true,
+      "fieldType": "Text",
+      "dataType": "string",
+      "title": "description"
+    }
+  }
 }
