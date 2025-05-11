@@ -1,7 +1,6 @@
 import Layout from '@/components/Layout'
 import {load} from 'outstatic/server'
 import ContentGrid from '@/components/ContentGrid'
-import markdownToHtml from '@/lib/markdownToHtml'
 import Header from "@/components/Header";
 import ImageSlider from "@/components/ImageSlider";
 
@@ -37,9 +36,9 @@ export default async function Index() {
                         <br/>
                         Bên cạnh công việc và học tập, tôi yêu thích <strong>du lịch, khám phá những nền văn hóa mới</strong> và luôn tìm cách cân bằng giữa sự nghiệp và cuộc sống. Với tôi, mỗi trải nghiệm đều là một cơ hội để phát triển và đóng góp nhiều hơn cho cộng đồng.
                     </p>
-                    <button className="font-bold border rounded-4xl p-2 text-white bg-black w-full hover:cursor-pointer">
+                    <a href="https://www.facebook.com/mickymhh" className="font-bold border rounded-4xl p-2 text-white bg-black w-full hover:cursor-pointer text-center" target="_blank">
                         Hành trình của tôi
-                    </button>
+                    </a>
                 </div>
             </div>
             <div className="max-w-7xl mx-auto md:pt-40 md:px-0 px-8 pt-10" id="di-hoc">
@@ -60,7 +59,7 @@ export default async function Index() {
                     />
                 )}
             </div>
-            <div className="max-w-7xl mx-auto pt-40" id="di-lam">
+            <div className="max-w-7xl mx-auto md:pt-40 md:px-0 px-8 pt-10" id="di-lam">
                 {diLamPosts.length > 0 && (
                     <ContentGrid
                         title="#Micky đi làm"
@@ -78,7 +77,7 @@ export default async function Index() {
                     />
                 )}
             </div>
-            <div className="max-w-7xl mx-auto pt-40" id="di-du-lich">
+            <div className="max-w-7xl mx-auto md:pt-40 md:px-0 px-8 pt-10" id="di-du-lich">
                 {diDuLichPosts.length > 0 && (
                     <ContentGrid
                         title="#Micky đi du lịch"
@@ -96,7 +95,7 @@ export default async function Index() {
                     />
                 )}
             </div>
-            <div className="max-w-7xl mx-auto pt-40" id="phong-cach-song">
+            <div className="max-w-7xl mx-auto md:pt-40 md:px-0 px-8 pt-10" id="phong-cach-song">
                 {phongCachSongPosts.length > 0 && (
                     <ContentGrid
                         title="#Phong cách sống"

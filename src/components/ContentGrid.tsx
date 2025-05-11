@@ -55,12 +55,12 @@ const ContentGrid = ({
                         <Link key={item.slug}
                               href={item.youtubeUrl ?? `/${collection}/${item.slug}`} className="mr-12" target="_blank">
                             <div
-                                className="cursor-pointer shadow-[2px_2px_10px_0px_#0000001A] project-card rounded-md md:w-full scale-100 hover:scale-[1.02] active:scale-[0.97] motion-safe:transform-gpu transition duration-100 motion-reduce:hover:scale-100 hover:shadow-xs overflow-hidden">
+                                className="cursor-pointer shadow-[2px_2px_10px_0px_#0000001A] project-card md:w-full scale-100 hover:scale-[1.02] active:scale-[0.97] motion-safe:transform-gpu transition duration-100 motion-reduce:hover:scale-100 hover:shadow-xs  rounded-md">
                                 <div className="sm:mx-0">
                                     <Image
                                         src={item.coverImage ?? ''}
                                         alt={`Cover Image for ${item.title}`}
-                                        className="object-cover object-center w-full h-auto aspect-[3/2]"
+                                        className="object-cover object-center w-full h-auto aspect-[3/2] rounded-t-md"
                                         width={0}
                                         height={0}
                                         sizes="(min-width: 768px) 347px, 192px"

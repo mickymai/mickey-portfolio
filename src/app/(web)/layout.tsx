@@ -6,18 +6,18 @@ import React from "react";
 export const metadata: Metadata = {
   metadataBase: new URL('https://outstatic.com'),
   title: {
-    default: 'Outstatic',
+    default: 'Micky Mai',
     template: '%s | Outstatic'
   },
   description: 'A blog starter built with Outstatic.',
   openGraph: {
-    title: 'Outstatic - A Static Site CMS for Next.js',
+    title: 'Hành trình của Micky',
     description: 'A blog starter built with Outstatic.',
     url: absoluteUrl('/'),
-    siteName: 'Next.js',
+    siteName: 'Micky Mai',
     images: [
       {
-        url: absoluteUrl('/images/og-image.png'),
+        url: absoluteUrl('/images/Micky-black.png'),
         width: 1800,
         height: 1600
       }
@@ -26,8 +26,7 @@ export const metadata: Metadata = {
     type: 'website'
   },
   icons: {
-    icon: [{ url: '/favicon/favicon-32x32.png' }],
-    apple: [{ url: '/favicon/apple-touch-icon.png' }]
+    icon: [{ url: '/images/Micky-black.png' }]
   }
 }
 
@@ -40,6 +39,7 @@ export default function RootLayout({
     <html lang="en">
       <body>
       {children}
+      <script src="https://cdn.jsdelivr.net/npm/flowbite@3.1.2/dist/flowbite.min.js"></script>
       </body>
     </html>
   )
