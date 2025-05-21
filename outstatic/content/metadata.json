@@ -1,6 +1,6 @@
 {
-  "commit": "3292bffc4e8c072f03bc12ec6dda4cdbcb97cee1",
-  "generated": "2025-05-21T13:57:32.961Z",
+  "commit": "a32014f7b2a41b5eb50a326b98d7115ca07dc5dc",
+  "generated": "2025-05-21T13:59:10.975Z",
   "metadata": [
     {
       "__outstatic": {
@@ -333,6 +333,25 @@
       "status": "published",
       "title": "Viết bài luận xin học bổng theo phương pháp S.T.A.R | Học bổng AAS",
       "youtubeUrl": "https://youtu.be/dhTn8yLhblg?si=YRCLTRmJvkS_4MPS"
+    },
+    {
+      "__outstatic": {
+        "commit": "a32014f7b2a41b5eb50a326b98d7115ca07dc5dc",
+        "hash": "1364602313",
+        "path": "outstatic/content/di-hoc-video/nhung-loi-sai-pho-bien-khien-bai-luan-xin-hoc-bong-cua-ban-bi-danh-rot.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc-video",
+      "coverImage": "/images/nhung-loi-sai-pho-bien-khien-bai-luan-xin-hoc-bong-bi-danh-rot-MwOT.png",
+      "description": "",
+      "publishedAt": "2025-05-21T14:40:06.854Z",
+      "slug": "nhung-loi-sai-pho-bien-khien-bai-luan-xin-hoc-bong-cua-ban-bi-danh-rot",
+      "status": "published",
+      "title": "Những lỗi sai phổ biến khiến bài luận xin học bổng của bạn bị đánh rớt",
+      "youtubeUrl": "https://youtu.be/sjhydRr2lG8?si=gN9QBOHL_c-zsZMW"
     }
   ]
 }
