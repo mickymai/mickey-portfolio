@@ -1,6 +1,6 @@
 {
-  "commit": "ec6c9b4a70ccfe7b4de494d6aa5d9820757a07ea",
-  "generated": "2025-05-21T13:40:10.238Z",
+  "commit": "864ca3e170c0db11c6631668bdb921240d58143b",
+  "generated": "2025-05-21T13:44:16.043Z",
   "media": [
     {
       "__outstatic": {
@@ -187,6 +187,17 @@
       "alt": "",
       "filename": "di-tinh-nguyen-1-Y2MT.jpg",
       "publishedAt": "2025-05-08T09:18:21.229Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "864ca3e170c0db11c6631668bdb921240d58143b",
+        "hash": "2448768727",
+        "path": "public/images/du-ho-c-co--pha-i-la--con--u-o--ng-duy-nha--t--e---tha-nh-co-ng--IzMz.jpg"
+      },
+      "alt": "",
+      "filename": "du-ho-c-co--pha-i-la--con--u-o--ng-duy-nha--t--e---tha-nh-co-ng--IzMz.jpg",
+      "publishedAt": "2025-05-21T13:44:16.043Z",
       "type": "image"
     },
     {
