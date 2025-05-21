@@ -1,6 +1,6 @@
 {
-  "commit": "3022b0b38b523ab28cb745b75ddfb96cab165fe3",
-  "generated": "2025-05-21T13:49:58.233Z",
+  "commit": "30151e5eec79e246651129465090afda88d23f01",
+  "generated": "2025-05-21T13:53:45.425Z",
   "metadata": [
     {
       "__outstatic": {
@@ -295,6 +295,25 @@
       "status": "published",
       "title": "Đừng nộp học bổng nếu chưa biết 9 loại giấy tờ quan trọng này!",
       "youtubeUrl": "https://youtu.be/c44K8eh3CVs?si=Q-PO7Fc6RP48Nh82"
+    },
+    {
+      "__outstatic": {
+        "commit": "30151e5eec79e246651129465090afda88d23f01",
+        "hash": "2740117119",
+        "path": "outstatic/content/di-hoc-video/loi-khuyen-cho-nhung-ai-muon-du-hoc-bang-hoc-bong-tu-nguoi-co-hoc-bong-chinh-phu-uc.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc-video",
+      "coverImage": "/images/1-g1OD.jpg",
+      "description": "",
+      "publishedAt": "2025-05-21T14:32:13.831Z",
+      "slug": "loi-khuyen-cho-nhung-ai-muon-du-hoc-bang-hoc-bong-tu-nguoi-co-hoc-bong-chinh-phu-uc",
+      "status": "published",
+      "title": "Lời khuyên cho những ai muốn du học bằng học bổng | Từ người có học bổng chính phủ Úc",
+      "youtubeUrl": "https://youtu.be/s_-kUVYQivQ?si=03qaJJLHs_PZ0zC9"
     }
   ]
 }
