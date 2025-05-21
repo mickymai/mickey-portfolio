@@ -1,6 +1,6 @@
 {
-  "commit": "abf49d088e8148c3ddeaf4823fd2cf7cadb75458",
-  "generated": "2025-05-08T09:21:22.408Z",
+  "commit": "ab6a13d9a82386c7d37ae5149cc3f4fc2d0b0252",
+  "generated": "2025-05-21T13:33:41.146Z",
   "media": [
     {
       "__outstatic": {
@@ -297,6 +297,17 @@
       "alt": "",
       "filename": "lam-viec-A5Nz.jpg",
       "publishedAt": "2025-05-08T09:20:24.261Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "ab6a13d9a82386c7d37ae5149cc3f4fc2d0b0252",
+        "hash": "1178399659",
+        "path": "public/images/minh-duoc-moi-lam-mc-cho-buoi-trao-bang-hoc-bong-chinh-phu-uc-ntn-Q1OT.png"
+      },
+      "alt": "",
+      "filename": "minh-duoc-moi-lam-mc-cho-buoi-trao-bang-hoc-bong-chinh-phu-uc-ntn-Q1OT.png",
+      "publishedAt": "2025-05-21T13:33:41.146Z",
       "type": "image"
     },
     {
