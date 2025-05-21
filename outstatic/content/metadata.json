@@ -1,6 +1,6 @@
 {
-  "commit": "4271d2310bb4769ace9103dcebb3f1f9cabe3804",
-  "generated": "2025-05-08T14:13:15.485Z",
+  "commit": "70ecfa42d5584eb0edf383cfc8824731114cab7e",
+  "generated": "2025-05-21T13:35:10.311Z",
   "metadata": [
     {
       "__outstatic": {
@@ -219,6 +219,25 @@
       "status": "published",
       "title": "Bí quyết giữ chồng",
       "youtubeUrl": "https://www.youtube.com/watch?v=_UF62YbB0sE"
+    },
+    {
+      "__outstatic": {
+        "commit": "70ecfa42d5584eb0edf383cfc8824731114cab7e",
+        "hash": "1355512749",
+        "path": "outstatic/content/di-hoc-video/minh-duoc-moi-lam-mc-cho-buoi-trao-bang-danh-du-hoc-bong-chinh-phu-australia-hoc-bong-aas-nhu-the-nao.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc-video",
+      "coverImage": "/images/minh-duoc-moi-lam-mc-cho-buoi-trao-bang-hoc-bong-chinh-phu-uc-ntn-Q1OT.png",
+      "description": "Mình được mời làm MC cho buổi trao bằng danh dự học bổng chính phủ Australia (học bổng AAS) như thế nào?",
+      "publishedAt": "2025-05-21T14:12:26.713Z",
+      "slug": "minh-duoc-moi-lam-mc-cho-buoi-trao-bang-danh-du-hoc-bong-chinh-phu-australia-hoc-bong-aas-nhu-the-nao",
+      "status": "published",
+      "title": "Mình được mời làm MC cho buổi trao bằng danh dự học bổng chính phủ Australia (học bổng AAS) như thế nào?",
+      "youtubeUrl": "https://youtu.be/-JEP4uQi87A?si=fTYXzTItnns1b1mv"
     }
   ]
 }
