@@ -1,6 +1,6 @@
 {
-  "commit": "30151e5eec79e246651129465090afda88d23f01",
-  "generated": "2025-05-21T13:53:45.425Z",
+  "commit": "3292bffc4e8c072f03bc12ec6dda4cdbcb97cee1",
+  "generated": "2025-05-21T13:57:32.961Z",
   "metadata": [
     {
       "__outstatic": {
@@ -314,6 +314,25 @@
       "status": "published",
       "title": "Lời khuyên cho những ai muốn du học bằng học bổng | Từ người có học bổng chính phủ Úc",
       "youtubeUrl": "https://youtu.be/s_-kUVYQivQ?si=03qaJJLHs_PZ0zC9"
+    },
+    {
+      "__outstatic": {
+        "commit": "3292bffc4e8c072f03bc12ec6dda4cdbcb97cee1",
+        "hash": "1130427826",
+        "path": "outstatic/content/di-hoc-video/viet-bai-luan-xin-hoc-bong-theo-phuong-phap-s.t.a.r-hoc-bong-aas.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc-video",
+      "coverImage": "/images/-cover--ca-ch-vie--t-ba-i-lua--n-theo-phuong-phap-s.t.-E3Mj.png",
+      "description": "",
+      "publishedAt": "2025-05-21T14:36:24.975Z",
+      "slug": "viet-bai-luan-xin-hoc-bong-theo-phuong-phap-s.t.a.r-hoc-bong-aas",
+      "status": "published",
+      "title": "Viết bài luận xin học bổng theo phương pháp S.T.A.R | Học bổng AAS",
+      "youtubeUrl": "https://youtu.be/dhTn8yLhblg?si=YRCLTRmJvkS_4MPS"
     }
   ]
 }
