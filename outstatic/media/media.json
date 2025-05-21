@@ -1,6 +1,6 @@
 {
-  "commit": "8757c5546810e29e640a448db024c880b422dad9",
-  "generated": "2025-05-21T13:58:55.513Z",
+  "commit": "1fba5780dd238622928eebb7520498b909b5a36a",
+  "generated": "2025-05-21T14:01:00.767Z",
   "media": [
     {
       "__outstatic": {
@@ -275,6 +275,17 @@
       "alt": "",
       "filename": "jupiter-spaceship.png",
       "publishedAt": "2025-04-03T17:52:41.257Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "1fba5780dd238622928eebb7520498b909b5a36a",
+        "hash": "855418026",
+        "path": "public/images/lam-sao-de-viet-mot-bai-luan-xin-hoc-bong-an-tuong-c2Nz.png"
+      },
+      "alt": "",
+      "filename": "lam-sao-de-viet-mot-bai-luan-xin-hoc-bong-an-tuong-c2Nz.png",
+      "publishedAt": "2025-05-21T14:01:00.767Z",
       "type": "image"
     },
     {
