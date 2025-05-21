@@ -1,6 +1,6 @@
 {
-  "commit": "54c5982247cd5729edc1bbf4855686612b93e39d",
-  "generated": "2025-05-21T13:44:34.695Z",
+  "commit": "3022b0b38b523ab28cb745b75ddfb96cab165fe3",
+  "generated": "2025-05-21T13:49:58.233Z",
   "metadata": [
     {
       "__outstatic": {
@@ -276,6 +276,25 @@
       "status": "published",
       "title": "Du học có phải là con đường duy nhất để thành công?",
       "youtubeUrl": "https://youtu.be/xcpL6-SIPEI?si=OSyiSkx5lCt0FOQG"
+    },
+    {
+      "__outstatic": {
+        "commit": "3022b0b38b523ab28cb745b75ddfb96cab165fe3",
+        "hash": "1989605042",
+        "path": "outstatic/content/di-hoc-video/dung-nop-hoc-bong-neu-chua-biet-9-loai-giay-to-quan-trong-nay.mdx"
+      },
+      "author": {
+        "name": "Micky ",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc-video",
+      "coverImage": "/images/-u--ng-no--p-xin-ho-c-bo--ng-ne--u-chu-a-bie--t-9-loa-i-gia--y-to---quan--Y2Mj.jpg",
+      "description": "",
+      "publishedAt": "2025-05-21T14:26:58.506Z",
+      "slug": "dung-nop-hoc-bong-neu-chua-biet-9-loai-giay-to-quan-trong-nay",
+      "status": "published",
+      "title": "Đừng nộp học bổng nếu chưa biết 9 loại giấy tờ quan trọng này!",
+      "youtubeUrl": "https://youtu.be/c44K8eh3CVs?si=Q-PO7Fc6RP48Nh82"
     }
   ]
 }
