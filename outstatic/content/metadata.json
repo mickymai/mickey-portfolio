@@ -1,6 +1,6 @@
 {
-  "commit": "70ecfa42d5584eb0edf383cfc8824731114cab7e",
-  "generated": "2025-05-21T13:35:10.311Z",
+  "commit": "e14368f8dd1ae19694023b64d65c170f74ddf032",
+  "generated": "2025-05-21T13:40:25.215Z",
   "metadata": [
     {
       "__outstatic": {
@@ -238,6 +238,25 @@
       "status": "published",
       "title": "Mình được mời làm MC cho buổi trao bằng danh dự học bổng chính phủ Australia (học bổng AAS) như thế nào?",
       "youtubeUrl": "https://youtu.be/-JEP4uQi87A?si=fTYXzTItnns1b1mv"
+    },
+    {
+      "__outstatic": {
+        "commit": "e14368f8dd1ae19694023b64d65c170f74ddf032",
+        "hash": "1058629681",
+        "path": "outstatic/content/di-hoc-video/micky-mai-da-dat-duoc-hoc-bong-chinh-phu-australia-nhu-the-nao-hoc-bong-aas.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc-video",
+      "coverImage": "/images/mi-nh--a---a-t-ho-c-bo--ng-chi-nh-phu--australia-nhu--the---na-o--Y4MT.jpg",
+      "description": "",
+      "publishedAt": "2025-05-21T14:19:50.813Z",
+      "slug": "micky-mai-da-dat-duoc-hoc-bong-chinh-phu-australia-nhu-the-nao-hoc-bong-aas",
+      "status": "published",
+      "title": "Micky Mai đã đạt được học bổng chính phủ Australia như thế nào? | Học bổng AAS",
+      "youtubeUrl": "https://youtu.be/f4ARd8Tfymc?si=RvgKHnBxLIIMLf4K"
     }
   ]
 }
