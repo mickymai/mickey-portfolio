@@ -1,6 +1,6 @@
 {
-  "commit": "a32014f7b2a41b5eb50a326b98d7115ca07dc5dc",
-  "generated": "2025-05-21T13:59:10.975Z",
+  "commit": "9a638bf55034250faf727cc682e22dfdcb55fad5",
+  "generated": "2025-05-21T14:01:21.577Z",
   "metadata": [
     {
       "__outstatic": {
@@ -352,6 +352,25 @@
       "status": "published",
       "title": "Những lỗi sai phổ biến khiến bài luận xin học bổng của bạn bị đánh rớt",
       "youtubeUrl": "https://youtu.be/sjhydRr2lG8?si=gN9QBOHL_c-zsZMW"
+    },
+    {
+      "__outstatic": {
+        "commit": "9a638bf55034250faf727cc682e22dfdcb55fad5",
+        "hash": "32372042",
+        "path": "outstatic/content/di-hoc-video/lam-sao-de-viet-mot-bai-luan-xin-hoc-bong-that-an-tuong-chia-se-tu-nguoi-co-hoc-bong-chinh-phu-australia-hoc-bong-aas.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc-video",
+      "coverImage": "/images/lam-sao-de-viet-mot-bai-luan-xin-hoc-bong-an-tuong-c2Nz.png",
+      "description": "",
+      "publishedAt": "2025-05-21T14:41:35.549Z",
+      "slug": "lam-sao-de-viet-mot-bai-luan-xin-hoc-bong-that-an-tuong-chia-se-tu-nguoi-co-hoc-bong-chinh-phu-australia-hoc-bong-aas",
+      "status": "published",
+      "title": "Làm sao để viết một bài luận xin học bổng thật ấn tượng - chia sẻ từ người có học bổng chính phủ Australia (học bổng AAS)",
+      "youtubeUrl": "https://youtu.be/enP1PMlSz0k?si=RlKF7BDjhuIrWxqU"
     }
   ]
 }
