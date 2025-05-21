@@ -1,7 +1,18 @@
 {
-  "commit": "4d3b7c88d4e1054e79a624a3a0e7f93e53283f8d",
-  "generated": "2025-05-21T13:53:11.856Z",
+  "commit": "1b4a0fa6da01d8208d82f973a762e5550d337164",
+  "generated": "2025-05-21T13:55:24.482Z",
   "media": [
+    {
+      "__outstatic": {
+        "commit": "1b4a0fa6da01d8208d82f973a762e5550d337164",
+        "hash": "2924993651",
+        "path": "public/images/-cover--ca-ch-vie--t-ba-i-lua--n-theo-phuong-phap-s.t.-E3Mj.png"
+      },
+      "alt": "",
+      "filename": "-cover--ca-ch-vie--t-ba-i-lua--n-theo-phuong-phap-s.t.-E3Mj.png",
+      "publishedAt": "2025-05-21T13:55:24.481Z",
+      "type": "image"
+    },
     {
       "__outstatic": {
         "commit": "8cf7383aa799942ae31b06d1140e4f0c867f66e5",
