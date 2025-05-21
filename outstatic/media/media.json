@@ -1,6 +1,6 @@
 {
-  "commit": "ab6a13d9a82386c7d37ae5149cc3f4fc2d0b0252",
-  "generated": "2025-05-21T13:33:41.146Z",
+  "commit": "ec6c9b4a70ccfe7b4de494d6aa5d9820757a07ea",
+  "generated": "2025-05-21T13:40:10.238Z",
   "media": [
     {
       "__outstatic": {
@@ -297,6 +297,17 @@
       "alt": "",
       "filename": "lam-viec-A5Nz.jpg",
       "publishedAt": "2025-05-08T09:20:24.261Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "ec6c9b4a70ccfe7b4de494d6aa5d9820757a07ea",
+        "hash": "365183511",
+        "path": "public/images/mi-nh--a---a-t-ho-c-bo--ng-chi-nh-phu--australia-nhu--the---na-o--Y4MT.jpg"
+      },
+      "alt": "",
+      "filename": "mi-nh--a---a-t-ho-c-bo--ng-chi-nh-phu--australia-nhu--the---na-o--Y4MT.jpg",
+      "publishedAt": "2025-05-21T13:40:10.237Z",
       "type": "image"
     },
     {
