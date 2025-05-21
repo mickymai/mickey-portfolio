@@ -1,6 +1,6 @@
 {
-  "commit": "1b4a0fa6da01d8208d82f973a762e5550d337164",
-  "generated": "2025-05-21T13:55:24.482Z",
+  "commit": "8757c5546810e29e640a448db024c880b422dad9",
+  "generated": "2025-05-21T13:58:55.513Z",
   "media": [
     {
       "__outstatic": {
@@ -363,6 +363,17 @@
       "alt": "",
       "filename": "minh-duoc-moi-lam-mc-cho-buoi-trao-bang-hoc-bong-chinh-phu-uc-ntn-Q1OT.png",
       "publishedAt": "2025-05-21T13:33:41.146Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "8757c5546810e29e640a448db024c880b422dad9",
+        "hash": "1457076900",
+        "path": "public/images/nhung-loi-sai-pho-bien-khien-bai-luan-xin-hoc-bong-bi-danh-rot-MwOT.png"
+      },
+      "alt": "",
+      "filename": "nhung-loi-sai-pho-bien-khien-bai-luan-xin-hoc-bong-bi-danh-rot-MwOT.png",
+      "publishedAt": "2025-05-21T13:58:55.513Z",
       "type": "image"
     },
     {
