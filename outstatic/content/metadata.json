@@ -1,6 +1,6 @@
 {
-  "commit": "cfd3c6c0a934b68a18df522125ae9e4ac2e514dd",
-  "generated": "2025-05-31T05:30:13.666Z",
+  "commit": "66ab92ff9d6af2b5934c8c3bdfb43ebc509f243a",
+  "generated": "2025-05-31T05:39:05.226Z",
   "metadata": [
     {
       "__outstatic": {
@@ -447,6 +447,25 @@
       "status": "published",
       "title": "Những câu hỏi trước khi bắt đầu săn học bổng | Học bổng chính phủ | Học bổng trường đại học",
       "youtubeUrl": "https://www.youtube.com/watch?v=cacv4NHtOA0&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=12"
+    },
+    {
+      "__outstatic": {
+        "commit": "66ab92ff9d6af2b5934c8c3bdfb43ebc509f243a",
+        "hash": "2903363543",
+        "path": "outstatic/content/di-hoc-video/rmit-lam-gi-co-campus-o-ha-noi-hoc-bong-aas.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc-video",
+      "coverImage": "/images/la-m-gi--co--campus-rmit-o---ha--no--i-MwOD.png",
+      "description": "Hãy cùng theo chân mình và học bổng chính phủ Úc AAS khám phá campus RMIT Hà Nội nhé cả nhà!",
+      "publishedAt": "2025-05-31T06:15:30.092Z",
+      "slug": "rmit-lam-gi-co-campus-o-ha-noi-hoc-bong-aas",
+      "status": "published",
+      "title": "RMIT làm gì có campus ở Hà Nội? | Học bổng AAS",
+      "youtubeUrl": "https://www.youtube.com/watch?v=YszagBCfyAk&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=13"
     }
   ]
 }
