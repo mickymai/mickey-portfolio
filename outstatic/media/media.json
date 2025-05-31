@@ -1,6 +1,6 @@
 {
-  "commit": "8b47fa332eb417968daf214c30b4180eed2a2db8",
-  "generated": "2025-05-31T05:42:01.373Z",
+  "commit": "49141cb7534130ffd2f8d61e9d5cab5393546821",
+  "generated": "2025-05-31T05:47:33.517Z",
   "media": [
     {
       "__outstatic": {
@@ -319,6 +319,17 @@
       "alt": "",
       "filename": "la-m-gi--co--campus-rmit-o---ha--no--i-MwOD.png",
       "publishedAt": "2025-05-31T05:38:44.500Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "49141cb7534130ffd2f8d61e9d5cab5393546821",
+        "hash": "2073812324",
+        "path": "public/images/la-m-gi--o----a-i-ho-c-rmit-A3MD.png"
+      },
+      "alt": "",
+      "filename": "la-m-gi--o----a-i-ho-c-rmit-A3MD.png",
+      "publishedAt": "2025-05-31T05:47:33.517Z",
       "type": "image"
     },
     {
