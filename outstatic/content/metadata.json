@@ -1,6 +1,6 @@
 {
-  "commit": "53381d57a6c6d613be66d708ff3209c18c26243e",
-  "generated": "2025-05-31T06:11:40.361Z",
+  "commit": "8229be7b7545bc0035c356c5d53f90fff617935d",
+  "generated": "2025-05-31T06:13:23.237Z",
   "metadata": [
     {
       "__outstatic": {
@@ -637,6 +637,25 @@
       "status": "published",
       "title": "Đây là những tính cách mình muốn học hỏi",
       "youtubeUrl": "https://www.youtube.com/watch?v=QAKXCL6WiK8&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=25"
+    },
+    {
+      "__outstatic": {
+        "commit": "8229be7b7545bc0035c356c5d53f90fff617935d",
+        "hash": "1597650914",
+        "path": "outstatic/content/di-hoc-video/mot-ngay-thuc-tap-tai-nuoc-ngoai-thuc-tap-an-do-ahmedabad-gujarat.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc-video",
+      "coverImage": "/images/mo--t-nga-y-thu--c-ta--p-ta-i-nu-o--c-ngoa-i---thu--c-ta--p-a--n--o-----ahmedabad--gujarat-kyNj.png",
+      "description": "Đây là video ghi lại một ngày mình đi quay hình cho sản phẩm của một start-up mà mình cộng tác trong viện Incubation của mình tại thành phố Ahmedabad, Gujarat, Ấn Độ. Các bạn thấy nó có thú vị không? Hãy comment và cho mình một subscribe nhé. \nCameramen: Priya Patel.",
+      "publishedAt": "2025-05-31T06:54:26.700Z",
+      "slug": "mot-ngay-thuc-tap-tai-nuoc-ngoai-thuc-tap-an-do-ahmedabad-gujarat",
+      "status": "published",
+      "title": "Một ngày thực tập tại nước ngoài | Thực tập Ấn Độ | Ahmedabad, Gujarat",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4GCIEuuuMUI&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=26"
     }
   ]
 }
