@@ -1,6 +1,6 @@
 {
-  "commit": "d6637b11492cb30f70c35e1d8d9a71dfbeb564cb",
-  "generated": "2025-05-31T06:03:39.528Z",
+  "commit": "09a0c856a353672e4cffe90ff729a7127e7d40ea",
+  "generated": "2025-05-31T06:06:40.122Z",
   "media": [
     {
       "__outstatic": {
@@ -33,6 +33,17 @@
       "alt": "",
       "filename": "-i-hoc-MzMD.jpg",
       "publishedAt": "2025-05-08T09:18:09.906Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "09a0c856a353672e4cffe90ff729a7127e7d40ea",
+        "hash": "2338563045",
+        "path": "public/images/-i-nu-o--c-ngoa-i-ca--n-chua--n-bi--nhu--ng-thu---na-y-ne----kinh-nghie--m--i-nu-o--c-ngoa--QzMT.png"
+      },
+      "alt": "",
+      "filename": "-i-nu-o--c-ngoa-i-ca--n-chua--n-bi--nhu--ng-thu---na-y-ne----kinh-nghie--m--i-nu-o--c-ngoa--QzMT.png",
+      "publishedAt": "2025-05-31T06:06:40.122Z",
       "type": "image"
     },
     {
