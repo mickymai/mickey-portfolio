@@ -1,6 +1,6 @@
 {
-  "commit": "643defd43afa87cfd1ea29c3e4f962367f385486",
-  "generated": "2025-05-31T06:15:46.743Z",
+  "commit": "2d64564886e97f001d203ee42c2adb91ba9261af",
+  "generated": "2025-05-31T06:16:59.240Z",
   "metadata": [
     {
       "__outstatic": {
@@ -675,6 +675,25 @@
       "status": "published",
       "title": "Kinh nghiệm phỏng vấn với nhà tuyển dụng nước ngoài | Thực tập nước ngoài",
       "youtubeUrl": "https://www.youtube.com/watch?v=mV5pVJ2n5yY&list=PLEE9tvaVbZbd1bSoKEhaRYaHP3nHNFbXU"
+    },
+    {
+      "__outstatic": {
+        "commit": "2d64564886e97f001d203ee42c2adb91ba9261af",
+        "hash": "3393930283",
+        "path": "outstatic/content/di-lam-video/di-nuoc-ngoai-can-chuan-bi-nhung-thu-nay-ne-kinh-nghiem-di-nuoc-ngoai.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-lam-video",
+      "coverImage": "/images/-i-nu-o--c-ngoa-i-ca--n-chua--n-bi--nhu--ng-thu---na-y-ne----kinh-nghie--m--i-nu-o--c-ngoa--QzMT.png",
+      "description": "Túm cái váy lại, thì có những điều trên sẽ thật cần thiết cho các bạn nếu như bạn đang chuẩn bị nước ngoài, đi du học nước ngoài. bên dưới là link checklist cho mọi người thuận tiện sắp xếp đồ đạc của mình nha.",
+      "publishedAt": "2025-05-31T06:58:00.856Z",
+      "slug": "di-nuoc-ngoai-can-chuan-bi-nhung-thu-nay-ne-kinh-nghiem-di-nuoc-ngoai",
+      "status": "published",
+      "title": "Đi nước ngoài cần chuẩn bị những thứ này nè | kinh nghiệm đi nước ngoài",
+      "youtubeUrl": "https://www.youtube.com/watch?v=YSHP9vQWxTg&list=PLEE9tvaVbZbd1bSoKEhaRYaHP3nHNFbXU&index=2"
     }
   ]
 }
