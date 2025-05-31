@@ -1,6 +1,6 @@
 {
-  "commit": "f61d14fbd101f9a2e97287db819559a715e298ea",
-  "generated": "2025-05-31T05:50:20.402Z",
+  "commit": "310fb21992eaae7af04fe36e28ce5135b2fb893c",
+  "generated": "2025-05-31T05:56:32.455Z",
   "metadata": [
     {
       "__outstatic": {
@@ -507,25 +507,6 @@
     },
     {
       "__outstatic": {
-        "commit": "c8e58d84d4682cfd1a46bc5846130a5b35b38dad",
-        "hash": "3789748039",
-        "path": "outstatic/content/di-hoc-video/rmit-vao-ngay-mua-8-chuyen-thi-cu-va-di-choi-halloween-trai-nghiem-cung-aas-scholarship.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-hoc-video",
-      "coverImage": "/images/la-m-gi--o----a-i-ho-c-rmit-A3MD.png",
-      "description": "RMIT trong ngày mưa cùng 8 câu chuyện thi cử và Halloween thú vị 🌧️🎃 – Trải nghiệm học bổng AAS không chỉ là học, mà còn là những khoảnh khắc đáng nhớ!  #AAS #scholarships #rmit",
-      "publishedAt": "2025-05-31T06:28:47.374Z",
-      "slug": "rmit-vao-ngay-mua-8-chuyen-thi-cu-va-di-choi-halloween-trai-nghiem-cung-aas-scholarship",
-      "status": "published",
-      "title": "RMIT vào ngày mưa - 8 chuyện thi cử và đi chơi Halloween | Trải nghiệm cùng AAS Scholarship",
-      "youtubeUrl": "https://www.youtube.com/watch?v=A0NOqqtsUHU&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=16"
-    },
-    {
-      "__outstatic": {
         "commit": "f61d14fbd101f9a2e97287db819559a715e298ea",
         "hash": "286766718",
         "path": "outstatic/content/phong-cach-song-video/cac-bai-tap-co-ban-cho-nguoi-moi-bat-dau-tap-gym.mdx"
@@ -542,6 +523,25 @@
       "status": "published",
       "title": "Các bài tập cơ bản cho người mới bắt đầu tập gym",
       "youtubeUrl": "https://www.youtube.com/watch?v=7KTwIOCp0mo&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=18"
+    },
+    {
+      "__outstatic": {
+        "commit": "310fb21992eaae7af04fe36e28ce5135b2fb893c",
+        "hash": "3282905673",
+        "path": "outstatic/content/di-hoc-video/rmit-vao-ngay-mua-8-chuyen-thi-cu-va-di-choi-halloween-trai-nghiem-cung-aas-scholarship.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc-video",
+      "coverImage": "/images/rmit-va-o-nga-y-mu-a---8-chuye--n-thi-cu---va---i-cho-i-halloween-gyOT.png",
+      "description": "RMIT trong ngày mưa cùng 8 câu chuyện thi cử và Halloween thú vị 🌧️🎃 – Trải nghiệm học bổng AAS không chỉ là học, mà còn là những khoảnh khắc đáng nhớ!  #AAS #scholarships #rmit",
+      "publishedAt": "2025-05-31T06:28:47.374Z",
+      "slug": "rmit-vao-ngay-mua-8-chuyen-thi-cu-va-di-choi-halloween-trai-nghiem-cung-aas-scholarship",
+      "status": "published",
+      "title": "RMIT vào ngày mưa - 8 chuyện thi cử và đi chơi Halloween | Trải nghiệm cùng AAS Scholarship",
+      "youtubeUrl": "https://www.youtube.com/watch?v=A0NOqqtsUHU&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=16"
     }
   ]
 }
