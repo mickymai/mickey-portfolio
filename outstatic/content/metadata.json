@@ -1,6 +1,6 @@
 {
-  "commit": "c8e58d84d4682cfd1a46bc5846130a5b35b38dad",
-  "generated": "2025-05-31T05:47:55.265Z",
+  "commit": "f61d14fbd101f9a2e97287db819559a715e298ea",
+  "generated": "2025-05-31T05:50:20.402Z",
   "metadata": [
     {
       "__outstatic": {
@@ -523,6 +523,25 @@
       "status": "published",
       "title": "RMIT vào ngày mưa - 8 chuyện thi cử và đi chơi Halloween | Trải nghiệm cùng AAS Scholarship",
       "youtubeUrl": "https://www.youtube.com/watch?v=A0NOqqtsUHU&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=16"
+    },
+    {
+      "__outstatic": {
+        "commit": "f61d14fbd101f9a2e97287db819559a715e298ea",
+        "hash": "286766718",
+        "path": "outstatic/content/phong-cach-song-video/cac-bai-tap-co-ban-cho-nguoi-moi-bat-dau-tap-gym.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "phong-cach-song-video",
+      "coverImage": "/images/ca-c-ba-i-ta--p-co--ba-n-cho-ngu-o--i-mo--i-ba--t--a--u-ta--p-gym-E4ND.png",
+      "description": "Muốn trí tuệ minh mẫn, trước tiên phải có sức khoẻ dẻo dai! 💪 Đầu tư vào thể chất là đầu tư cho sự sáng suốt trong mọi quyết định. Cùng mình bắt đầu hành trình khoẻ mạnh hơn mỗi ngày nhé! 🌱 #SứcKhoẻ #Tapgym #BaitapGym",
+      "publishedAt": "2025-05-31T06:30:19.101Z",
+      "slug": "cac-bai-tap-co-ban-cho-nguoi-moi-bat-dau-tap-gym",
+      "status": "published",
+      "title": "Các bài tập cơ bản cho người mới bắt đầu tập gym",
+      "youtubeUrl": "https://www.youtube.com/watch?v=7KTwIOCp0mo&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=18"
     }
   ]
 }
