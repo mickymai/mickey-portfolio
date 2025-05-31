@@ -1,6 +1,6 @@
 {
-  "commit": "4dced047db8ab138d326d824dfc88b56fd3c0a99",
-  "generated": "2025-05-31T05:40:58.788Z",
+  "commit": "df8a26f982903d08839a8727eeaf421c246c098b",
+  "generated": "2025-05-31T05:42:24.500Z",
   "metadata": [
     {
       "__outstatic": {
@@ -485,6 +485,25 @@
       "status": "published",
       "title": "Cùng các thành viên học bổng AAS đi Văn Miếu Quốc Tử Giám",
       "youtubeUrl": "https://www.youtube.com/watch?v=8gW7uebJUzI&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=14"
+    },
+    {
+      "__outstatic": {
+        "commit": "df8a26f982903d08839a8727eeaf421c246c098b",
+        "hash": "2995481602",
+        "path": "outstatic/content/di-hoc-video/carnival-day-rmit-2024-di-dao-rmit-va-di-chua-cau-qua-mon-cau-duyen-cho-ban-claire-hien.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc-video",
+      "coverImage": "/images/carnival-day-rmit-2024---i-da-o-rmit-va---i-chu-a-ca--u-qua-mo-n---ca--u-duye-n-cho-ba-n-claire--hie--n--AyNT.png",
+      "description": "🌈 Carnival Day RMIT 2024 – Khám phá RMIT cùng bạn bè, rồi ghé chùa cầu may mắn cho những hành trình mới! 🍀 Cầu qua môn thành công và cầu duyên cho bạn Claire đáng yêu, mong rằng điều tốt đẹp sẽ đến với tất cả chúng ta! ✨🙏",
+      "publishedAt": "2025-05-31T06:23:19.184Z",
+      "slug": "carnival-day-rmit-2024-di-dao-rmit-va-di-chua-cau-qua-mon-cau-duyen-cho-ban-claire-hien",
+      "status": "published",
+      "title": "Carnival day RMIT 2024, đi dạo RMIT và đi chùa cầu qua môn + cầu duyên cho bạn Claire (Hiển)",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4HBtps2np8o&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=15"
     }
   ]
 }
