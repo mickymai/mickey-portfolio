@@ -1,6 +1,6 @@
 {
-  "commit": "16c5c5a16ed369242c64ab7d54993fd281148a0a",
-  "generated": "2025-05-31T06:07:06.441Z",
+  "commit": "dfd1887e02f5c061ad7bb170c893d5a30f075c3d",
+  "generated": "2025-05-31T06:09:27.744Z",
   "metadata": [
     {
       "__outstatic": {
@@ -599,6 +599,25 @@
       "status": "published",
       "title": "Đi nước ngoài cần chuẩn bị những thứ này nè | kinh nghiệm đi nước ngoài",
       "youtubeUrl": "https://www.youtube.com/watch?v=YSHP9vQWxTg&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=22"
+    },
+    {
+      "__outstatic": {
+        "commit": "dfd1887e02f5c061ad7bb170c893d5a30f075c3d",
+        "hash": "1101208720",
+        "path": "outstatic/content/di-hoc-video/mot-ngay-thuc-tap-ban-ron-o-an-do-nam-2020-thuc-tap-nuoc-ngoai-incredible-india.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc-video",
+      "coverImage": "/images/mo--t-nga-y-thu--c-ta--p-ba--n-ro--n-o---a--n--o---IyNj.png",
+      "description": "Cùng theo chân mình một ngày từ sáng đến tối của một thực tập sinh nước ngoài nha, rất tiết mấy video hình đồ ăn mình quên ghi lại, do bận ăn uống dữ quá, mình sẽ xin video và hình của bạn mình và làm một video riêng về ẩm thực Ấn Độ nhe (nếu mình xin được) ^^.  Nhớ cho mình 1 like và subcribe nha.  Follow mình trên instagram nữa: @Wonder_Micky  Cám ơn mọi người rất nhiều !!!",
+      "publishedAt": "2025-05-31T06:50:00.831Z",
+      "slug": "mot-ngay-thuc-tap-ban-ron-o-an-do-nam-2020-thuc-tap-nuoc-ngoai-incredible-india",
+      "status": "published",
+      "title": "Một ngày thực tập bận rộn ở Ấn Độ | năm 2020 | Thực tập nước ngoài | Incredible India",
+      "youtubeUrl": "https://www.youtube.com/watch?v=kRMeWn4W5Lw&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=24"
     }
   ]
 }
