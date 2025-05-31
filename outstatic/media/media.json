@@ -1,6 +1,6 @@
 {
-  "commit": "6df25c86100902158a732b15a4c12e3129877858",
-  "generated": "2025-05-31T06:10:54.088Z",
+  "commit": "9a0e14b629fda46d9cc95b83cc258098c4fddf62",
+  "generated": "2025-05-31T06:12:37.089Z",
   "media": [
     {
       "__outstatic": {
@@ -506,6 +506,17 @@
       "alt": "",
       "filename": "mo--t-nga-y-thu--c-ta--p-ba--n-ro--n-o---a--n--o---IyNj.png",
       "publishedAt": "2025-05-31T06:09:05.467Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "9a0e14b629fda46d9cc95b83cc258098c4fddf62",
+        "hash": "3877607367",
+        "path": "public/images/mo--t-nga-y-thu--c-ta--p-ta-i-nu-o--c-ngoa-i---thu--c-ta--p-a--n--o-----ahmedabad--gujarat-kyNj.png"
+      },
+      "alt": "",
+      "filename": "mo--t-nga-y-thu--c-ta--p-ta-i-nu-o--c-ngoa-i---thu--c-ta--p-a--n--o-----ahmedabad--gujarat-kyNj.png",
+      "publishedAt": "2025-05-31T06:12:37.089Z",
       "type": "image"
     },
     {
