@@ -1,6 +1,6 @@
 {
-  "commit": "b7800508f04d65c7f8d3ea8a2c31f7e9ef21c93e",
-  "generated": "2025-05-31T03:37:45.282Z",
+  "commit": "daf8bc60fc73145438df59fb449f4120f3b4b9e0",
+  "generated": "2025-05-31T03:41:03.067Z",
   "metadata": [
     {
       "__outstatic": {
@@ -409,6 +409,25 @@
       "status": "published",
       "title": "Mất bao lâu để săn học bổng thành công? | Săn học bổng chính phủ cùng Micky",
       "youtubeUrl": "https://www.youtube.com/watch?v=08QRSlNYwdU&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=10"
+    },
+    {
+      "__outstatic": {
+        "commit": "daf8bc60fc73145438df59fb449f4120f3b4b9e0",
+        "hash": "2675071244",
+        "path": "outstatic/content/di-hoc-video/tim-hieu-ve-cac-khu-vuc-cung-cap-hoc-bong-san-hoc-bong-hoc-bong-chinh-phu-hoc-bong-truong.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc-video",
+      "coverImage": "/images/ti-m-hie--u-ve---ca-c-khu-vu--c-cung-ca--p-ho-c-bo--ng---sa-n-ho-c-bo--ng---ho-c-bo--ng-chi-nh-phu----ho-c-bo--ng-tru-o--ng-Q2MD.png",
+      "description": "Mình là Micky Mai, người đã nhận được học bổng chính phủ Úc (học bổng AAS) vào năm 2024. Với những kiến thức, kinh nghiệm và trải nghiệm mình có, mình hy vọng đây là một video hữu ích cho các bạn trẻ đang có ước mơ du học bằng học bổng giống mình.",
+      "publishedAt": "2025-05-31T04:19:57.825Z",
+      "slug": "tim-hieu-ve-cac-khu-vuc-cung-cap-hoc-bong-san-hoc-bong-hoc-bong-chinh-phu-hoc-bong-truong",
+      "status": "draft",
+      "title": "Tìm hiểu về các khu vực cung cấp học bổng | Săn học bổng | Học bổng Chính Phủ | Học Bổng Trường",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Tj-UsLBf26U&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=11"
     }
   ]
 }
