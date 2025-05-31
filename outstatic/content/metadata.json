@@ -1,6 +1,6 @@
 {
-  "commit": "66ab92ff9d6af2b5934c8c3bdfb43ebc509f243a",
-  "generated": "2025-05-31T05:39:05.226Z",
+  "commit": "4dced047db8ab138d326d824dfc88b56fd3c0a99",
+  "generated": "2025-05-31T05:40:58.788Z",
   "metadata": [
     {
       "__outstatic": {
@@ -466,6 +466,25 @@
       "status": "published",
       "title": "RMIT làm gì có campus ở Hà Nội? | Học bổng AAS",
       "youtubeUrl": "https://www.youtube.com/watch?v=YszagBCfyAk&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=13"
+    },
+    {
+      "__outstatic": {
+        "commit": "4dced047db8ab138d326d824dfc88b56fd3c0a99",
+        "hash": "1128354731",
+        "path": "outstatic/content/di-du-lich-video/cung-cac-thanh-vien-hoc-bong-aas-di-van-mieu-quoc-tu-giam.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-du-lich-video",
+      "coverImage": "/images/cu-ng-ca-c-tha-nh-vie-n-ho-c-bo--ng-aas--i-va-n-mie--u-quo--c-tu---gia-m-UwNz.png",
+      "description": "🎓🇦🇺 Một ngày thật đặc biệt cùng các “nhà học giả tương lai” tại Văn Miếu Quốc Tử Giám – nơi khởi nguồn tri thức Việt Nam!\n📍Hành trình kết nối – khám phá văn hóa – và truyền cảm hứng cùng các thành viên học bổng AAS!\n#AAS2024 #VanMieu #ScholarshipJourney #VietnamAustralia #StudyWithPurpose",
+      "publishedAt": "2025-05-31T06:21:26.713Z",
+      "slug": "cung-cac-thanh-vien-hoc-bong-aas-di-van-mieu-quoc-tu-giam",
+      "status": "published",
+      "title": "Cùng các thành viên học bổng AAS đi Văn Miếu Quốc Tử Giám",
+      "youtubeUrl": "https://www.youtube.com/watch?v=8gW7uebJUzI&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=14"
     }
   ]
 }
