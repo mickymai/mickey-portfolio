@@ -1,6 +1,6 @@
 {
-  "commit": "addbb749ff0e317811b3a5d7919f4b68b2bd40c5",
-  "generated": "2025-05-31T05:38:44.500Z",
+  "commit": "ddb253dcfe484902fd8c3225ec34bdd69eca5f05",
+  "generated": "2025-05-31T05:40:43.429Z",
   "media": [
     {
       "__outstatic": {
@@ -132,6 +132,17 @@
       "alt": "",
       "filename": "couple-pizza.png",
       "publishedAt": "2025-04-03T17:52:41.257Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "ddb253dcfe484902fd8c3225ec34bdd69eca5f05",
+        "hash": "3815808802",
+        "path": "public/images/cu-ng-ca-c-tha-nh-vie-n-ho-c-bo--ng-aas--i-va-n-mie--u-quo--c-tu---gia-m-UwNz.png"
+      },
+      "alt": "",
+      "filename": "cu-ng-ca-c-tha-nh-vie-n-ho-c-bo--ng-aas--i-va-n-mie--u-quo--c-tu---gia-m-UwNz.png",
+      "publishedAt": "2025-05-31T05:40:43.429Z",
       "type": "image"
     },
     {
