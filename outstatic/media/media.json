@@ -1,6 +1,6 @@
 {
-  "commit": "1fba5780dd238622928eebb7520498b909b5a36a",
-  "generated": "2025-05-21T14:01:00.767Z",
+  "commit": "40b1ab3f2294b89f2f0a1571f48a0f759a703833",
+  "generated": "2025-05-31T03:34:44.578Z",
   "media": [
     {
       "__outstatic": {
@@ -231,6 +231,17 @@
       "alt": "",
       "filename": "du-ho-c-co--pha-i-la--con--u-o--ng-duy-nha--t--e---tha-nh-co-ng--IzMz.jpg",
       "publishedAt": "2025-05-21T13:44:16.043Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "40b1ab3f2294b89f2f0a1571f48a0f759a703833",
+        "hash": "1956937947",
+        "path": "public/images/elts-5.5-hay-6.0-lie--u-co--xin--u-o--c-ho-c-bo--ng----ho-c-bo--ng-aas-E3Mj.png"
+      },
+      "alt": "",
+      "filename": "elts-5.5-hay-6.0-lie--u-co--xin--u-o--c-ho-c-bo--ng----ho-c-bo--ng-aas-E3Mj.png",
+      "publishedAt": "2025-05-31T03:34:44.578Z",
       "type": "image"
     },
     {
