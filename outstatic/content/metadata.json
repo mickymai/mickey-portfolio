@@ -1,6 +1,6 @@
 {
-  "commit": "dfd1887e02f5c061ad7bb170c893d5a30f075c3d",
-  "generated": "2025-05-31T06:09:27.744Z",
+  "commit": "53381d57a6c6d613be66d708ff3209c18c26243e",
+  "generated": "2025-05-31T06:11:40.361Z",
   "metadata": [
     {
       "__outstatic": {
@@ -618,6 +618,25 @@
       "status": "published",
       "title": "Một ngày thực tập bận rộn ở Ấn Độ | năm 2020 | Thực tập nước ngoài | Incredible India",
       "youtubeUrl": "https://www.youtube.com/watch?v=kRMeWn4W5Lw&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=24"
+    },
+    {
+      "__outstatic": {
+        "commit": "53381d57a6c6d613be66d708ff3209c18c26243e",
+        "hash": "3318699743",
+        "path": "outstatic/content/phong-cach-song-video/day-la-nhung-tinh-cach-minh-muon-hoc-hoi.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "phong-cach-song-video",
+      "coverImage": "/images/-a-y-la--nhu--ng-ti-nh-ca-ch-mi-nh-muo--n-ho-c-ho-i-k4NT.png",
+      "description": "Trong thực tập, làm tình nguyện, hay giao tiếp hằng ngày thì theo mình những tính cách sau đây sẽ giúp mình ghi điểm với người đối diện và làm cuộc sống trở nên dễ dàng hơn.",
+      "publishedAt": "2025-05-31T06:51:45.164Z",
+      "slug": "day-la-nhung-tinh-cach-minh-muon-hoc-hoi",
+      "status": "published",
+      "title": "Đây là những tính cách mình muốn học hỏi",
+      "youtubeUrl": "https://www.youtube.com/watch?v=QAKXCL6WiK8&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=25"
     }
   ]
 }
