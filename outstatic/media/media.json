@@ -1,6 +1,6 @@
 {
-  "commit": "ab28be7cb9e4419197f354ea1626d8c8615746a7",
-  "generated": "2025-05-31T05:49:55.044Z",
+  "commit": "654efdabe176f1d6bb16d7429f98a772eeaf7570",
+  "generated": "2025-05-31T05:56:10.446Z",
   "media": [
     {
       "__outstatic": {
@@ -473,6 +473,17 @@
       "alt": "",
       "filename": "nhung-loi-sai-pho-bien-khien-bai-luan-xin-hoc-bong-bi-danh-rot-MwOT.png",
       "publishedAt": "2025-05-21T13:58:55.513Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "654efdabe176f1d6bb16d7429f98a772eeaf7570",
+        "hash": "1961486397",
+        "path": "public/images/rmit-va-o-nga-y-mu-a---8-chuye--n-thi-cu---va---i-cho-i-halloween-gyOT.png"
+      },
+      "alt": "",
+      "filename": "rmit-va-o-nga-y-mu-a---8-chuye--n-thi-cu---va---i-cho-i-halloween-gyOT.png",
+      "publishedAt": "2025-05-31T05:56:10.446Z",
       "type": "image"
     },
     {
