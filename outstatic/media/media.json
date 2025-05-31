@@ -1,6 +1,6 @@
 {
-  "commit": "c88a784f033f15e5fa7cb3c1cb60580781109097",
-  "generated": "2025-05-31T06:09:05.467Z",
+  "commit": "6df25c86100902158a732b15a4c12e3129877858",
+  "generated": "2025-05-31T06:10:54.088Z",
   "media": [
     {
       "__outstatic": {
@@ -11,6 +11,17 @@
       "alt": "",
       "filename": "-a-i-ho-c-rmit-co--gi--vui-cu-ng-ho-c-bo--ng-chi-nh-phu--u-c--aas-scholarship--g4MT.png",
       "publishedAt": "2025-05-31T06:00:26.939Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "6df25c86100902158a732b15a4c12e3129877858",
+        "hash": "543521869",
+        "path": "public/images/-a-y-la--nhu--ng-ti-nh-ca-ch-mi-nh-muo--n-ho-c-ho-i-k4NT.png"
+      },
+      "alt": "",
+      "filename": "-a-y-la--nhu--ng-ti-nh-ca-ch-mi-nh-muo--n-ho-c-ho-i-k4NT.png",
+      "publishedAt": "2025-05-31T06:10:54.088Z",
       "type": "image"
     },
     {
