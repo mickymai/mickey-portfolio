@@ -1,6 +1,6 @@
 {
-  "commit": "ddb253dcfe484902fd8c3225ec34bdd69eca5f05",
-  "generated": "2025-05-31T05:40:43.429Z",
+  "commit": "8b47fa332eb417968daf214c30b4180eed2a2db8",
+  "generated": "2025-05-31T05:42:01.373Z",
   "media": [
     {
       "__outstatic": {
@@ -110,6 +110,17 @@
       "alt": "",
       "filename": "bearbnb.png",
       "publishedAt": "2025-04-03T17:52:41.257Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "8b47fa332eb417968daf214c30b4180eed2a2db8",
+        "hash": "1129064476",
+        "path": "public/images/carnival-day-rmit-2024---i-da-o-rmit-va---i-chu-a-ca--u-qua-mo-n---ca--u-duye-n-cho-ba-n-claire--hie--n--AyNT.png"
+      },
+      "alt": "",
+      "filename": "carnival-day-rmit-2024---i-da-o-rmit-va---i-chu-a-ca--u-qua-mo-n---ca--u-duye-n-cho-ba-n-claire--hie--n--AyNT.png",
+      "publishedAt": "2025-05-31T05:42:01.373Z",
       "type": "image"
     },
     {
