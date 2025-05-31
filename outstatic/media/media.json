@@ -1,6 +1,6 @@
 {
-  "commit": "2211f945a2b957542413704f2f5b34e6655ce738",
-  "generated": "2025-05-31T03:40:46.639Z",
+  "commit": "a01c6e71b3dd1acb3a18fe063ec6c2176d6f7d4a",
+  "generated": "2025-05-31T05:29:49.000Z",
   "media": [
     {
       "__outstatic": {
@@ -396,6 +396,17 @@
       "alt": "",
       "filename": "minh-duoc-moi-lam-mc-cho-buoi-trao-bang-hoc-bong-chinh-phu-uc-ntn-Q1OT.png",
       "publishedAt": "2025-05-21T13:33:41.146Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "a01c6e71b3dd1acb3a18fe063ec6c2176d6f7d4a",
+        "hash": "212688493",
+        "path": "public/images/nhu--ng-ca-u-ho-i-tru-o--c-khi-ba--t--a--u-sa-n-ho-c-bo--ng---ho-c-bo--ng-chi-nh-phu----ho-c-bo--ng-tru-o--ng--a-i-ho-c-I0ND.png"
+      },
+      "alt": "",
+      "filename": "nhu--ng-ca-u-ho-i-tru-o--c-khi-ba--t--a--u-sa-n-ho-c-bo--ng---ho-c-bo--ng-chi-nh-phu----ho-c-bo--ng-tru-o--ng--a-i-ho-c-I0ND.png",
+      "publishedAt": "2025-05-31T05:29:49.000Z",
       "type": "image"
     },
     {
