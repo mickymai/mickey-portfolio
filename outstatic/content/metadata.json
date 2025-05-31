@@ -1,6 +1,6 @@
 {
-  "commit": "310fb21992eaae7af04fe36e28ce5135b2fb893c",
-  "generated": "2025-05-31T05:56:32.455Z",
+  "commit": "ccc59b7a0f6929d021c42e3352ba4e93a8486cdc",
+  "generated": "2025-05-31T06:00:53.882Z",
   "metadata": [
     {
       "__outstatic": {
@@ -542,6 +542,25 @@
       "status": "published",
       "title": "RMIT vào ngày mưa - 8 chuyện thi cử và đi chơi Halloween | Trải nghiệm cùng AAS Scholarship",
       "youtubeUrl": "https://www.youtube.com/watch?v=A0NOqqtsUHU&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=16"
+    },
+    {
+      "__outstatic": {
+        "commit": "ccc59b7a0f6929d021c42e3352ba4e93a8486cdc",
+        "hash": "1617495176",
+        "path": "outstatic/content/di-hoc-video/dai-hoc-rmit-co-gi-vui-cung-hoc-bong-chinh-phu-uc-aas-scholarship.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc-video",
+      "coverImage": "/images/-a-i-ho-c-rmit-co--gi--vui-cu-ng-ho-c-bo--ng-chi-nh-phu--u-c--aas-scholarship--g4MT.png",
+      "description": "Sau một tuần học tập vui vẻ thì Micky lưu được kỷ niệm cùng với đại học RMIT nhiêu đây nè! cả nhà cùng chia sẻ với Micky nhé!",
+      "publishedAt": "2025-05-31T06:38:56.819Z",
+      "slug": "dai-hoc-rmit-co-gi-vui-cung-hoc-bong-chinh-phu-uc-aas-scholarship",
+      "status": "published",
+      "title": "Đại học RMIT có gì vui cùng Học bổng chính phủ Úc (AAS Scholarship)",
+      "youtubeUrl": "https://www.youtube.com/watch?v=X9ye_xP8DmM&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=20"
     }
   ]
 }
