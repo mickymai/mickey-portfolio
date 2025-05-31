@@ -1,6 +1,6 @@
 {
-  "commit": "cb61197b452194b4d38a26174be288240e80f076",
-  "generated": "2025-05-31T03:35:32.153Z",
+  "commit": "b7800508f04d65c7f8d3ea8a2c31f7e9ef21c93e",
+  "generated": "2025-05-31T03:37:45.282Z",
   "metadata": [
     {
       "__outstatic": {
@@ -390,6 +390,25 @@
       "status": "published",
       "title": "IELTS 5.5 hay 6.0 liệu có xin được học bổng? | Học bổng AAS",
       "youtubeUrl": "https://www.youtube.com/watch?v=aFzi2DgpxIM&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=9"
+    },
+    {
+      "__outstatic": {
+        "commit": "b7800508f04d65c7f8d3ea8a2c31f7e9ef21c93e",
+        "hash": "4157386690",
+        "path": "outstatic/content/di-hoc-video/mat-bao-lau-de-san-hoc-bong-thanh-cong-san-hoc-bong-chinh-phu-cung-micky.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc-video",
+      "coverImage": "/images/ma--t-bao-la-u--e---sa-n-ho-c-bo--ng-tha-nh-co-ng----sa-n-ho-c-bo--ng-chi-nh-phu--cu-ng-micky-A4Nz.png",
+      "description": "💡 \"Mất bao lâu để săn học bổng thành công? 🎓⏳\"\n\nHành trình xin học bổng không chỉ tính bằng ngày hay tháng, mà bằng sự chuẩn bị, nỗ lực và kiên trì! 🚀 Cùng khám phá quá trình từ lúc bắt đầu đến khi nhận được thư chấp nhận – bạn sẽ bất ngờ đấy! 💼📚 \n\n#hocbong #hocbongAAS",
+      "publishedAt": "2025-05-31T04:17:43.632Z",
+      "slug": "mat-bao-lau-de-san-hoc-bong-thanh-cong-san-hoc-bong-chinh-phu-cung-micky",
+      "status": "published",
+      "title": "Mất bao lâu để săn học bổng thành công? | Săn học bổng chính phủ cùng Micky",
+      "youtubeUrl": "https://www.youtube.com/watch?v=08QRSlNYwdU&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=10"
     }
   ]
 }
