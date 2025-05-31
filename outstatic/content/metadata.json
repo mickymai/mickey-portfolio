@@ -1,6 +1,6 @@
 {
-  "commit": "ccc59b7a0f6929d021c42e3352ba4e93a8486cdc",
-  "generated": "2025-05-31T06:00:53.882Z",
+  "commit": "ccdbc86c8da2ed760482b690c44da7773560f55b",
+  "generated": "2025-05-31T06:04:09.877Z",
   "metadata": [
     {
       "__outstatic": {
@@ -561,6 +561,25 @@
       "status": "published",
       "title": "Đại học RMIT có gì vui cùng Học bổng chính phủ Úc (AAS Scholarship)",
       "youtubeUrl": "https://www.youtube.com/watch?v=X9ye_xP8DmM&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=20"
+    },
+    {
+      "__outstatic": {
+        "commit": "ccdbc86c8da2ed760482b690c44da7773560f55b",
+        "hash": "1037456505",
+        "path": "outstatic/content/di-hoc-video/mot-ngay-di-hoc-xa-lo-o-dai-hoc-rmit-vietnam-cua-minh-se-nhu-the-nao-hoc-bong-chinh-phu-uc-aas.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc-video",
+      "coverImage": "/images/mo--t-nga-y--i-ho-c-xa--lo--o----a-i-ho-c-rmit-vietnam-cu-a-mi-nh-se--nhu--the---na-o----ho-c-bo--ng-chi-nh-phu--u-c--aas--k5Nz.png",
+      "description": "Cùng theo chân mình đến đại học RMIT nhé cả nhà! Cám ơn học bổng chính phủ Úc (AAS) đã tạo điều kiện cho Micky được học tập tại RMIT University Việt Nam trước khi bắt đầu vào ngành học chính thức tại Úc.",
+      "publishedAt": "2025-05-31T06:43:13.431Z",
+      "slug": "mot-ngay-di-hoc-xa-lo-o-dai-hoc-rmit-vietnam-cua-minh-se-nhu-the-nao-hoc-bong-chinh-phu-uc-aas",
+      "status": "published",
+      "title": "Một ngày đi học xà lơ ở đại học RMIT Vietnam của mình sẽ như thế nào? | Học bổng chính phủ Úc (AAS)",
+      "youtubeUrl": "https://www.youtube.com/watch?v=mFXa7k3UHTM&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=21"
     }
   ]
 }
