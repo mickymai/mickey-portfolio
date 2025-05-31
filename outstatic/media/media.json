@@ -1,6 +1,6 @@
 {
-  "commit": "43b156638930520986b7879ef06e5c287333b697",
-  "generated": "2025-05-31T03:37:30.530Z",
+  "commit": "2211f945a2b957542413704f2f5b34e6655ce738",
+  "generated": "2025-05-31T03:40:46.639Z",
   "media": [
     {
       "__outstatic": {
@@ -484,6 +484,17 @@
       "alt": "",
       "filename": "thuc-tap-tai-an.jpg-c0Nj.jpg",
       "publishedAt": "2025-05-08T09:21:22.408Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "2211f945a2b957542413704f2f5b34e6655ce738",
+        "hash": "4008517848",
+        "path": "public/images/ti-m-hie--u-ve---ca-c-khu-vu--c-cung-ca--p-ho-c-bo--ng---sa-n-ho-c-bo--ng---ho-c-bo--ng-chi-nh-phu----ho-c-bo--ng-tru-o--ng-Q2MD.png"
+      },
+      "alt": "",
+      "filename": "ti-m-hie--u-ve---ca-c-khu-vu--c-cung-ca--p-ho-c-bo--ng---sa-n-ho-c-bo--ng---ho-c-bo--ng-chi-nh-phu----ho-c-bo--ng-tru-o--ng-Q2MD.png",
+      "publishedAt": "2025-05-31T03:40:46.639Z",
       "type": "image"
     }
   ]
