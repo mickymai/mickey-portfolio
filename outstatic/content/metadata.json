@@ -1,6 +1,6 @@
 {
-  "commit": "8229be7b7545bc0035c356c5d53f90fff617935d",
-  "generated": "2025-05-31T06:13:23.237Z",
+  "commit": "643defd43afa87cfd1ea29c3e4f962367f385486",
+  "generated": "2025-05-31T06:15:46.743Z",
   "metadata": [
     {
       "__outstatic": {
@@ -656,6 +656,25 @@
       "status": "published",
       "title": "Một ngày thực tập tại nước ngoài | Thực tập Ấn Độ | Ahmedabad, Gujarat",
       "youtubeUrl": "https://www.youtube.com/watch?v=4GCIEuuuMUI&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=26"
+    },
+    {
+      "__outstatic": {
+        "commit": "643defd43afa87cfd1ea29c3e4f962367f385486",
+        "hash": "2563835578",
+        "path": "outstatic/content/di-lam-video/kinh-nghiem-phong-van-voi-nha-tuyen-dung-nuoc-ngoai-thuc-tap-nuoc-ngoai.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-lam-video",
+      "coverImage": "/images/kinh-nghie--m-pho-ng-va--n-vo--i-nha--tuye--n-du-ng-nu-o--c-ngoa-i---thu--c-ta--p-nu-o--c-ngoa-i-c4Mz.png",
+      "description": "Đây là bí kiếp để giữ chồng, ủa lộn, đây là bí kiếp để giúp các bạn trả lời câu hỏi của nhà tuyển dụng nước ngoài. Trong video chỉ là góc nhìn của mình và những ví dụ mình đưa ra cho các bạn, các bạn đừng bắt chước mà hãy suy nghĩ với cá nhân của các bạn và đưa ra câu trả lời cho các bạn nha, chứ trả lời mà giống nhau hết là mình không chịu trách nhiệm đâu nhe, hihi. Cho mình 1 subscribe đi mờ!",
+      "publishedAt": "2025-05-31T06:56:08.842Z",
+      "slug": "kinh-nghiem-phong-van-voi-nha-tuyen-dung-nuoc-ngoai-thuc-tap-nuoc-ngoai",
+      "status": "published",
+      "title": "Kinh nghiệm phỏng vấn với nhà tuyển dụng nước ngoài | Thực tập nước ngoài",
+      "youtubeUrl": "https://www.youtube.com/watch?v=mV5pVJ2n5yY&list=PLEE9tvaVbZbd1bSoKEhaRYaHP3nHNFbXU"
     }
   ]
 }
