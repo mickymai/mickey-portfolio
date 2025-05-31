@@ -1,6 +1,6 @@
 {
-  "commit": "a01c6e71b3dd1acb3a18fe063ec6c2176d6f7d4a",
-  "generated": "2025-05-31T05:29:49.000Z",
+  "commit": "addbb749ff0e317811b3a5d7919f4b68b2bd40c5",
+  "generated": "2025-05-31T05:38:44.500Z",
   "media": [
     {
       "__outstatic": {
@@ -286,6 +286,17 @@
       "alt": "",
       "filename": "jupiter-spaceship.png",
       "publishedAt": "2025-04-03T17:52:41.257Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "addbb749ff0e317811b3a5d7919f4b68b2bd40c5",
+        "hash": "1585968101",
+        "path": "public/images/la-m-gi--co--campus-rmit-o---ha--no--i-MwOD.png"
+      },
+      "alt": "",
+      "filename": "la-m-gi--co--campus-rmit-o---ha--no--i-MwOD.png",
+      "publishedAt": "2025-05-31T05:38:44.500Z",
       "type": "image"
     },
     {
