@@ -1,6 +1,6 @@
 {
-  "commit": "ccdbc86c8da2ed760482b690c44da7773560f55b",
-  "generated": "2025-05-31T06:04:09.877Z",
+  "commit": "16c5c5a16ed369242c64ab7d54993fd281148a0a",
+  "generated": "2025-05-31T06:07:06.441Z",
   "metadata": [
     {
       "__outstatic": {
@@ -580,6 +580,25 @@
       "status": "published",
       "title": "Một ngày đi học xà lơ ở đại học RMIT Vietnam của mình sẽ như thế nào? | Học bổng chính phủ Úc (AAS)",
       "youtubeUrl": "https://www.youtube.com/watch?v=mFXa7k3UHTM&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=21"
+    },
+    {
+      "__outstatic": {
+        "commit": "16c5c5a16ed369242c64ab7d54993fd281148a0a",
+        "hash": "3154055183",
+        "path": "outstatic/content/phong-cach-song-video/di-nuoc-ngoai-can-chuan-bi-nhung-thu-nay-ne-kinh-nghiem-di-nuoc-ngoai.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "phong-cach-song-video",
+      "coverImage": "/images/-i-nu-o--c-ngoa-i-ca--n-chua--n-bi--nhu--ng-thu---na-y-ne----kinh-nghie--m--i-nu-o--c-ngoa--QzMT.png",
+      "description": "úm cái váy lại, thì có những điều trên sẽ thật cần thiết cho các bạn nếu như bạn đang chuẩn bị nước ngoài, đi du học nước ngoài. bên dưới là link checklist cho mọi người thuận tiện sắp xếp đồ đạc của mình nha. ",
+      "publishedAt": "2025-05-31T06:46:31.942Z",
+      "slug": "di-nuoc-ngoai-can-chuan-bi-nhung-thu-nay-ne-kinh-nghiem-di-nuoc-ngoai",
+      "status": "published",
+      "title": "Đi nước ngoài cần chuẩn bị những thứ này nè | kinh nghiệm đi nước ngoài",
+      "youtubeUrl": "https://www.youtube.com/watch?v=YSHP9vQWxTg&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=22"
     }
   ]
 }
