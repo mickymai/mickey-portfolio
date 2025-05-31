@@ -1,6 +1,6 @@
 {
-  "commit": "09a0c856a353672e4cffe90ff729a7127e7d40ea",
-  "generated": "2025-05-31T06:06:40.122Z",
+  "commit": "c88a784f033f15e5fa7cb3c1cb60580781109097",
+  "generated": "2025-05-31T06:09:05.467Z",
   "media": [
     {
       "__outstatic": {
@@ -484,6 +484,17 @@
       "alt": "",
       "filename": "mo--t-nga-y--i-ho-c-xa--lo--o----a-i-ho-c-rmit-vietnam-cu-a-mi-nh-se--nhu--the---na-o----ho-c-bo--ng-chi-nh-phu--u-c--aas--k5Nz.png",
       "publishedAt": "2025-05-31T06:03:39.528Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "c88a784f033f15e5fa7cb3c1cb60580781109097",
+        "hash": "297920849",
+        "path": "public/images/mo--t-nga-y-thu--c-ta--p-ba--n-ro--n-o---a--n--o---IyNj.png"
+      },
+      "alt": "",
+      "filename": "mo--t-nga-y-thu--c-ta--p-ba--n-ro--n-o---a--n--o---IyNj.png",
+      "publishedAt": "2025-05-31T06:09:05.467Z",
       "type": "image"
     },
     {
