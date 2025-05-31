@@ -1,6 +1,6 @@
 {
-  "commit": "49141cb7534130ffd2f8d61e9d5cab5393546821",
-  "generated": "2025-05-31T05:47:33.517Z",
+  "commit": "ab28be7cb9e4419197f354ea1626d8c8615746a7",
+  "generated": "2025-05-31T05:49:55.044Z",
   "media": [
     {
       "__outstatic": {
@@ -110,6 +110,17 @@
       "alt": "",
       "filename": "bearbnb.png",
       "publishedAt": "2025-04-03T17:52:41.257Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "ab28be7cb9e4419197f354ea1626d8c8615746a7",
+        "hash": "3110529362",
+        "path": "public/images/ca-c-ba-i-ta--p-co--ba-n-cho-ngu-o--i-mo--i-ba--t--a--u-ta--p-gym-E4ND.png"
+      },
+      "alt": "",
+      "filename": "ca-c-ba-i-ta--p-co--ba-n-cho-ngu-o--i-mo--i-ba--t--a--u-ta--p-gym-E4ND.png",
+      "publishedAt": "2025-05-31T05:49:55.044Z",
       "type": "image"
     },
     {
