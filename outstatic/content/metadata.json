@@ -1,6 +1,6 @@
 {
-  "commit": "2e0d81ab8d45966f9c94e427341fb504e24dfb58",
-  "generated": "2025-06-04T11:11:17.650Z",
+  "commit": "a46f50691a3fd20b803105fe2f69cfffca672c51",
+  "generated": "2025-06-04T11:14:18.732Z",
   "metadata": [
     {
       "__outstatic": {
@@ -658,6 +658,25 @@
       "status": "published",
       "title": "Bí kíp tìm học bổng du học | 4 kênh không thể bỏ qua khi xinh học bổng chính phủ",
       "youtubeUrl": "https://www.youtube.com/watch?v=kj4y_9ry2kw"
+    },
+    {
+      "__outstatic": {
+        "commit": "a46f50691a3fd20b803105fe2f69cfffca672c51",
+        "hash": "3824108367",
+        "path": "outstatic/content/phong-cach-song-video/mukbang-thit-kho-tuong-hot-nhat-ky-nau-an.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "phong-cach-song-video",
+      "coverImage": "/images/mukbang-thi-t-kho-tu-o-ng-ho--t-g2Nz.png",
+      "description": "Trưa nay ăn gì? Mình chọn thịt kho tương hột thơm lừng đưa cơm 🍚✨ #NhậtKýNấuĂn #MukbangViệt\nMón nhà làm, vị quê hương: Thịt kho tương hột ăn là ghiền! 😋",
+      "publishedAt": "2025-06-04T11:54:04.751Z",
+      "slug": "mukbang-thit-kho-tuong-hot-nhat-ky-nau-an",
+      "status": "published",
+      "title": "Mukbang Thịt kho tương hột | Nhật ký nấu ăn",
+      "youtubeUrl": "https://www.youtube.com/watch?v=cZPDAGM5Kc4&t=1s"
     }
   ]
 }
