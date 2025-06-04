@@ -1,6 +1,6 @@
 {
-  "commit": "a46f50691a3fd20b803105fe2f69cfffca672c51",
-  "generated": "2025-06-04T11:14:18.732Z",
+  "commit": "2d390aa5355c430ee3590a2fb78439c9b09340ce",
+  "generated": "2025-06-04T11:15:53.049Z",
   "metadata": [
     {
       "__outstatic": {
@@ -677,6 +677,25 @@
       "status": "published",
       "title": "Mukbang Thịt kho tương hột | Nhật ký nấu ăn",
       "youtubeUrl": "https://www.youtube.com/watch?v=cZPDAGM5Kc4&t=1s"
+    },
+    {
+      "__outstatic": {
+        "commit": "2d390aa5355c430ee3590a2fb78439c9b09340ce",
+        "hash": "1551197235",
+        "path": "outstatic/content/phong-cach-song-video/video-nay-minh-muon-gui-loi-cam-on-first-musique-class.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "phong-cach-song-video",
+      "coverImage": "/images/video-na-y-mi-nh-muo--n-ca-m-o-n--e--n-first-musical-class-MxMz.png",
+      "description": "Cám ơn First đã không đồng hành trước, không đồng hành sau, mà đã đồng hành cùng mình trong hành trình vừa rồi nhé!  Địa chỉ chỗ mình học: https://maps.app.goo.gl/hp9dTwMFHjDZR...  Đọc pass: \"Bạn Micky Mai\" để coi có giảm giá hong nhé cả nhà! ^^",
+      "publishedAt": "2025-06-04T11:56:48.687Z",
+      "slug": "video-nay-minh-muon-gui-loi-cam-on-first-musique-class",
+      "status": "published",
+      "title": "Video này mình muốn gửi lời cám ơn First Musique Class",
+      "youtubeUrl": "https://www.youtube.com/watch?v=TQPjgQx7eIY"
     }
   ]
 }
