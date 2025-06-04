@@ -1,6 +1,6 @@
 {
-  "commit": "dc092e114821c309e3ff4b363e15394f518a5388",
-  "generated": "2025-05-31T06:15:26.772Z",
+  "commit": "ae6fe555e28a8dad9ddd942717b6d8d525e5bae9",
+  "generated": "2025-06-04T11:10:30.510Z",
   "media": [
     {
       "__outstatic": {
@@ -143,6 +143,17 @@
       "alt": "",
       "filename": "bearbnb.png",
       "publishedAt": "2025-04-03T17:52:41.257Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "ae6fe555e28a8dad9ddd942717b6d8d525e5bae9",
+        "hash": "1242549354",
+        "path": "public/images/bi--kie--p-ti-m-ho-c-bo--ng-du-ho-c---4-kenh-khong-the-bo-qua--A3NT.png"
+      },
+      "alt": "",
+      "filename": "bi--kie--p-ti-m-ho-c-bo--ng-du-ho-c---4-kenh-khong-the-bo-qua--A3NT.png",
+      "publishedAt": "2025-06-04T11:10:30.510Z",
       "type": "image"
     },
     {
