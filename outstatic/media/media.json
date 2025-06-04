@@ -1,6 +1,6 @@
 {
-  "commit": "11ba633d4e34ac4121677fae9ad0f2e1ac531a28",
-  "generated": "2025-06-04T11:14:00.223Z",
+  "commit": "718f3cf460f63d7d9183b51916e528a093c0f45e",
+  "generated": "2025-06-04T11:15:36.367Z",
   "media": [
     {
       "__outstatic": {
@@ -671,6 +671,17 @@
       "alt": "",
       "filename": "ti-m-hie--u-ve---ca-c-khu-vu--c-cung-ca--p-ho-c-bo--ng---sa-n-ho-c-bo--ng---ho-c-bo--ng-chi-nh-phu----ho-c-bo--ng-tru-o--ng-Q2MD.png",
       "publishedAt": "2025-05-31T03:40:46.639Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "718f3cf460f63d7d9183b51916e528a093c0f45e",
+        "hash": "184900545",
+        "path": "public/images/video-na-y-mi-nh-muo--n-ca-m-o-n--e--n-first-musical-class-MxMz.png"
+      },
+      "alt": "",
+      "filename": "video-na-y-mi-nh-muo--n-ca-m-o-n--e--n-first-musical-class-MxMz.png",
+      "publishedAt": "2025-06-04T11:15:36.367Z",
       "type": "image"
     }
   ]
