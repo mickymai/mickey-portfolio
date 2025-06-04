@@ -1,25 +1,7 @@
 {
-  "commit": "a76f38d78025476819756eaca3d5c78643718a43",
-  "generated": "2025-06-04T11:10:43.062Z",
+  "commit": "ce86f1c815fd6c5aaa0442c567bcc745d903f62e",
+  "generated": "2025-06-04T11:10:54.340Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "f5f0378281ae55ca05fb8a7683762487eafdbef9",
-        "hash": "2294845688",
-        "path": "outstatic/content/di-hoc/abc.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-hoc",
-      "coverImage": "/images/thuc-tap-tai-an-5-c3MT.jpg",
-      "description": "ssss",
-      "publishedAt": "2025-05-08T13:42:44.689Z",
-      "slug": "abc",
-      "status": "published",
-      "title": "abc"
-    },
     {
       "__outstatic": {
         "commit": "fd29b9bbdf469837ae1c1e06f539267ed849331e",
