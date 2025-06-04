@@ -1,6 +1,6 @@
 {
-  "commit": "ce86f1c815fd6c5aaa0442c567bcc745d903f62e",
-  "generated": "2025-06-04T11:10:54.340Z",
+  "commit": "dc837a49924eabd6faccf5eb011d4afe1db45dc1",
+  "generated": "2025-06-04T11:10:59.054Z",
   "metadata": [
     {
       "__outstatic": {
@@ -128,24 +128,6 @@
       "slug": "di-du-lich-ne",
       "status": "published",
       "title": "đi du lịch nè"
-    },
-    {
-      "__outstatic": {
-        "commit": "54667d5ed405bba807811eb6c2ebbac41b56d250",
-        "hash": "1346243720",
-        "path": "outstatic/content/di-hoc/di-hoc-lai-ne.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-hoc",
-      "coverImage": "/images/lam-viec-A5Nz.jpg",
-      "description": "Chúng ta vẫn biết rằng, làm việc với một đoạn văn bản dễ đọc và rõ nghĩa dễ gây rối trí và cản trở việc tập trung vào yếu tố trình bày văn bản",
-      "publishedAt": "2025-05-08T14:42:25.688Z",
-      "slug": "di-hoc-lai-ne",
-      "status": "published",
-      "title": "đi học lại nè"
     },
     {
       "__outstatic": {
