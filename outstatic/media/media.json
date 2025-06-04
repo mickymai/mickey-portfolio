@@ -1,6 +1,6 @@
 {
-  "commit": "ae6fe555e28a8dad9ddd942717b6d8d525e5bae9",
-  "generated": "2025-06-04T11:10:30.510Z",
+  "commit": "11ba633d4e34ac4121677fae9ad0f2e1ac531a28",
+  "generated": "2025-06-04T11:14:00.223Z",
   "media": [
     {
       "__outstatic": {
@@ -539,6 +539,17 @@
       "alt": "",
       "filename": "mo--t-nga-y-thu--c-ta--p-ta-i-nu-o--c-ngoa-i---thu--c-ta--p-a--n--o-----ahmedabad--gujarat-kyNj.png",
       "publishedAt": "2025-05-31T06:12:37.089Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "11ba633d4e34ac4121677fae9ad0f2e1ac531a28",
+        "hash": "2668073744",
+        "path": "public/images/mukbang-thi-t-kho-tu-o-ng-ho--t-g2Nz.png"
+      },
+      "alt": "",
+      "filename": "mukbang-thi-t-kho-tu-o-ng-ho--t-g2Nz.png",
+      "publishedAt": "2025-06-04T11:14:00.223Z",
       "type": "image"
     },
     {
