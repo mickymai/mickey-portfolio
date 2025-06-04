@@ -1,6 +1,6 @@
 {
-  "commit": "dc837a49924eabd6faccf5eb011d4afe1db45dc1",
-  "generated": "2025-06-04T11:10:59.054Z",
+  "commit": "2e0d81ab8d45966f9c94e427341fb504e24dfb58",
+  "generated": "2025-06-04T11:11:17.650Z",
   "metadata": [
     {
       "__outstatic": {
@@ -55,25 +55,6 @@
       "slug": "new-4",
       "status": "published",
       "title": "new 4"
-    },
-    {
-      "__outstatic": {
-        "commit": "4894bf43052c3a63b620750e485018db83d9b7fb",
-        "hash": "1511234308",
-        "path": "outstatic/content/di-hoc-video/title.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-hoc-video",
-      "coverImage": "/images/lam-viec-5-E5MT.jpg",
-      "description": "",
-      "publishedAt": "2025-05-08T13:47:44.725Z",
-      "slug": "title",
-      "status": "published",
-      "title": "title",
-      "youtubeUrl": "https://www.youtube.com/watch?v=dvlT4fUb2xQ"
     },
     {
       "__outstatic": {
