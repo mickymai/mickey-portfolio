@@ -1,6 +1,6 @@
 {
-  "commit": "f66e83dc22a00dcad1b45f6dd2c8b6667d403a23",
-  "generated": "2025-09-24T10:08:14.163Z",
+  "commit": "5f956be9da5d947a79f5cf258cab127488bf9748",
+  "generated": "2025-09-24T10:08:33.324Z",
   "metadata": [
     {
       "__outstatic": {
@@ -37,24 +37,6 @@
       "slug": "di-du-lich-ne",
       "status": "published",
       "title": "đi du lịch nè"
-    },
-    {
-      "__outstatic": {
-        "commit": "e69785a77aeec8da26ff4cf238bf11ed40d611b5",
-        "hash": "3669538457",
-        "path": "outstatic/content/di-lam/di-lam-lai-ne.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-lam",
-      "coverImage": "/images/lam-viec-3-AxMz.jpg",
-      "description": "diLamPosts",
-      "publishedAt": "2025-05-08T14:39:02.147Z",
-      "slug": "di-lam-lai-ne",
-      "status": "published",
-      "title": "Di làm lại nè "
     },
     {
       "__outstatic": {
@@ -677,6 +659,24 @@
       "slug": "new-post-di-hoc",
       "status": "draft",
       "title": "New post đi học"
+    },
+    {
+      "__outstatic": {
+        "commit": "5f956be9da5d947a79f5cf258cab127488bf9748",
+        "hash": "1723996602",
+        "path": "outstatic/content/di-lam/di-lam-lai-ne.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-lam",
+      "coverImage": "/images/lam-viec-3-AxMz.jpg",
+      "description": "diLamPosts",
+      "publishedAt": "2025-05-08T14:39:02.147Z",
+      "slug": "di-lam-lai-ne",
+      "status": "draft",
+      "title": "Di làm lại nè "
     }
   ]
 }
