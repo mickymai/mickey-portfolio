@@ -1,25 +1,7 @@
 {
-  "commit": "610ceb5bc27677ed38def9bdc3ff7056f48c0bca",
-  "generated": "2025-06-04T11:19:05.669Z",
+  "commit": "19f2a3ec278f50a76defb16f49cc91fca5a93f89",
+  "generated": "2025-09-24T10:07:47.716Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "fd29b9bbdf469837ae1c1e06f539267ed849331e",
-        "hash": "3660834767",
-        "path": "outstatic/content/di-hoc/new-2.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-hoc",
-      "coverImage": "/images/speaker-cho-aiesec-M4Mz.jpg",
-      "description": "https://portfolio-iota-flame-18.vercel.app/",
-      "publishedAt": "2025-05-08T14:09:01.110Z",
-      "slug": "new-2",
-      "status": "published",
-      "title": "new 2"
-    },
     {
       "__outstatic": {
         "commit": "974e5e294488ca7f27f46215adbf8f2e9b5a1472",
@@ -677,6 +659,24 @@
       "status": "published",
       "title": "Video này mình muốn gửi lời cám ơn First Musique Class",
       "youtubeUrl": "https://www.youtube.com/watch?v=TQPjgQx7eIY"
+    },
+    {
+      "__outstatic": {
+        "commit": "19f2a3ec278f50a76defb16f49cc91fca5a93f89",
+        "hash": "1470195195",
+        "path": "outstatic/content/di-hoc/new-2.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc",
+      "coverImage": "/images/speaker-cho-aiesec-M4Mz.jpg",
+      "description": "https://portfolio-iota-flame-18.vercel.app/",
+      "publishedAt": "2025-05-08T14:09:01.110Z",
+      "slug": "new-2",
+      "status": "draft",
+      "title": "new 2"
     }
   ]
 }
