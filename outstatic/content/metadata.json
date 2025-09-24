@@ -1,6 +1,6 @@
 {
-  "commit": "0a645670deef1643d477c362026f18bcd79d7b6e",
-  "generated": "2025-09-24T17:05:51.898Z",
+  "commit": "9926383947e68ed0e32f7aef1e0c69ef85fd75f7",
+  "generated": "2025-09-24T17:06:06.811Z",
   "metadata": [
     {
       "__outstatic": {
@@ -362,24 +362,6 @@
       "status": "published",
       "title": "Viết bài luận xin học bổng theo phương pháp S.T.A.R | Học bổng AAS",
       "youtubeUrl": "https://youtu.be/dhTn8yLhblg?si=YRCLTRmJvkS_4MPS"
-    },
-    {
-      "__outstatic": {
-        "commit": "829450b338b040d2bafb32ed124f1f43fadb1bb5",
-        "hash": "1723996602",
-        "path": "outstatic/content/di-lam/di-lam-lai-ne.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-lam",
-      "coverImage": "/images/lam-viec-3-AxMz.jpg",
-      "description": "diLamPosts",
-      "publishedAt": "2025-05-08T14:39:02.147Z",
-      "slug": "di-lam-lai-ne",
-      "status": "draft",
-      "title": "Di làm lại nè "
     },
     {
       "__outstatic": {
