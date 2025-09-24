@@ -1,25 +1,7 @@
 {
-  "commit": "727921a53cd75541053a42f4a02101932e2842c4",
-  "generated": "2025-09-24T10:09:38.449Z",
+  "commit": "5a18a7ccb4dbb616d5b0b3598800e322db24c49f",
+  "generated": "2025-09-24T10:09:52.377Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "92b59062211e6a21830338a2dc202326b49ce083",
-        "hash": "2619979102",
-        "path": "outstatic/content/phong-cach-song/song-ao-ne.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "phong-cach-song",
-      "coverImage": "/images/bearbnb.png",
-      "description": "Chúng ta vẫn biết rằng, làm việc với một đoạn văn bản dễ đọc",
-      "publishedAt": "2025-05-08T14:49:52.678Z",
-      "slug": "song-ao-ne",
-      "status": "published",
-      "title": "Song ao ne"
-    },
     {
       "__outstatic": {
         "commit": "70ecfa42d5584eb0edf383cfc8824731114cab7e",
@@ -677,6 +659,24 @@
       "slug": "di-du-lich-ne",
       "status": "draft",
       "title": "đi du lịch nè"
+    },
+    {
+      "__outstatic": {
+        "commit": "5a18a7ccb4dbb616d5b0b3598800e322db24c49f",
+        "hash": "1129079759",
+        "path": "outstatic/content/phong-cach-song/song-ao-ne.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "phong-cach-song",
+      "coverImage": "/images/bearbnb.png",
+      "description": "Chúng ta vẫn biết rằng, làm việc với một đoạn văn bản dễ đọc",
+      "publishedAt": "2025-05-08T14:49:52.678Z",
+      "slug": "song-ao-ne",
+      "status": "draft",
+      "title": "Song ao ne"
     }
   ]
 }
