@@ -1,6 +1,6 @@
 {
-  "commit": "59207cfe218d6662cd11bd17965e72c135b5fda5",
-  "generated": "2025-09-24T17:05:46.751Z",
+  "commit": "0a645670deef1643d477c362026f18bcd79d7b6e",
+  "generated": "2025-09-24T17:05:51.898Z",
   "metadata": [
     {
       "__outstatic": {
@@ -20,24 +20,6 @@
       "status": "published",
       "title": "Bí kíp tìm học bổng du học | 4 kênh không thể bỏ qua khi xinh học bổng chính phủ",
       "youtubeUrl": "https://www.youtube.com/watch?v=kj4y_9ry2kw"
-    },
-    {
-      "__outstatic": {
-        "commit": "39fdb372d4037264d658d7fb49a274df49b8a717",
-        "hash": "1899763781",
-        "path": "outstatic/content/di-hoc/new-post-di-hoc.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-hoc",
-      "coverImage": "/images/thuc-tap-tai-an-5-c3MT.jpg",
-      "description": "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-      "publishedAt": "2025-05-08T13:37:33.661Z",
-      "slug": "new-post-di-hoc",
-      "status": "draft",
-      "title": "New post đi học"
     },
     {
       "__outstatic": {
