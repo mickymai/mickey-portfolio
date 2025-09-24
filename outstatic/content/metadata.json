@@ -1,6 +1,6 @@
 {
-  "commit": "cae1cf5985ccb4c7061613a6f036781221df2c8e",
-  "generated": "2025-09-24T10:08:05.139Z",
+  "commit": "f66e83dc22a00dcad1b45f6dd2c8b6667d403a23",
+  "generated": "2025-09-24T10:08:14.163Z",
   "metadata": [
     {
       "__outstatic": {
@@ -19,24 +19,6 @@
       "slug": "di-lam-ne",
       "status": "published",
       "title": "Di lam ne"
-    },
-    {
-      "__outstatic": {
-        "commit": "9bbe2093a664090a79093d4ca6796c4c43e51c3d",
-        "hash": "365577226",
-        "path": "outstatic/content/di-hoc/new-post-di-hoc.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-hoc",
-      "coverImage": "/images/thuc-tap-tai-an-5-c3MT.jpg",
-      "description": "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-      "publishedAt": "2025-05-08T13:37:33.661Z",
-      "slug": "new-post-di-hoc",
-      "status": "published",
-      "title": "New post đi học"
     },
     {
       "__outstatic": {
@@ -677,6 +659,24 @@
       "slug": "new-4",
       "status": "draft",
       "title": "new 4"
+    },
+    {
+      "__outstatic": {
+        "commit": "f66e83dc22a00dcad1b45f6dd2c8b6667d403a23",
+        "hash": "1899763781",
+        "path": "outstatic/content/di-hoc/new-post-di-hoc.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc",
+      "coverImage": "/images/thuc-tap-tai-an-5-c3MT.jpg",
+      "description": "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "publishedAt": "2025-05-08T13:37:33.661Z",
+      "slug": "new-post-di-hoc",
+      "status": "draft",
+      "title": "New post đi học"
     }
   ]
 }
