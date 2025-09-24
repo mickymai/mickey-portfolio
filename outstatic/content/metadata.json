@@ -1,6 +1,6 @@
 {
-  "commit": "f523e562ed365bf3bf12a7fc29431c4c329ebdcb",
-  "generated": "2025-09-24T17:05:35.741Z",
+  "commit": "41e806a4953ad5fa6a9521b4f797a8d8afb400f2",
+  "generated": "2025-09-24T17:05:41.417Z",
   "metadata": [
     {
       "__outstatic": {
@@ -38,24 +38,6 @@
       "slug": "new-post-di-hoc",
       "status": "draft",
       "title": "New post đi học"
-    },
-    {
-      "__outstatic": {
-        "commit": "048040668acaeae4fa90ac2c6dd9b52494c71be7",
-        "hash": "2631710483",
-        "path": "outstatic/content/di-hoc/new-3.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-hoc",
-      "coverImage": "/images/lam-viec-3-AxMz.jpg",
-      "description": "aaaa",
-      "publishedAt": "2025-05-08T14:09:36.537Z",
-      "slug": "new-3",
-      "status": "draft",
-      "title": "New 3"
     },
     {
       "__outstatic": {
