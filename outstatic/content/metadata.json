@@ -1,6 +1,6 @@
 {
-  "commit": "9926383947e68ed0e32f7aef1e0c69ef85fd75f7",
-  "generated": "2025-09-24T17:06:06.811Z",
+  "commit": "aff79eacdbfa849135532153b1337fc09fee2bdf",
+  "generated": "2025-09-24T17:06:13.850Z",
   "metadata": [
     {
       "__outstatic": {
@@ -381,24 +381,6 @@
       "status": "published",
       "title": "RMIT vào ngày mưa - 8 chuyện thi cử và đi chơi Halloween | Trải nghiệm cùng AAS Scholarship",
       "youtubeUrl": "https://www.youtube.com/watch?v=A0NOqqtsUHU&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=16"
-    },
-    {
-      "__outstatic": {
-        "commit": "711831f02ff25742e0ca2b6483cd2b9f64fe94cd",
-        "hash": "2093339932",
-        "path": "outstatic/content/di-lam/di-lam-ne.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-lam",
-      "coverImage": "/images/lam-viec-1-YwNz.jpg",
-      "description": "Chúng ta vẫn biết rằng, làm việc với một đoạn văn bản dễ đọc và rõ nghĩa dễ gây rối trí và cản trở việc tập trung vào yếu tố trình bày văn bản",
-      "publishedAt": "2025-05-08T14:32:45.789Z",
-      "slug": "di-lam-ne",
-      "status": "draft",
-      "title": "Di lam ne"
     },
     {
       "__outstatic": {
