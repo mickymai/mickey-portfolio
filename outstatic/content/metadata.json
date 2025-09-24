@@ -1,276 +1,46 @@
 {
-  "commit": "5a18a7ccb4dbb616d5b0b3598800e322db24c49f",
-  "generated": "2025-09-24T10:09:52.377Z",
+  "commit": "",
+  "generated": "Wed, 24 Sep 2025 10:10:23 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "70ecfa42d5584eb0edf383cfc8824731114cab7e",
-        "hash": "1355512749",
-        "path": "outstatic/content/di-hoc-video/minh-duoc-moi-lam-mc-cho-buoi-trao-bang-danh-du-hoc-bong-chinh-phu-australia-hoc-bong-aas-nhu-the-nao.mdx"
+        "commit": "82fb5a0b2acf06e7dada330d5a714b5897f286f2",
+        "hash": "1470195195",
+        "path": "outstatic/content/di-hoc/new-2.mdx"
       },
       "author": {
         "name": "Micky",
         "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
       },
-      "collection": "di-hoc-video",
-      "coverImage": "/images/minh-duoc-moi-lam-mc-cho-buoi-trao-bang-hoc-bong-chinh-phu-uc-ntn-Q1OT.png",
-      "description": "Mình được mời làm MC cho buổi trao bằng danh dự học bổng chính phủ Australia (học bổng AAS) như thế nào?",
-      "publishedAt": "2025-05-21T14:12:26.713Z",
-      "slug": "minh-duoc-moi-lam-mc-cho-buoi-trao-bang-danh-du-hoc-bong-chinh-phu-australia-hoc-bong-aas-nhu-the-nao",
-      "status": "published",
-      "title": "Mình được mời làm MC cho buổi trao bằng danh dự học bổng chính phủ Australia (học bổng AAS) như thế nào?",
-      "youtubeUrl": "https://youtu.be/-JEP4uQi87A?si=fTYXzTItnns1b1mv"
+      "collection": "di-hoc",
+      "coverImage": "/images/speaker-cho-aiesec-M4Mz.jpg",
+      "description": "https://portfolio-iota-flame-18.vercel.app/",
+      "publishedAt": "2025-05-08T14:09:01.110Z",
+      "slug": "new-2",
+      "status": "draft",
+      "title": "new 2"
     },
     {
       "__outstatic": {
-        "commit": "e14368f8dd1ae19694023b64d65c170f74ddf032",
-        "hash": "1058629681",
-        "path": "outstatic/content/di-hoc-video/micky-mai-da-dat-duoc-hoc-bong-chinh-phu-australia-nhu-the-nao-hoc-bong-aas.mdx"
+        "commit": "32569470b0c135b7b22cf127e8eb85dc16ea4e9c",
+        "hash": "3054985023",
+        "path": "outstatic/content/di-hoc/new-4.mdx"
       },
       "author": {
         "name": "Micky",
         "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
       },
-      "collection": "di-hoc-video",
-      "coverImage": "/images/mi-nh--a---a-t-ho-c-bo--ng-chi-nh-phu--australia-nhu--the---na-o--Y4MT.jpg",
-      "description": "",
-      "publishedAt": "2025-05-21T14:19:50.813Z",
-      "slug": "micky-mai-da-dat-duoc-hoc-bong-chinh-phu-australia-nhu-the-nao-hoc-bong-aas",
-      "status": "published",
-      "title": "Micky Mai đã đạt được học bổng chính phủ Australia như thế nào? | Học bổng AAS",
-      "youtubeUrl": "https://youtu.be/f4ARd8Tfymc?si=RvgKHnBxLIIMLf4K"
+      "collection": "di-hoc",
+      "coverImage": "/images/lam-viec-4-k5Nj.jpg",
+      "description": "aaaa",
+      "publishedAt": "2025-05-08T14:10:00.098Z",
+      "slug": "new-4",
+      "status": "draft",
+      "title": "new 4"
     },
     {
       "__outstatic": {
-        "commit": "54c5982247cd5729edc1bbf4855686612b93e39d",
-        "hash": "1619513127",
-        "path": "outstatic/content/di-hoc-video/du-hoc-co-phai-la-con-duong-duy-nhat-de-thanh-cong.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-hoc-video",
-      "coverImage": "/images/du-ho-c-co--pha-i-la--con--u-o--ng-duy-nha--t--e---tha-nh-co-ng--IzMz.jpg",
-      "description": "",
-      "publishedAt": "2025-05-21T14:23:08.505Z",
-      "slug": "du-hoc-co-phai-la-con-duong-duy-nhat-de-thanh-cong",
-      "status": "published",
-      "title": "Du học có phải là con đường duy nhất để thành công?",
-      "youtubeUrl": "https://youtu.be/xcpL6-SIPEI?si=OSyiSkx5lCt0FOQG"
-    },
-    {
-      "__outstatic": {
-        "commit": "3022b0b38b523ab28cb745b75ddfb96cab165fe3",
-        "hash": "1989605042",
-        "path": "outstatic/content/di-hoc-video/dung-nop-hoc-bong-neu-chua-biet-9-loai-giay-to-quan-trong-nay.mdx"
-      },
-      "author": {
-        "name": "Micky ",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-hoc-video",
-      "coverImage": "/images/-u--ng-no--p-xin-ho-c-bo--ng-ne--u-chu-a-bie--t-9-loa-i-gia--y-to---quan--Y2Mj.jpg",
-      "description": "",
-      "publishedAt": "2025-05-21T14:26:58.506Z",
-      "slug": "dung-nop-hoc-bong-neu-chua-biet-9-loai-giay-to-quan-trong-nay",
-      "status": "published",
-      "title": "Đừng nộp học bổng nếu chưa biết 9 loại giấy tờ quan trọng này!",
-      "youtubeUrl": "https://youtu.be/c44K8eh3CVs?si=Q-PO7Fc6RP48Nh82"
-    },
-    {
-      "__outstatic": {
-        "commit": "30151e5eec79e246651129465090afda88d23f01",
-        "hash": "2740117119",
-        "path": "outstatic/content/di-hoc-video/loi-khuyen-cho-nhung-ai-muon-du-hoc-bang-hoc-bong-tu-nguoi-co-hoc-bong-chinh-phu-uc.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-hoc-video",
-      "coverImage": "/images/1-g1OD.jpg",
-      "description": "",
-      "publishedAt": "2025-05-21T14:32:13.831Z",
-      "slug": "loi-khuyen-cho-nhung-ai-muon-du-hoc-bang-hoc-bong-tu-nguoi-co-hoc-bong-chinh-phu-uc",
-      "status": "published",
-      "title": "Lời khuyên cho những ai muốn du học bằng học bổng | Từ người có học bổng chính phủ Úc",
-      "youtubeUrl": "https://youtu.be/s_-kUVYQivQ?si=03qaJJLHs_PZ0zC9"
-    },
-    {
-      "__outstatic": {
-        "commit": "3292bffc4e8c072f03bc12ec6dda4cdbcb97cee1",
-        "hash": "1130427826",
-        "path": "outstatic/content/di-hoc-video/viet-bai-luan-xin-hoc-bong-theo-phuong-phap-s.t.a.r-hoc-bong-aas.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-hoc-video",
-      "coverImage": "/images/-cover--ca-ch-vie--t-ba-i-lua--n-theo-phuong-phap-s.t.-E3Mj.png",
-      "description": "",
-      "publishedAt": "2025-05-21T14:36:24.975Z",
-      "slug": "viet-bai-luan-xin-hoc-bong-theo-phuong-phap-s.t.a.r-hoc-bong-aas",
-      "status": "published",
-      "title": "Viết bài luận xin học bổng theo phương pháp S.T.A.R | Học bổng AAS",
-      "youtubeUrl": "https://youtu.be/dhTn8yLhblg?si=YRCLTRmJvkS_4MPS"
-    },
-    {
-      "__outstatic": {
-        "commit": "a32014f7b2a41b5eb50a326b98d7115ca07dc5dc",
-        "hash": "1364602313",
-        "path": "outstatic/content/di-hoc-video/nhung-loi-sai-pho-bien-khien-bai-luan-xin-hoc-bong-cua-ban-bi-danh-rot.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-hoc-video",
-      "coverImage": "/images/nhung-loi-sai-pho-bien-khien-bai-luan-xin-hoc-bong-bi-danh-rot-MwOT.png",
-      "description": "",
-      "publishedAt": "2025-05-21T14:40:06.854Z",
-      "slug": "nhung-loi-sai-pho-bien-khien-bai-luan-xin-hoc-bong-cua-ban-bi-danh-rot",
-      "status": "published",
-      "title": "Những lỗi sai phổ biến khiến bài luận xin học bổng của bạn bị đánh rớt",
-      "youtubeUrl": "https://youtu.be/sjhydRr2lG8?si=gN9QBOHL_c-zsZMW"
-    },
-    {
-      "__outstatic": {
-        "commit": "9a638bf55034250faf727cc682e22dfdcb55fad5",
-        "hash": "32372042",
-        "path": "outstatic/content/di-hoc-video/lam-sao-de-viet-mot-bai-luan-xin-hoc-bong-that-an-tuong-chia-se-tu-nguoi-co-hoc-bong-chinh-phu-australia-hoc-bong-aas.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-hoc-video",
-      "coverImage": "/images/lam-sao-de-viet-mot-bai-luan-xin-hoc-bong-an-tuong-c2Nz.png",
-      "description": "",
-      "publishedAt": "2025-05-21T14:41:35.549Z",
-      "slug": "lam-sao-de-viet-mot-bai-luan-xin-hoc-bong-that-an-tuong-chia-se-tu-nguoi-co-hoc-bong-chinh-phu-australia-hoc-bong-aas",
-      "status": "published",
-      "title": "Làm sao để viết một bài luận xin học bổng thật ấn tượng - chia sẻ từ người có học bổng chính phủ Australia (học bổng AAS)",
-      "youtubeUrl": "https://youtu.be/enP1PMlSz0k?si=RlKF7BDjhuIrWxqU"
-    },
-    {
-      "__outstatic": {
-        "commit": "cb61197b452194b4d38a26174be288240e80f076",
-        "hash": "2567166171",
-        "path": "outstatic/content/di-hoc-video/ielts-5.5-hay-6.0-lieu-co-xin-duoc-hoc-bong-hoc-bong-aas.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-hoc-video",
-      "coverImage": "/images/elts-5.5-hay-6.0-lie--u-co--xin--u-o--c-ho-c-bo--ng----ho-c-bo--ng-aas-E3Mj.png",
-      "description": "Một vòng dạo quanh khuôn viên đại học RMIT với Micky và bàn luận về câu hỏi \"Liệu IELTS 5.5 hay 6.0 có xin được học bổng xịn xò không cả nhà nhé!",
-      "publishedAt": "2025-05-31T04:14:35.402Z",
-      "slug": "ielts-5.5-hay-6.0-lieu-co-xin-duoc-hoc-bong-hoc-bong-aas",
-      "status": "published",
-      "title": "IELTS 5.5 hay 6.0 liệu có xin được học bổng? | Học bổng AAS",
-      "youtubeUrl": "https://www.youtube.com/watch?v=aFzi2DgpxIM&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=9"
-    },
-    {
-      "__outstatic": {
-        "commit": "b7800508f04d65c7f8d3ea8a2c31f7e9ef21c93e",
-        "hash": "4157386690",
-        "path": "outstatic/content/di-hoc-video/mat-bao-lau-de-san-hoc-bong-thanh-cong-san-hoc-bong-chinh-phu-cung-micky.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-hoc-video",
-      "coverImage": "/images/ma--t-bao-la-u--e---sa-n-ho-c-bo--ng-tha-nh-co-ng----sa-n-ho-c-bo--ng-chi-nh-phu--cu-ng-micky-A4Nz.png",
-      "description": "💡 \"Mất bao lâu để săn học bổng thành công? 🎓⏳\"\n\nHành trình xin học bổng không chỉ tính bằng ngày hay tháng, mà bằng sự chuẩn bị, nỗ lực và kiên trì! 🚀 Cùng khám phá quá trình từ lúc bắt đầu đến khi nhận được thư chấp nhận – bạn sẽ bất ngờ đấy! 💼📚 \n\n#hocbong #hocbongAAS",
-      "publishedAt": "2025-05-31T04:17:43.632Z",
-      "slug": "mat-bao-lau-de-san-hoc-bong-thanh-cong-san-hoc-bong-chinh-phu-cung-micky",
-      "status": "published",
-      "title": "Mất bao lâu để săn học bổng thành công? | Săn học bổng chính phủ cùng Micky",
-      "youtubeUrl": "https://www.youtube.com/watch?v=08QRSlNYwdU&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=10"
-    },
-    {
-      "__outstatic": {
-        "commit": "f6625c640f0ddd8f07bea35e2392e322431b9169",
-        "hash": "4099448592",
-        "path": "outstatic/content/di-hoc-video/tim-hieu-ve-cac-khu-vuc-cung-cap-hoc-bong-san-hoc-bong-hoc-bong-chinh-phu-hoc-bong-truong.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-hoc-video",
-      "coverImage": "/images/ti-m-hie--u-ve---ca-c-khu-vu--c-cung-ca--p-ho-c-bo--ng---sa-n-ho-c-bo--ng---ho-c-bo--ng-chi-nh-phu----ho-c-bo--ng-tru-o--ng-Q2MD.png",
-      "description": "Mình là Micky Mai, người đã nhận được học bổng chính phủ Úc (học bổng AAS) vào năm 2024. Với những kiến thức, kinh nghiệm và trải nghiệm mình có, mình hy vọng đây là một video hữu ích cho các bạn trẻ đang có ước mơ du học bằng học bổng giống mình.",
-      "publishedAt": "2025-05-31T04:19:57.825Z",
-      "slug": "tim-hieu-ve-cac-khu-vuc-cung-cap-hoc-bong-san-hoc-bong-hoc-bong-chinh-phu-hoc-bong-truong",
-      "status": "published",
-      "title": "Tìm hiểu về các khu vực cung cấp học bổng | Săn học bổng | Học bổng Chính Phủ | Học Bổng Trường",
-      "youtubeUrl": "https://www.youtube.com/watch?v=Tj-UsLBf26U&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=11"
-    },
-    {
-      "__outstatic": {
-        "commit": "cfd3c6c0a934b68a18df522125ae9e4ac2e514dd",
-        "hash": "273054084",
-        "path": "outstatic/content/di-hoc-video/nhung-cau-hoi-truoc-khi-bat-dau-san-hoc-bong-hoc-bong-chinh-phu-hoc-bong-truong-dai-hoc.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-hoc-video",
-      "coverImage": "/images/nhu--ng-ca-u-ho-i-tru-o--c-khi-ba--t--a--u-sa-n-ho-c-bo--ng---ho-c-bo--ng-chi-nh-phu----ho-c-bo--ng-tru-o--ng--a-i-ho-c-I0ND.png",
-      "description": "Mình là Micky Mai, người đã nhận được học bổng chính phủ Úc (học bổng AAS) vào năm 2024. Với những kiến thức, kinh nghiệm và trải nghiệm mình có, mình hy vọng đây là một video hữu ích cho các bạn trẻ đang có ước mơ du học bằng học bổng giống mình.",
-      "publishedAt": "2025-05-31T06:10:48.863Z",
-      "slug": "nhung-cau-hoi-truoc-khi-bat-dau-san-hoc-bong-hoc-bong-chinh-phu-hoc-bong-truong-dai-hoc",
-      "status": "published",
-      "title": "Những câu hỏi trước khi bắt đầu săn học bổng | Học bổng chính phủ | Học bổng trường đại học",
-      "youtubeUrl": "https://www.youtube.com/watch?v=cacv4NHtOA0&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=12"
-    },
-    {
-      "__outstatic": {
-        "commit": "66ab92ff9d6af2b5934c8c3bdfb43ebc509f243a",
-        "hash": "2903363543",
-        "path": "outstatic/content/di-hoc-video/rmit-lam-gi-co-campus-o-ha-noi-hoc-bong-aas.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-hoc-video",
-      "coverImage": "/images/la-m-gi--co--campus-rmit-o---ha--no--i-MwOD.png",
-      "description": "Hãy cùng theo chân mình và học bổng chính phủ Úc AAS khám phá campus RMIT Hà Nội nhé cả nhà!",
-      "publishedAt": "2025-05-31T06:15:30.092Z",
-      "slug": "rmit-lam-gi-co-campus-o-ha-noi-hoc-bong-aas",
-      "status": "published",
-      "title": "RMIT làm gì có campus ở Hà Nội? | Học bổng AAS",
-      "youtubeUrl": "https://www.youtube.com/watch?v=YszagBCfyAk&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=13"
-    },
-    {
-      "__outstatic": {
-        "commit": "4dced047db8ab138d326d824dfc88b56fd3c0a99",
-        "hash": "1128354731",
-        "path": "outstatic/content/di-du-lich-video/cung-cac-thanh-vien-hoc-bong-aas-di-van-mieu-quoc-tu-giam.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-du-lich-video",
-      "coverImage": "/images/cu-ng-ca-c-tha-nh-vie-n-ho-c-bo--ng-aas--i-va-n-mie--u-quo--c-tu---gia-m-UwNz.png",
-      "description": "🎓🇦🇺 Một ngày thật đặc biệt cùng các “nhà học giả tương lai” tại Văn Miếu Quốc Tử Giám – nơi khởi nguồn tri thức Việt Nam!\n📍Hành trình kết nối – khám phá văn hóa – và truyền cảm hứng cùng các thành viên học bổng AAS!\n#AAS2024 #VanMieu #ScholarshipJourney #VietnamAustralia #StudyWithPurpose",
-      "publishedAt": "2025-05-31T06:21:26.713Z",
-      "slug": "cung-cac-thanh-vien-hoc-bong-aas-di-van-mieu-quoc-tu-giam",
-      "status": "published",
-      "title": "Cùng các thành viên học bổng AAS đi Văn Miếu Quốc Tử Giám",
-      "youtubeUrl": "https://www.youtube.com/watch?v=8gW7uebJUzI&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=14"
-    },
-    {
-      "__outstatic": {
-        "commit": "df8a26f982903d08839a8727eeaf421c246c098b",
+        "commit": "808d6269aa9c393f85ef85640a38b67feea0336d",
         "hash": "2995481602",
         "path": "outstatic/content/di-hoc-video/carnival-day-rmit-2024-di-dao-rmit-va-di-chua-cau-qua-mon-cau-duyen-cho-ban-claire-hien.mdx"
       },
@@ -289,197 +59,43 @@
     },
     {
       "__outstatic": {
-        "commit": "f61d14fbd101f9a2e97287db819559a715e298ea",
-        "hash": "286766718",
-        "path": "outstatic/content/phong-cach-song-video/cac-bai-tap-co-ban-cho-nguoi-moi-bat-dau-tap-gym.mdx"
+        "commit": "048040668acaeae4fa90ac2c6dd9b52494c71be7",
+        "hash": "2631710483",
+        "path": "outstatic/content/di-hoc/new-3.mdx"
       },
       "author": {
         "name": "Micky",
         "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
       },
-      "collection": "phong-cach-song-video",
-      "coverImage": "/images/ca-c-ba-i-ta--p-co--ba-n-cho-ngu-o--i-mo--i-ba--t--a--u-ta--p-gym-E4ND.png",
-      "description": "Muốn trí tuệ minh mẫn, trước tiên phải có sức khoẻ dẻo dai! 💪 Đầu tư vào thể chất là đầu tư cho sự sáng suốt trong mọi quyết định. Cùng mình bắt đầu hành trình khoẻ mạnh hơn mỗi ngày nhé! 🌱 #SứcKhoẻ #Tapgym #BaitapGym",
-      "publishedAt": "2025-05-31T06:30:19.101Z",
-      "slug": "cac-bai-tap-co-ban-cho-nguoi-moi-bat-dau-tap-gym",
-      "status": "published",
-      "title": "Các bài tập cơ bản cho người mới bắt đầu tập gym",
-      "youtubeUrl": "https://www.youtube.com/watch?v=7KTwIOCp0mo&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=18"
+      "collection": "di-hoc",
+      "coverImage": "/images/lam-viec-3-AxMz.jpg",
+      "description": "aaaa",
+      "publishedAt": "2025-05-08T14:09:36.537Z",
+      "slug": "new-3",
+      "status": "draft",
+      "title": "New 3"
     },
     {
       "__outstatic": {
-        "commit": "310fb21992eaae7af04fe36e28ce5135b2fb893c",
-        "hash": "3282905673",
-        "path": "outstatic/content/di-hoc-video/rmit-vao-ngay-mua-8-chuyen-thi-cu-va-di-choi-halloween-trai-nghiem-cung-aas-scholarship.mdx"
+        "commit": "39fdb372d4037264d658d7fb49a274df49b8a717",
+        "hash": "1899763781",
+        "path": "outstatic/content/di-hoc/new-post-di-hoc.mdx"
       },
       "author": {
         "name": "Micky",
         "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
       },
-      "collection": "di-hoc-video",
-      "coverImage": "/images/rmit-va-o-nga-y-mu-a---8-chuye--n-thi-cu---va---i-cho-i-halloween-gyOT.png",
-      "description": "RMIT trong ngày mưa cùng 8 câu chuyện thi cử và Halloween thú vị 🌧️🎃 – Trải nghiệm học bổng AAS không chỉ là học, mà còn là những khoảnh khắc đáng nhớ!  #AAS #scholarships #rmit",
-      "publishedAt": "2025-05-31T06:28:47.374Z",
-      "slug": "rmit-vao-ngay-mua-8-chuyen-thi-cu-va-di-choi-halloween-trai-nghiem-cung-aas-scholarship",
-      "status": "published",
-      "title": "RMIT vào ngày mưa - 8 chuyện thi cử và đi chơi Halloween | Trải nghiệm cùng AAS Scholarship",
-      "youtubeUrl": "https://www.youtube.com/watch?v=A0NOqqtsUHU&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=16"
+      "collection": "di-hoc",
+      "coverImage": "/images/thuc-tap-tai-an-5-c3MT.jpg",
+      "description": "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "publishedAt": "2025-05-08T13:37:33.661Z",
+      "slug": "new-post-di-hoc",
+      "status": "draft",
+      "title": "New post đi học"
     },
     {
       "__outstatic": {
-        "commit": "ccc59b7a0f6929d021c42e3352ba4e93a8486cdc",
-        "hash": "1617495176",
-        "path": "outstatic/content/di-hoc-video/dai-hoc-rmit-co-gi-vui-cung-hoc-bong-chinh-phu-uc-aas-scholarship.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-hoc-video",
-      "coverImage": "/images/-a-i-ho-c-rmit-co--gi--vui-cu-ng-ho-c-bo--ng-chi-nh-phu--u-c--aas-scholarship--g4MT.png",
-      "description": "Sau một tuần học tập vui vẻ thì Micky lưu được kỷ niệm cùng với đại học RMIT nhiêu đây nè! cả nhà cùng chia sẻ với Micky nhé!",
-      "publishedAt": "2025-05-31T06:38:56.819Z",
-      "slug": "dai-hoc-rmit-co-gi-vui-cung-hoc-bong-chinh-phu-uc-aas-scholarship",
-      "status": "published",
-      "title": "Đại học RMIT có gì vui cùng Học bổng chính phủ Úc (AAS Scholarship)",
-      "youtubeUrl": "https://www.youtube.com/watch?v=X9ye_xP8DmM&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=20"
-    },
-    {
-      "__outstatic": {
-        "commit": "ccdbc86c8da2ed760482b690c44da7773560f55b",
-        "hash": "1037456505",
-        "path": "outstatic/content/di-hoc-video/mot-ngay-di-hoc-xa-lo-o-dai-hoc-rmit-vietnam-cua-minh-se-nhu-the-nao-hoc-bong-chinh-phu-uc-aas.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-hoc-video",
-      "coverImage": "/images/mo--t-nga-y--i-ho-c-xa--lo--o----a-i-ho-c-rmit-vietnam-cu-a-mi-nh-se--nhu--the---na-o----ho-c-bo--ng-chi-nh-phu--u-c--aas--k5Nz.png",
-      "description": "Cùng theo chân mình đến đại học RMIT nhé cả nhà! Cám ơn học bổng chính phủ Úc (AAS) đã tạo điều kiện cho Micky được học tập tại RMIT University Việt Nam trước khi bắt đầu vào ngành học chính thức tại Úc.",
-      "publishedAt": "2025-05-31T06:43:13.431Z",
-      "slug": "mot-ngay-di-hoc-xa-lo-o-dai-hoc-rmit-vietnam-cua-minh-se-nhu-the-nao-hoc-bong-chinh-phu-uc-aas",
-      "status": "published",
-      "title": "Một ngày đi học xà lơ ở đại học RMIT Vietnam của mình sẽ như thế nào? | Học bổng chính phủ Úc (AAS)",
-      "youtubeUrl": "https://www.youtube.com/watch?v=mFXa7k3UHTM&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=21"
-    },
-    {
-      "__outstatic": {
-        "commit": "16c5c5a16ed369242c64ab7d54993fd281148a0a",
-        "hash": "3154055183",
-        "path": "outstatic/content/phong-cach-song-video/di-nuoc-ngoai-can-chuan-bi-nhung-thu-nay-ne-kinh-nghiem-di-nuoc-ngoai.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "phong-cach-song-video",
-      "coverImage": "/images/-i-nu-o--c-ngoa-i-ca--n-chua--n-bi--nhu--ng-thu---na-y-ne----kinh-nghie--m--i-nu-o--c-ngoa--QzMT.png",
-      "description": "úm cái váy lại, thì có những điều trên sẽ thật cần thiết cho các bạn nếu như bạn đang chuẩn bị nước ngoài, đi du học nước ngoài. bên dưới là link checklist cho mọi người thuận tiện sắp xếp đồ đạc của mình nha. ",
-      "publishedAt": "2025-05-31T06:46:31.942Z",
-      "slug": "di-nuoc-ngoai-can-chuan-bi-nhung-thu-nay-ne-kinh-nghiem-di-nuoc-ngoai",
-      "status": "published",
-      "title": "Đi nước ngoài cần chuẩn bị những thứ này nè | kinh nghiệm đi nước ngoài",
-      "youtubeUrl": "https://www.youtube.com/watch?v=YSHP9vQWxTg&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=22"
-    },
-    {
-      "__outstatic": {
-        "commit": "dfd1887e02f5c061ad7bb170c893d5a30f075c3d",
-        "hash": "1101208720",
-        "path": "outstatic/content/di-hoc-video/mot-ngay-thuc-tap-ban-ron-o-an-do-nam-2020-thuc-tap-nuoc-ngoai-incredible-india.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-hoc-video",
-      "coverImage": "/images/mo--t-nga-y-thu--c-ta--p-ba--n-ro--n-o---a--n--o---IyNj.png",
-      "description": "Cùng theo chân mình một ngày từ sáng đến tối của một thực tập sinh nước ngoài nha, rất tiết mấy video hình đồ ăn mình quên ghi lại, do bận ăn uống dữ quá, mình sẽ xin video và hình của bạn mình và làm một video riêng về ẩm thực Ấn Độ nhe (nếu mình xin được) ^^.  Nhớ cho mình 1 like và subcribe nha.  Follow mình trên instagram nữa: @Wonder_Micky  Cám ơn mọi người rất nhiều !!!",
-      "publishedAt": "2025-05-31T06:50:00.831Z",
-      "slug": "mot-ngay-thuc-tap-ban-ron-o-an-do-nam-2020-thuc-tap-nuoc-ngoai-incredible-india",
-      "status": "published",
-      "title": "Một ngày thực tập bận rộn ở Ấn Độ | năm 2020 | Thực tập nước ngoài | Incredible India",
-      "youtubeUrl": "https://www.youtube.com/watch?v=kRMeWn4W5Lw&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=24"
-    },
-    {
-      "__outstatic": {
-        "commit": "53381d57a6c6d613be66d708ff3209c18c26243e",
-        "hash": "3318699743",
-        "path": "outstatic/content/phong-cach-song-video/day-la-nhung-tinh-cach-minh-muon-hoc-hoi.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "phong-cach-song-video",
-      "coverImage": "/images/-a-y-la--nhu--ng-ti-nh-ca-ch-mi-nh-muo--n-ho-c-ho-i-k4NT.png",
-      "description": "Trong thực tập, làm tình nguyện, hay giao tiếp hằng ngày thì theo mình những tính cách sau đây sẽ giúp mình ghi điểm với người đối diện và làm cuộc sống trở nên dễ dàng hơn.",
-      "publishedAt": "2025-05-31T06:51:45.164Z",
-      "slug": "day-la-nhung-tinh-cach-minh-muon-hoc-hoi",
-      "status": "published",
-      "title": "Đây là những tính cách mình muốn học hỏi",
-      "youtubeUrl": "https://www.youtube.com/watch?v=QAKXCL6WiK8&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=25"
-    },
-    {
-      "__outstatic": {
-        "commit": "8229be7b7545bc0035c356c5d53f90fff617935d",
-        "hash": "1597650914",
-        "path": "outstatic/content/di-hoc-video/mot-ngay-thuc-tap-tai-nuoc-ngoai-thuc-tap-an-do-ahmedabad-gujarat.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-hoc-video",
-      "coverImage": "/images/mo--t-nga-y-thu--c-ta--p-ta-i-nu-o--c-ngoa-i---thu--c-ta--p-a--n--o-----ahmedabad--gujarat-kyNj.png",
-      "description": "Đây là video ghi lại một ngày mình đi quay hình cho sản phẩm của một start-up mà mình cộng tác trong viện Incubation của mình tại thành phố Ahmedabad, Gujarat, Ấn Độ. Các bạn thấy nó có thú vị không? Hãy comment và cho mình một subscribe nhé. \nCameramen: Priya Patel.",
-      "publishedAt": "2025-05-31T06:54:26.700Z",
-      "slug": "mot-ngay-thuc-tap-tai-nuoc-ngoai-thuc-tap-an-do-ahmedabad-gujarat",
-      "status": "published",
-      "title": "Một ngày thực tập tại nước ngoài | Thực tập Ấn Độ | Ahmedabad, Gujarat",
-      "youtubeUrl": "https://www.youtube.com/watch?v=4GCIEuuuMUI&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=26"
-    },
-    {
-      "__outstatic": {
-        "commit": "643defd43afa87cfd1ea29c3e4f962367f385486",
-        "hash": "2563835578",
-        "path": "outstatic/content/di-lam-video/kinh-nghiem-phong-van-voi-nha-tuyen-dung-nuoc-ngoai-thuc-tap-nuoc-ngoai.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-lam-video",
-      "coverImage": "/images/kinh-nghie--m-pho-ng-va--n-vo--i-nha--tuye--n-du-ng-nu-o--c-ngoa-i---thu--c-ta--p-nu-o--c-ngoa-i-c4Mz.png",
-      "description": "Đây là bí kiếp để giữ chồng, ủa lộn, đây là bí kiếp để giúp các bạn trả lời câu hỏi của nhà tuyển dụng nước ngoài. Trong video chỉ là góc nhìn của mình và những ví dụ mình đưa ra cho các bạn, các bạn đừng bắt chước mà hãy suy nghĩ với cá nhân của các bạn và đưa ra câu trả lời cho các bạn nha, chứ trả lời mà giống nhau hết là mình không chịu trách nhiệm đâu nhe, hihi. Cho mình 1 subscribe đi mờ!",
-      "publishedAt": "2025-05-31T06:56:08.842Z",
-      "slug": "kinh-nghiem-phong-van-voi-nha-tuyen-dung-nuoc-ngoai-thuc-tap-nuoc-ngoai",
-      "status": "published",
-      "title": "Kinh nghiệm phỏng vấn với nhà tuyển dụng nước ngoài | Thực tập nước ngoài",
-      "youtubeUrl": "https://www.youtube.com/watch?v=mV5pVJ2n5yY&list=PLEE9tvaVbZbd1bSoKEhaRYaHP3nHNFbXU"
-    },
-    {
-      "__outstatic": {
-        "commit": "2d64564886e97f001d203ee42c2adb91ba9261af",
-        "hash": "3393930283",
-        "path": "outstatic/content/di-lam-video/di-nuoc-ngoai-can-chuan-bi-nhung-thu-nay-ne-kinh-nghiem-di-nuoc-ngoai.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-lam-video",
-      "coverImage": "/images/-i-nu-o--c-ngoa-i-ca--n-chua--n-bi--nhu--ng-thu---na-y-ne----kinh-nghie--m--i-nu-o--c-ngoa--QzMT.png",
-      "description": "Túm cái váy lại, thì có những điều trên sẽ thật cần thiết cho các bạn nếu như bạn đang chuẩn bị nước ngoài, đi du học nước ngoài. bên dưới là link checklist cho mọi người thuận tiện sắp xếp đồ đạc của mình nha.",
-      "publishedAt": "2025-05-31T06:58:00.856Z",
-      "slug": "di-nuoc-ngoai-can-chuan-bi-nhung-thu-nay-ne-kinh-nghiem-di-nuoc-ngoai",
-      "status": "published",
-      "title": "Đi nước ngoài cần chuẩn bị những thứ này nè | kinh nghiệm đi nước ngoài",
-      "youtubeUrl": "https://www.youtube.com/watch?v=YSHP9vQWxTg&list=PLEE9tvaVbZbd1bSoKEhaRYaHP3nHNFbXU&index=2"
-    },
-    {
-      "__outstatic": {
-        "commit": "a76f38d78025476819756eaca3d5c78643718a43",
+        "commit": "5520656ecc205114d64246037b37e5d35a1abc6f",
         "hash": "3518801179",
         "path": "outstatic/content/di-hoc-video/bi-kip-tim-hoc-bong-du-hoc-4-kenh-khong-the-bo-qua-khi-xinh-hoc-bong-chinh-phu.mdx"
       },
@@ -498,26 +114,478 @@
     },
     {
       "__outstatic": {
-        "commit": "a46f50691a3fd20b803105fe2f69cfffca672c51",
-        "hash": "3824108367",
-        "path": "outstatic/content/phong-cach-song-video/mukbang-thit-kho-tuong-hot-nhat-ky-nau-an.mdx"
+        "commit": "a87e7387e3e9ae14a0e2e726b127154699af92e9",
+        "hash": "32372042",
+        "path": "outstatic/content/di-hoc-video/lam-sao-de-viet-mot-bai-luan-xin-hoc-bong-that-an-tuong-chia-se-tu-nguoi-co-hoc-bong-chinh-phu-australia-hoc-bong-aas.mdx"
       },
       "author": {
         "name": "Micky",
         "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
       },
-      "collection": "phong-cach-song-video",
-      "coverImage": "/images/mukbang-thi-t-kho-tu-o-ng-ho--t-g2Nz.png",
-      "description": "Trưa nay ăn gì? Mình chọn thịt kho tương hột thơm lừng đưa cơm 🍚✨ #NhậtKýNấuĂn #MukbangViệt\nMón nhà làm, vị quê hương: Thịt kho tương hột ăn là ghiền! 😋",
-      "publishedAt": "2025-06-04T11:54:04.751Z",
-      "slug": "mukbang-thit-kho-tuong-hot-nhat-ky-nau-an",
+      "collection": "di-hoc-video",
+      "coverImage": "/images/lam-sao-de-viet-mot-bai-luan-xin-hoc-bong-an-tuong-c2Nz.png",
+      "description": "",
+      "publishedAt": "2025-05-21T14:41:35.549Z",
+      "slug": "lam-sao-de-viet-mot-bai-luan-xin-hoc-bong-that-an-tuong-chia-se-tu-nguoi-co-hoc-bong-chinh-phu-australia-hoc-bong-aas",
       "status": "published",
-      "title": "Mukbang Thịt kho tương hột | Nhật ký nấu ăn",
-      "youtubeUrl": "https://www.youtube.com/watch?v=cZPDAGM5Kc4&t=1s"
+      "title": "Làm sao để viết một bài luận xin học bổng thật ấn tượng - chia sẻ từ người có học bổng chính phủ Australia (học bổng AAS)",
+      "youtubeUrl": "https://youtu.be/enP1PMlSz0k?si=RlKF7BDjhuIrWxqU"
     },
     {
       "__outstatic": {
-        "commit": "2d390aa5355c430ee3590a2fb78439c9b09340ce",
+        "commit": "313ce4a55194a0290eaf5c6a3e562e1d9bbd6b14",
+        "hash": "2567166171",
+        "path": "outstatic/content/di-hoc-video/ielts-5.5-hay-6.0-lieu-co-xin-duoc-hoc-bong-hoc-bong-aas.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc-video",
+      "coverImage": "/images/elts-5.5-hay-6.0-lie--u-co--xin--u-o--c-ho-c-bo--ng----ho-c-bo--ng-aas-E3Mj.png",
+      "description": "Một vòng dạo quanh khuôn viên đại học RMIT với Micky và bàn luận về câu hỏi \"Liệu IELTS 5.5 hay 6.0 có xin được học bổng xịn xò không cả nhà nhé!",
+      "publishedAt": "2025-05-31T04:14:35.402Z",
+      "slug": "ielts-5.5-hay-6.0-lieu-co-xin-duoc-hoc-bong-hoc-bong-aas",
+      "status": "published",
+      "title": "IELTS 5.5 hay 6.0 liệu có xin được học bổng? | Học bổng AAS",
+      "youtubeUrl": "https://www.youtube.com/watch?v=aFzi2DgpxIM&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=9"
+    },
+    {
+      "__outstatic": {
+        "commit": "abf0890e2b8f9e6946b816de13961a7068ecd870",
+        "hash": "1617495176",
+        "path": "outstatic/content/di-hoc-video/dai-hoc-rmit-co-gi-vui-cung-hoc-bong-chinh-phu-uc-aas-scholarship.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc-video",
+      "coverImage": "/images/-a-i-ho-c-rmit-co--gi--vui-cu-ng-ho-c-bo--ng-chi-nh-phu--u-c--aas-scholarship--g4MT.png",
+      "description": "Sau một tuần học tập vui vẻ thì Micky lưu được kỷ niệm cùng với đại học RMIT nhiêu đây nè! cả nhà cùng chia sẻ với Micky nhé!",
+      "publishedAt": "2025-05-31T06:38:56.819Z",
+      "slug": "dai-hoc-rmit-co-gi-vui-cung-hoc-bong-chinh-phu-uc-aas-scholarship",
+      "status": "published",
+      "title": "Đại học RMIT có gì vui cùng Học bổng chính phủ Úc (AAS Scholarship)",
+      "youtubeUrl": "https://www.youtube.com/watch?v=X9ye_xP8DmM&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=20"
+    },
+    {
+      "__outstatic": {
+        "commit": "cfeecae6de31742219666700137a14f91e85afd5",
+        "hash": "1619513127",
+        "path": "outstatic/content/di-hoc-video/du-hoc-co-phai-la-con-duong-duy-nhat-de-thanh-cong.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc-video",
+      "coverImage": "/images/du-ho-c-co--pha-i-la--con--u-o--ng-duy-nha--t--e---tha-nh-co-ng--IzMz.jpg",
+      "description": "",
+      "publishedAt": "2025-05-21T14:23:08.505Z",
+      "slug": "du-hoc-co-phai-la-con-duong-duy-nhat-de-thanh-cong",
+      "status": "published",
+      "title": "Du học có phải là con đường duy nhất để thành công?",
+      "youtubeUrl": "https://youtu.be/xcpL6-SIPEI?si=OSyiSkx5lCt0FOQG"
+    },
+    {
+      "__outstatic": {
+        "commit": "ebbd6c91bdc00d4019984ef497a0046b78986942",
+        "hash": "1989605042",
+        "path": "outstatic/content/di-hoc-video/dung-nop-hoc-bong-neu-chua-biet-9-loai-giay-to-quan-trong-nay.mdx"
+      },
+      "author": {
+        "name": "Micky ",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc-video",
+      "coverImage": "/images/-u--ng-no--p-xin-ho-c-bo--ng-ne--u-chu-a-bie--t-9-loa-i-gia--y-to---quan--Y2Mj.jpg",
+      "description": "",
+      "publishedAt": "2025-05-21T14:26:58.506Z",
+      "slug": "dung-nop-hoc-bong-neu-chua-biet-9-loai-giay-to-quan-trong-nay",
+      "status": "published",
+      "title": "Đừng nộp học bổng nếu chưa biết 9 loại giấy tờ quan trọng này!",
+      "youtubeUrl": "https://youtu.be/c44K8eh3CVs?si=Q-PO7Fc6RP48Nh82"
+    },
+    {
+      "__outstatic": {
+        "commit": "46e210970f88ba7394209a66dc7088c481cc70ec",
+        "hash": "2740117119",
+        "path": "outstatic/content/di-hoc-video/loi-khuyen-cho-nhung-ai-muon-du-hoc-bang-hoc-bong-tu-nguoi-co-hoc-bong-chinh-phu-uc.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc-video",
+      "coverImage": "/images/1-g1OD.jpg",
+      "description": "",
+      "publishedAt": "2025-05-21T14:32:13.831Z",
+      "slug": "loi-khuyen-cho-nhung-ai-muon-du-hoc-bang-hoc-bong-tu-nguoi-co-hoc-bong-chinh-phu-uc",
+      "status": "published",
+      "title": "Lời khuyên cho những ai muốn du học bằng học bổng | Từ người có học bổng chính phủ Úc",
+      "youtubeUrl": "https://youtu.be/s_-kUVYQivQ?si=03qaJJLHs_PZ0zC9"
+    },
+    {
+      "__outstatic": {
+        "commit": "1d2691eaa9f4c1b36ba90809f2c43a001bbc7aa8",
+        "hash": "1037456505",
+        "path": "outstatic/content/di-hoc-video/mot-ngay-di-hoc-xa-lo-o-dai-hoc-rmit-vietnam-cua-minh-se-nhu-the-nao-hoc-bong-chinh-phu-uc-aas.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc-video",
+      "coverImage": "/images/mo--t-nga-y--i-ho-c-xa--lo--o----a-i-ho-c-rmit-vietnam-cu-a-mi-nh-se--nhu--the---na-o----ho-c-bo--ng-chi-nh-phu--u-c--aas--k5Nz.png",
+      "description": "Cùng theo chân mình đến đại học RMIT nhé cả nhà! Cám ơn học bổng chính phủ Úc (AAS) đã tạo điều kiện cho Micky được học tập tại RMIT University Việt Nam trước khi bắt đầu vào ngành học chính thức tại Úc.",
+      "publishedAt": "2025-05-31T06:43:13.431Z",
+      "slug": "mot-ngay-di-hoc-xa-lo-o-dai-hoc-rmit-vietnam-cua-minh-se-nhu-the-nao-hoc-bong-chinh-phu-uc-aas",
+      "status": "published",
+      "title": "Một ngày đi học xà lơ ở đại học RMIT Vietnam của mình sẽ như thế nào? | Học bổng chính phủ Úc (AAS)",
+      "youtubeUrl": "https://www.youtube.com/watch?v=mFXa7k3UHTM&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=21"
+    },
+    {
+      "__outstatic": {
+        "commit": "d1668bae89bb626b37b633e3ed8d8110b6c3be61",
+        "hash": "4157386690",
+        "path": "outstatic/content/di-hoc-video/mat-bao-lau-de-san-hoc-bong-thanh-cong-san-hoc-bong-chinh-phu-cung-micky.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc-video",
+      "coverImage": "/images/ma--t-bao-la-u--e---sa-n-ho-c-bo--ng-tha-nh-co-ng----sa-n-ho-c-bo--ng-chi-nh-phu--cu-ng-micky-A4Nz.png",
+      "description": "💡 \"Mất bao lâu để săn học bổng thành công? 🎓⏳\"\n\nHành trình xin học bổng không chỉ tính bằng ngày hay tháng, mà bằng sự chuẩn bị, nỗ lực và kiên trì! 🚀 Cùng khám phá quá trình từ lúc bắt đầu đến khi nhận được thư chấp nhận – bạn sẽ bất ngờ đấy! 💼📚 \n\n#hocbong #hocbongAAS",
+      "publishedAt": "2025-05-31T04:17:43.632Z",
+      "slug": "mat-bao-lau-de-san-hoc-bong-thanh-cong-san-hoc-bong-chinh-phu-cung-micky",
+      "status": "published",
+      "title": "Mất bao lâu để săn học bổng thành công? | Săn học bổng chính phủ cùng Micky",
+      "youtubeUrl": "https://www.youtube.com/watch?v=08QRSlNYwdU&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=10"
+    },
+    {
+      "__outstatic": {
+        "commit": "e320fdb01b9d66eeab496a2dbaad144cd0701b4e",
+        "hash": "1355512749",
+        "path": "outstatic/content/di-hoc-video/minh-duoc-moi-lam-mc-cho-buoi-trao-bang-danh-du-hoc-bong-chinh-phu-australia-hoc-bong-aas-nhu-the-nao.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc-video",
+      "coverImage": "/images/minh-duoc-moi-lam-mc-cho-buoi-trao-bang-hoc-bong-chinh-phu-uc-ntn-Q1OT.png",
+      "description": "Mình được mời làm MC cho buổi trao bằng danh dự học bổng chính phủ Australia (học bổng AAS) như thế nào?",
+      "publishedAt": "2025-05-21T14:12:26.713Z",
+      "slug": "minh-duoc-moi-lam-mc-cho-buoi-trao-bang-danh-du-hoc-bong-chinh-phu-australia-hoc-bong-aas-nhu-the-nao",
+      "status": "published",
+      "title": "Mình được mời làm MC cho buổi trao bằng danh dự học bổng chính phủ Australia (học bổng AAS) như thế nào?",
+      "youtubeUrl": "https://youtu.be/-JEP4uQi87A?si=fTYXzTItnns1b1mv"
+    },
+    {
+      "__outstatic": {
+        "commit": "bcac5bf4e99f3f20c69739c09fbeeb45a010ce5f",
+        "hash": "1058629681",
+        "path": "outstatic/content/di-hoc-video/micky-mai-da-dat-duoc-hoc-bong-chinh-phu-australia-nhu-the-nao-hoc-bong-aas.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc-video",
+      "coverImage": "/images/mi-nh--a---a-t-ho-c-bo--ng-chi-nh-phu--australia-nhu--the---na-o--Y4MT.jpg",
+      "description": "",
+      "publishedAt": "2025-05-21T14:19:50.813Z",
+      "slug": "micky-mai-da-dat-duoc-hoc-bong-chinh-phu-australia-nhu-the-nao-hoc-bong-aas",
+      "status": "published",
+      "title": "Micky Mai đã đạt được học bổng chính phủ Australia như thế nào? | Học bổng AAS",
+      "youtubeUrl": "https://youtu.be/f4ARd8Tfymc?si=RvgKHnBxLIIMLf4K"
+    },
+    {
+      "__outstatic": {
+        "commit": "1d2f047f68293e4601652be92072df51eedcbc43",
+        "hash": "2903363543",
+        "path": "outstatic/content/di-hoc-video/rmit-lam-gi-co-campus-o-ha-noi-hoc-bong-aas.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc-video",
+      "coverImage": "/images/la-m-gi--co--campus-rmit-o---ha--no--i-MwOD.png",
+      "description": "Hãy cùng theo chân mình và học bổng chính phủ Úc AAS khám phá campus RMIT Hà Nội nhé cả nhà!",
+      "publishedAt": "2025-05-31T06:15:30.092Z",
+      "slug": "rmit-lam-gi-co-campus-o-ha-noi-hoc-bong-aas",
+      "status": "published",
+      "title": "RMIT làm gì có campus ở Hà Nội? | Học bổng AAS",
+      "youtubeUrl": "https://www.youtube.com/watch?v=YszagBCfyAk&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=13"
+    },
+    {
+      "__outstatic": {
+        "commit": "a3f475cbc227d646f01302c55cda32f3b0a46754",
+        "hash": "1364602313",
+        "path": "outstatic/content/di-hoc-video/nhung-loi-sai-pho-bien-khien-bai-luan-xin-hoc-bong-cua-ban-bi-danh-rot.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc-video",
+      "coverImage": "/images/nhung-loi-sai-pho-bien-khien-bai-luan-xin-hoc-bong-bi-danh-rot-MwOT.png",
+      "description": "",
+      "publishedAt": "2025-05-21T14:40:06.854Z",
+      "slug": "nhung-loi-sai-pho-bien-khien-bai-luan-xin-hoc-bong-cua-ban-bi-danh-rot",
+      "status": "published",
+      "title": "Những lỗi sai phổ biến khiến bài luận xin học bổng của bạn bị đánh rớt",
+      "youtubeUrl": "https://youtu.be/sjhydRr2lG8?si=gN9QBOHL_c-zsZMW"
+    },
+    {
+      "__outstatic": {
+        "commit": "957d267ac5d392ec255dafc4529684104fba2a4c",
+        "hash": "1101208720",
+        "path": "outstatic/content/di-hoc-video/mot-ngay-thuc-tap-ban-ron-o-an-do-nam-2020-thuc-tap-nuoc-ngoai-incredible-india.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc-video",
+      "coverImage": "/images/mo--t-nga-y-thu--c-ta--p-ba--n-ro--n-o---a--n--o---IyNj.png",
+      "description": "Cùng theo chân mình một ngày từ sáng đến tối của một thực tập sinh nước ngoài nha, rất tiết mấy video hình đồ ăn mình quên ghi lại, do bận ăn uống dữ quá, mình sẽ xin video và hình của bạn mình và làm một video riêng về ẩm thực Ấn Độ nhe (nếu mình xin được) ^^.  Nhớ cho mình 1 like và subcribe nha.  Follow mình trên instagram nữa: @Wonder_Micky  Cám ơn mọi người rất nhiều !!!",
+      "publishedAt": "2025-05-31T06:50:00.831Z",
+      "slug": "mot-ngay-thuc-tap-ban-ron-o-an-do-nam-2020-thuc-tap-nuoc-ngoai-incredible-india",
+      "status": "published",
+      "title": "Một ngày thực tập bận rộn ở Ấn Độ | năm 2020 | Thực tập nước ngoài | Incredible India",
+      "youtubeUrl": "https://www.youtube.com/watch?v=kRMeWn4W5Lw&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=24"
+    },
+    {
+      "__outstatic": {
+        "commit": "6b03b15d9ef1c24984ca894eb36e103598890c4d",
+        "hash": "1597650914",
+        "path": "outstatic/content/di-hoc-video/mot-ngay-thuc-tap-tai-nuoc-ngoai-thuc-tap-an-do-ahmedabad-gujarat.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc-video",
+      "coverImage": "/images/mo--t-nga-y-thu--c-ta--p-ta-i-nu-o--c-ngoa-i---thu--c-ta--p-a--n--o-----ahmedabad--gujarat-kyNj.png",
+      "description": "Đây là video ghi lại một ngày mình đi quay hình cho sản phẩm của một start-up mà mình cộng tác trong viện Incubation của mình tại thành phố Ahmedabad, Gujarat, Ấn Độ. Các bạn thấy nó có thú vị không? Hãy comment và cho mình một subscribe nhé. \nCameramen: Priya Patel.",
+      "publishedAt": "2025-05-31T06:54:26.700Z",
+      "slug": "mot-ngay-thuc-tap-tai-nuoc-ngoai-thuc-tap-an-do-ahmedabad-gujarat",
+      "status": "published",
+      "title": "Một ngày thực tập tại nước ngoài | Thực tập Ấn Độ | Ahmedabad, Gujarat",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4GCIEuuuMUI&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=26"
+    },
+    {
+      "__outstatic": {
+        "commit": "8e890c9a46a2ef821dd23e8bbf1abcf55f255c8d",
+        "hash": "273054084",
+        "path": "outstatic/content/di-hoc-video/nhung-cau-hoi-truoc-khi-bat-dau-san-hoc-bong-hoc-bong-chinh-phu-hoc-bong-truong-dai-hoc.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc-video",
+      "coverImage": "/images/nhu--ng-ca-u-ho-i-tru-o--c-khi-ba--t--a--u-sa-n-ho-c-bo--ng---ho-c-bo--ng-chi-nh-phu----ho-c-bo--ng-tru-o--ng--a-i-ho-c-I0ND.png",
+      "description": "Mình là Micky Mai, người đã nhận được học bổng chính phủ Úc (học bổng AAS) vào năm 2024. Với những kiến thức, kinh nghiệm và trải nghiệm mình có, mình hy vọng đây là một video hữu ích cho các bạn trẻ đang có ước mơ du học bằng học bổng giống mình.",
+      "publishedAt": "2025-05-31T06:10:48.863Z",
+      "slug": "nhung-cau-hoi-truoc-khi-bat-dau-san-hoc-bong-hoc-bong-chinh-phu-hoc-bong-truong-dai-hoc",
+      "status": "published",
+      "title": "Những câu hỏi trước khi bắt đầu săn học bổng | Học bổng chính phủ | Học bổng trường đại học",
+      "youtubeUrl": "https://www.youtube.com/watch?v=cacv4NHtOA0&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=12"
+    },
+    {
+      "__outstatic": {
+        "commit": "829450b338b040d2bafb32ed124f1f43fadb1bb5",
+        "hash": "1723996602",
+        "path": "outstatic/content/di-lam/di-lam-lai-ne.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-lam",
+      "coverImage": "/images/lam-viec-3-AxMz.jpg",
+      "description": "diLamPosts",
+      "publishedAt": "2025-05-08T14:39:02.147Z",
+      "slug": "di-lam-lai-ne",
+      "status": "draft",
+      "title": "Di làm lại nè "
+    },
+    {
+      "__outstatic": {
+        "commit": "711831f02ff25742e0ca2b6483cd2b9f64fe94cd",
+        "hash": "2093339932",
+        "path": "outstatic/content/di-lam/di-lam-ne.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-lam",
+      "coverImage": "/images/lam-viec-1-YwNz.jpg",
+      "description": "Chúng ta vẫn biết rằng, làm việc với một đoạn văn bản dễ đọc và rõ nghĩa dễ gây rối trí và cản trở việc tập trung vào yếu tố trình bày văn bản",
+      "publishedAt": "2025-05-08T14:32:45.789Z",
+      "slug": "di-lam-ne",
+      "status": "draft",
+      "title": "Di lam ne"
+    },
+    {
+      "__outstatic": {
+        "commit": "6349b1766f12234fb20f68b49212d775cb28b69c",
+        "hash": "4099448592",
+        "path": "outstatic/content/di-hoc-video/tim-hieu-ve-cac-khu-vuc-cung-cap-hoc-bong-san-hoc-bong-hoc-bong-chinh-phu-hoc-bong-truong.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc-video",
+      "coverImage": "/images/ti-m-hie--u-ve---ca-c-khu-vu--c-cung-ca--p-ho-c-bo--ng---sa-n-ho-c-bo--ng---ho-c-bo--ng-chi-nh-phu----ho-c-bo--ng-tru-o--ng-Q2MD.png",
+      "description": "Mình là Micky Mai, người đã nhận được học bổng chính phủ Úc (học bổng AAS) vào năm 2024. Với những kiến thức, kinh nghiệm và trải nghiệm mình có, mình hy vọng đây là một video hữu ích cho các bạn trẻ đang có ước mơ du học bằng học bổng giống mình.",
+      "publishedAt": "2025-05-31T04:19:57.825Z",
+      "slug": "tim-hieu-ve-cac-khu-vuc-cung-cap-hoc-bong-san-hoc-bong-hoc-bong-chinh-phu-hoc-bong-truong",
+      "status": "published",
+      "title": "Tìm hiểu về các khu vực cung cấp học bổng | Săn học bổng | Học bổng Chính Phủ | Học Bổng Trường",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Tj-UsLBf26U&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=11"
+    },
+    {
+      "__outstatic": {
+        "commit": "52e97b42a64d3431b1a8abd560ab8c23e18bff2f",
+        "hash": "1130427826",
+        "path": "outstatic/content/di-hoc-video/viet-bai-luan-xin-hoc-bong-theo-phuong-phap-s.t.a.r-hoc-bong-aas.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc-video",
+      "coverImage": "/images/-cover--ca-ch-vie--t-ba-i-lua--n-theo-phuong-phap-s.t.-E3Mj.png",
+      "description": "",
+      "publishedAt": "2025-05-21T14:36:24.975Z",
+      "slug": "viet-bai-luan-xin-hoc-bong-theo-phuong-phap-s.t.a.r-hoc-bong-aas",
+      "status": "published",
+      "title": "Viết bài luận xin học bổng theo phương pháp S.T.A.R | Học bổng AAS",
+      "youtubeUrl": "https://youtu.be/dhTn8yLhblg?si=YRCLTRmJvkS_4MPS"
+    },
+    {
+      "__outstatic": {
+        "commit": "da14fc9498061a77211f3546e0f32605adfef1d2",
+        "hash": "3282905673",
+        "path": "outstatic/content/di-hoc-video/rmit-vao-ngay-mua-8-chuyen-thi-cu-va-di-choi-halloween-trai-nghiem-cung-aas-scholarship.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc-video",
+      "coverImage": "/images/rmit-va-o-nga-y-mu-a---8-chuye--n-thi-cu---va---i-cho-i-halloween-gyOT.png",
+      "description": "RMIT trong ngày mưa cùng 8 câu chuyện thi cử và Halloween thú vị 🌧️🎃 – Trải nghiệm học bổng AAS không chỉ là học, mà còn là những khoảnh khắc đáng nhớ!  #AAS #scholarships #rmit",
+      "publishedAt": "2025-05-31T06:28:47.374Z",
+      "slug": "rmit-vao-ngay-mua-8-chuyen-thi-cu-va-di-choi-halloween-trai-nghiem-cung-aas-scholarship",
+      "status": "published",
+      "title": "RMIT vào ngày mưa - 8 chuyện thi cử và đi chơi Halloween | Trải nghiệm cùng AAS Scholarship",
+      "youtubeUrl": "https://www.youtube.com/watch?v=A0NOqqtsUHU&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=16"
+    },
+    {
+      "__outstatic": {
+        "commit": "5eee91b8aa82979758348eefb8bc4e291bb2b670",
+        "hash": "3393930283",
+        "path": "outstatic/content/di-lam-video/di-nuoc-ngoai-can-chuan-bi-nhung-thu-nay-ne-kinh-nghiem-di-nuoc-ngoai.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-lam-video",
+      "coverImage": "/images/-i-nu-o--c-ngoa-i-ca--n-chua--n-bi--nhu--ng-thu---na-y-ne----kinh-nghie--m--i-nu-o--c-ngoa--QzMT.png",
+      "description": "Túm cái váy lại, thì có những điều trên sẽ thật cần thiết cho các bạn nếu như bạn đang chuẩn bị nước ngoài, đi du học nước ngoài. bên dưới là link checklist cho mọi người thuận tiện sắp xếp đồ đạc của mình nha.",
+      "publishedAt": "2025-05-31T06:58:00.856Z",
+      "slug": "di-nuoc-ngoai-can-chuan-bi-nhung-thu-nay-ne-kinh-nghiem-di-nuoc-ngoai",
+      "status": "published",
+      "title": "Đi nước ngoài cần chuẩn bị những thứ này nè | kinh nghiệm đi nước ngoài",
+      "youtubeUrl": "https://www.youtube.com/watch?v=YSHP9vQWxTg&list=PLEE9tvaVbZbd1bSoKEhaRYaHP3nHNFbXU&index=2"
+    },
+    {
+      "__outstatic": {
+        "commit": "d15e735b29d6cfb348cebe1ef9d76f2217f88f69",
+        "hash": "1129079759",
+        "path": "outstatic/content/phong-cach-song/song-ao-ne.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "phong-cach-song",
+      "coverImage": "/images/bearbnb.png",
+      "description": "Chúng ta vẫn biết rằng, làm việc với một đoạn văn bản dễ đọc",
+      "publishedAt": "2025-05-08T14:49:52.678Z",
+      "slug": "song-ao-ne",
+      "status": "draft",
+      "title": "Song ao ne"
+    },
+    {
+      "__outstatic": {
+        "commit": "0c59d65b64879b6bca05309a914d7540eb753adf",
+        "hash": "2563835578",
+        "path": "outstatic/content/di-lam-video/kinh-nghiem-phong-van-voi-nha-tuyen-dung-nuoc-ngoai-thuc-tap-nuoc-ngoai.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-lam-video",
+      "coverImage": "/images/kinh-nghie--m-pho-ng-va--n-vo--i-nha--tuye--n-du-ng-nu-o--c-ngoa-i---thu--c-ta--p-nu-o--c-ngoa-i-c4Mz.png",
+      "description": "Đây là bí kiếp để giữ chồng, ủa lộn, đây là bí kiếp để giúp các bạn trả lời câu hỏi của nhà tuyển dụng nước ngoài. Trong video chỉ là góc nhìn của mình và những ví dụ mình đưa ra cho các bạn, các bạn đừng bắt chước mà hãy suy nghĩ với cá nhân của các bạn và đưa ra câu trả lời cho các bạn nha, chứ trả lời mà giống nhau hết là mình không chịu trách nhiệm đâu nhe, hihi. Cho mình 1 subscribe đi mờ!",
+      "publishedAt": "2025-05-31T06:56:08.842Z",
+      "slug": "kinh-nghiem-phong-van-voi-nha-tuyen-dung-nuoc-ngoai-thuc-tap-nuoc-ngoai",
+      "status": "published",
+      "title": "Kinh nghiệm phỏng vấn với nhà tuyển dụng nước ngoài | Thực tập nước ngoài",
+      "youtubeUrl": "https://www.youtube.com/watch?v=mV5pVJ2n5yY&list=PLEE9tvaVbZbd1bSoKEhaRYaHP3nHNFbXU"
+    },
+    {
+      "__outstatic": {
+        "commit": "6be409a42e9bddf9be26da764f70efa3678dec6d",
+        "hash": "101095260",
+        "path": "outstatic/content/di-du-lich/di-du-lich-ne.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-du-lich",
+      "coverImage": "/images/thuc-tap-tai-an-2-I4Mz.jpg",
+      "description": "Chúng ta vẫn biết rằng, làm việc với một đoạn văn bản dễ đọc và rõ nghĩa dễ gây rối trí và cản trở việc tập trung vào yếu tố trình bày văn bản",
+      "publishedAt": "2025-05-08T14:40:38.373Z",
+      "slug": "di-du-lich-ne",
+      "status": "draft",
+      "title": "đi du lịch nè"
+    },
+    {
+      "__outstatic": {
+        "commit": "67f93d175647ab242cea9ce2f23323d1928ad019",
+        "hash": "1128354731",
+        "path": "outstatic/content/di-du-lich-video/cung-cac-thanh-vien-hoc-bong-aas-di-van-mieu-quoc-tu-giam.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-du-lich-video",
+      "coverImage": "/images/cu-ng-ca-c-tha-nh-vie-n-ho-c-bo--ng-aas--i-va-n-mie--u-quo--c-tu---gia-m-UwNz.png",
+      "description": "🎓🇦🇺 Một ngày thật đặc biệt cùng các “nhà học giả tương lai” tại Văn Miếu Quốc Tử Giám – nơi khởi nguồn tri thức Việt Nam!\n📍Hành trình kết nối – khám phá văn hóa – và truyền cảm hứng cùng các thành viên học bổng AAS!\n#AAS2024 #VanMieu #ScholarshipJourney #VietnamAustralia #StudyWithPurpose",
+      "publishedAt": "2025-05-31T06:21:26.713Z",
+      "slug": "cung-cac-thanh-vien-hoc-bong-aas-di-van-mieu-quoc-tu-giam",
+      "status": "published",
+      "title": "Cùng các thành viên học bổng AAS đi Văn Miếu Quốc Tử Giám",
+      "youtubeUrl": "https://www.youtube.com/watch?v=8gW7uebJUzI&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=14"
+    },
+    {
+      "__outstatic": {
+        "commit": "dbc2f8e5f59360aa3de7ea83dc3b40bcf88fee01",
         "hash": "1551197235",
         "path": "outstatic/content/phong-cach-song-video/video-nay-minh-muon-gui-loi-cam-on-first-musique-class.mdx"
       },
@@ -536,147 +604,79 @@
     },
     {
       "__outstatic": {
-        "commit": "19f2a3ec278f50a76defb16f49cc91fca5a93f89",
-        "hash": "1470195195",
-        "path": "outstatic/content/di-hoc/new-2.mdx"
+        "commit": "b2f6fca726f09e547b1ae5e660cfa13c18187b8b",
+        "hash": "3154055183",
+        "path": "outstatic/content/phong-cach-song-video/di-nuoc-ngoai-can-chuan-bi-nhung-thu-nay-ne-kinh-nghiem-di-nuoc-ngoai.mdx"
       },
       "author": {
         "name": "Micky",
         "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
       },
-      "collection": "di-hoc",
-      "coverImage": "/images/speaker-cho-aiesec-M4Mz.jpg",
-      "description": "https://portfolio-iota-flame-18.vercel.app/",
-      "publishedAt": "2025-05-08T14:09:01.110Z",
-      "slug": "new-2",
-      "status": "draft",
-      "title": "new 2"
+      "collection": "phong-cach-song-video",
+      "coverImage": "/images/-i-nu-o--c-ngoa-i-ca--n-chua--n-bi--nhu--ng-thu---na-y-ne----kinh-nghie--m--i-nu-o--c-ngoa--QzMT.png",
+      "description": "úm cái váy lại, thì có những điều trên sẽ thật cần thiết cho các bạn nếu như bạn đang chuẩn bị nước ngoài, đi du học nước ngoài. bên dưới là link checklist cho mọi người thuận tiện sắp xếp đồ đạc của mình nha. ",
+      "publishedAt": "2025-05-31T06:46:31.942Z",
+      "slug": "di-nuoc-ngoai-can-chuan-bi-nhung-thu-nay-ne-kinh-nghiem-di-nuoc-ngoai",
+      "status": "published",
+      "title": "Đi nước ngoài cần chuẩn bị những thứ này nè | kinh nghiệm đi nước ngoài",
+      "youtubeUrl": "https://www.youtube.com/watch?v=YSHP9vQWxTg&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=22"
     },
     {
       "__outstatic": {
-        "commit": "e5c74be8a9238fd2c34b4c5215801492606c2423",
-        "hash": "2631710483",
-        "path": "outstatic/content/di-hoc/new-3.mdx"
+        "commit": "ee1d92cc627565230b54fde0cd8249e24f8f4540",
+        "hash": "3824108367",
+        "path": "outstatic/content/phong-cach-song-video/mukbang-thit-kho-tuong-hot-nhat-ky-nau-an.mdx"
       },
       "author": {
         "name": "Micky",
         "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
       },
-      "collection": "di-hoc",
-      "coverImage": "/images/lam-viec-3-AxMz.jpg",
-      "description": "aaaa",
-      "publishedAt": "2025-05-08T14:09:36.537Z",
-      "slug": "new-3",
-      "status": "draft",
-      "title": "New 3"
+      "collection": "phong-cach-song-video",
+      "coverImage": "/images/mukbang-thi-t-kho-tu-o-ng-ho--t-g2Nz.png",
+      "description": "Trưa nay ăn gì? Mình chọn thịt kho tương hột thơm lừng đưa cơm 🍚✨ #NhậtKýNấuĂn #MukbangViệt\nMón nhà làm, vị quê hương: Thịt kho tương hột ăn là ghiền! 😋",
+      "publishedAt": "2025-06-04T11:54:04.751Z",
+      "slug": "mukbang-thit-kho-tuong-hot-nhat-ky-nau-an",
+      "status": "published",
+      "title": "Mukbang Thịt kho tương hột | Nhật ký nấu ăn",
+      "youtubeUrl": "https://www.youtube.com/watch?v=cZPDAGM5Kc4&t=1s"
     },
     {
       "__outstatic": {
-        "commit": "cae1cf5985ccb4c7061613a6f036781221df2c8e",
-        "hash": "3054985023",
-        "path": "outstatic/content/di-hoc/new-4.mdx"
+        "commit": "488570b36f7c2ad44c252e9d12bb128c1c877690",
+        "hash": "286766718",
+        "path": "outstatic/content/phong-cach-song-video/cac-bai-tap-co-ban-cho-nguoi-moi-bat-dau-tap-gym.mdx"
       },
       "author": {
         "name": "Micky",
         "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
       },
-      "collection": "di-hoc",
-      "coverImage": "/images/lam-viec-4-k5Nj.jpg",
-      "description": "aaaa",
-      "publishedAt": "2025-05-08T14:10:00.098Z",
-      "slug": "new-4",
-      "status": "draft",
-      "title": "new 4"
+      "collection": "phong-cach-song-video",
+      "coverImage": "/images/ca-c-ba-i-ta--p-co--ba-n-cho-ngu-o--i-mo--i-ba--t--a--u-ta--p-gym-E4ND.png",
+      "description": "Muốn trí tuệ minh mẫn, trước tiên phải có sức khoẻ dẻo dai! 💪 Đầu tư vào thể chất là đầu tư cho sự sáng suốt trong mọi quyết định. Cùng mình bắt đầu hành trình khoẻ mạnh hơn mỗi ngày nhé! 🌱 #SứcKhoẻ #Tapgym #BaitapGym",
+      "publishedAt": "2025-05-31T06:30:19.101Z",
+      "slug": "cac-bai-tap-co-ban-cho-nguoi-moi-bat-dau-tap-gym",
+      "status": "published",
+      "title": "Các bài tập cơ bản cho người mới bắt đầu tập gym",
+      "youtubeUrl": "https://www.youtube.com/watch?v=7KTwIOCp0mo&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=18"
     },
     {
       "__outstatic": {
-        "commit": "f66e83dc22a00dcad1b45f6dd2c8b6667d403a23",
-        "hash": "1899763781",
-        "path": "outstatic/content/di-hoc/new-post-di-hoc.mdx"
+        "commit": "ab414c1f64df57e90dc3f57790b89bf1dd1c05fa",
+        "hash": "3318699743",
+        "path": "outstatic/content/phong-cach-song-video/day-la-nhung-tinh-cach-minh-muon-hoc-hoi.mdx"
       },
       "author": {
         "name": "Micky",
         "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
       },
-      "collection": "di-hoc",
-      "coverImage": "/images/thuc-tap-tai-an-5-c3MT.jpg",
-      "description": "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-      "publishedAt": "2025-05-08T13:37:33.661Z",
-      "slug": "new-post-di-hoc",
-      "status": "draft",
-      "title": "New post đi học"
-    },
-    {
-      "__outstatic": {
-        "commit": "5f956be9da5d947a79f5cf258cab127488bf9748",
-        "hash": "1723996602",
-        "path": "outstatic/content/di-lam/di-lam-lai-ne.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-lam",
-      "coverImage": "/images/lam-viec-3-AxMz.jpg",
-      "description": "diLamPosts",
-      "publishedAt": "2025-05-08T14:39:02.147Z",
-      "slug": "di-lam-lai-ne",
-      "status": "draft",
-      "title": "Di làm lại nè "
-    },
-    {
-      "__outstatic": {
-        "commit": "63302402a7e21f4fc238da1a1423031bffc74fda",
-        "hash": "2093339932",
-        "path": "outstatic/content/di-lam/di-lam-ne.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-lam",
-      "coverImage": "/images/lam-viec-1-YwNz.jpg",
-      "description": "Chúng ta vẫn biết rằng, làm việc với một đoạn văn bản dễ đọc và rõ nghĩa dễ gây rối trí và cản trở việc tập trung vào yếu tố trình bày văn bản",
-      "publishedAt": "2025-05-08T14:32:45.789Z",
-      "slug": "di-lam-ne",
-      "status": "draft",
-      "title": "Di lam ne"
-    },
-    {
-      "__outstatic": {
-        "commit": "727921a53cd75541053a42f4a02101932e2842c4",
-        "hash": "101095260",
-        "path": "outstatic/content/di-du-lich/di-du-lich-ne.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-du-lich",
-      "coverImage": "/images/thuc-tap-tai-an-2-I4Mz.jpg",
-      "description": "Chúng ta vẫn biết rằng, làm việc với một đoạn văn bản dễ đọc và rõ nghĩa dễ gây rối trí và cản trở việc tập trung vào yếu tố trình bày văn bản",
-      "publishedAt": "2025-05-08T14:40:38.373Z",
-      "slug": "di-du-lich-ne",
-      "status": "draft",
-      "title": "đi du lịch nè"
-    },
-    {
-      "__outstatic": {
-        "commit": "5a18a7ccb4dbb616d5b0b3598800e322db24c49f",
-        "hash": "1129079759",
-        "path": "outstatic/content/phong-cach-song/song-ao-ne.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "phong-cach-song",
-      "coverImage": "/images/bearbnb.png",
-      "description": "Chúng ta vẫn biết rằng, làm việc với một đoạn văn bản dễ đọc",
-      "publishedAt": "2025-05-08T14:49:52.678Z",
-      "slug": "song-ao-ne",
-      "status": "draft",
-      "title": "Song ao ne"
+      "collection": "phong-cach-song-video",
+      "coverImage": "/images/-a-y-la--nhu--ng-ti-nh-ca-ch-mi-nh-muo--n-ho-c-ho-i-k4NT.png",
+      "description": "Trong thực tập, làm tình nguyện, hay giao tiếp hằng ngày thì theo mình những tính cách sau đây sẽ giúp mình ghi điểm với người đối diện và làm cuộc sống trở nên dễ dàng hơn.",
+      "publishedAt": "2025-05-31T06:51:45.164Z",
+      "slug": "day-la-nhung-tinh-cach-minh-muon-hoc-hoi",
+      "status": "published",
+      "title": "Đây là những tính cách mình muốn học hỏi",
+      "youtubeUrl": "https://www.youtube.com/watch?v=QAKXCL6WiK8&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=25"
     }
   ]
 }
