@@ -1,6 +1,6 @@
 {
-  "commit": "41e806a4953ad5fa6a9521b4f797a8d8afb400f2",
-  "generated": "2025-09-24T17:05:41.417Z",
+  "commit": "59207cfe218d6662cd11bd17965e72c135b5fda5",
+  "generated": "2025-09-24T17:05:46.751Z",
   "metadata": [
     {
       "__outstatic": {
@@ -57,24 +57,6 @@
       "status": "published",
       "title": "Carnival day RMIT 2024, đi dạo RMIT và đi chùa cầu qua môn + cầu duyên cho bạn Claire (Hiển)",
       "youtubeUrl": "https://www.youtube.com/watch?v=4HBtps2np8o&list=PLEE9tvaVbZbe-zkTWUX9lcOsuFVHiE4xc&index=15"
-    },
-    {
-      "__outstatic": {
-        "commit": "32569470b0c135b7b22cf127e8eb85dc16ea4e9c",
-        "hash": "3054985023",
-        "path": "outstatic/content/di-hoc/new-4.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-hoc",
-      "coverImage": "/images/lam-viec-4-k5Nj.jpg",
-      "description": "aaaa",
-      "publishedAt": "2025-05-08T14:10:00.098Z",
-      "slug": "new-4",
-      "status": "draft",
-      "title": "new 4"
     },
     {
       "__outstatic": {
