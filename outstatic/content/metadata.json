@@ -1,25 +1,7 @@
 {
-  "commit": "5f956be9da5d947a79f5cf258cab127488bf9748",
-  "generated": "2025-09-24T10:08:33.324Z",
+  "commit": "63302402a7e21f4fc238da1a1423031bffc74fda",
+  "generated": "2025-09-24T10:08:46.771Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "974e5e294488ca7f27f46215adbf8f2e9b5a1472",
-        "hash": "3052112964",
-        "path": "outstatic/content/di-lam/di-lam-ne.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-lam",
-      "coverImage": "/images/lam-viec-1-YwNz.jpg",
-      "description": "Chúng ta vẫn biết rằng, làm việc với một đoạn văn bản dễ đọc và rõ nghĩa dễ gây rối trí và cản trở việc tập trung vào yếu tố trình bày văn bản",
-      "publishedAt": "2025-05-08T14:32:45.789Z",
-      "slug": "di-lam-ne",
-      "status": "published",
-      "title": "Di lam ne"
-    },
     {
       "__outstatic": {
         "commit": "d940e375bce9fc61d8324541db4407a943ea4bdc",
@@ -677,6 +659,24 @@
       "slug": "di-lam-lai-ne",
       "status": "draft",
       "title": "Di làm lại nè "
+    },
+    {
+      "__outstatic": {
+        "commit": "63302402a7e21f4fc238da1a1423031bffc74fda",
+        "hash": "2093339932",
+        "path": "outstatic/content/di-lam/di-lam-ne.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-lam",
+      "coverImage": "/images/lam-viec-1-YwNz.jpg",
+      "description": "Chúng ta vẫn biết rằng, làm việc với một đoạn văn bản dễ đọc và rõ nghĩa dễ gây rối trí và cản trở việc tập trung vào yếu tố trình bày văn bản",
+      "publishedAt": "2025-05-08T14:32:45.789Z",
+      "slug": "di-lam-ne",
+      "status": "draft",
+      "title": "Di lam ne"
     }
   ]
 }
