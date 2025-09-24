@@ -1,6 +1,6 @@
 {
-  "commit": "162c114e2bc209c9f12c7085dbbadbde8fe2b3e5",
-  "generated": "2025-09-24T17:06:21.635Z",
+  "commit": "b33edd7a26b7e9d5d31784b9338bf53df4efe623",
+  "generated": "2025-09-24T17:06:28.885Z",
   "metadata": [
     {
       "__outstatic": {
@@ -419,24 +419,6 @@
       "status": "published",
       "title": "Đi nước ngoài cần chuẩn bị những thứ này nè | kinh nghiệm đi nước ngoài",
       "youtubeUrl": "https://www.youtube.com/watch?v=YSHP9vQWxTg&list=PLEE9tvaVbZbd1bSoKEhaRYaHP3nHNFbXU&index=2"
-    },
-    {
-      "__outstatic": {
-        "commit": "d15e735b29d6cfb348cebe1ef9d76f2217f88f69",
-        "hash": "1129079759",
-        "path": "outstatic/content/phong-cach-song/song-ao-ne.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "phong-cach-song",
-      "coverImage": "/images/bearbnb.png",
-      "description": "Chúng ta vẫn biết rằng, làm việc với một đoạn văn bản dễ đọc",
-      "publishedAt": "2025-05-08T14:49:52.678Z",
-      "slug": "song-ao-ne",
-      "status": "draft",
-      "title": "Song ao ne"
     },
     {
       "__outstatic": {
