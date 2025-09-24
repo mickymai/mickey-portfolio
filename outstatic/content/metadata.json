@@ -1,6 +1,6 @@
 {
-  "commit": "e5c74be8a9238fd2c34b4c5215801492606c2423",
-  "generated": "2025-09-24T10:07:57.383Z",
+  "commit": "cae1cf5985ccb4c7061613a6f036781221df2c8e",
+  "generated": "2025-09-24T10:08:05.139Z",
   "metadata": [
     {
       "__outstatic": {
@@ -19,24 +19,6 @@
       "slug": "di-lam-ne",
       "status": "published",
       "title": "Di lam ne"
-    },
-    {
-      "__outstatic": {
-        "commit": "e6b619745d543693b44e9d9cf54652373fcc4c21",
-        "hash": "2178147079",
-        "path": "outstatic/content/di-hoc/new-4.mdx"
-      },
-      "author": {
-        "name": "Micky",
-        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
-      },
-      "collection": "di-hoc",
-      "coverImage": "/images/lam-viec-4-k5Nj.jpg",
-      "description": "aaaa",
-      "publishedAt": "2025-05-08T14:10:00.098Z",
-      "slug": "new-4",
-      "status": "published",
-      "title": "new 4"
     },
     {
       "__outstatic": {
@@ -677,6 +659,24 @@
       "slug": "new-3",
       "status": "draft",
       "title": "New 3"
+    },
+    {
+      "__outstatic": {
+        "commit": "cae1cf5985ccb4c7061613a6f036781221df2c8e",
+        "hash": "3054985023",
+        "path": "outstatic/content/di-hoc/new-4.mdx"
+      },
+      "author": {
+        "name": "Micky",
+        "picture": "https://avatars.githubusercontent.com/u/210703084?v=4"
+      },
+      "collection": "di-hoc",
+      "coverImage": "/images/lam-viec-4-k5Nj.jpg",
+      "description": "aaaa",
+      "publishedAt": "2025-05-08T14:10:00.098Z",
+      "slug": "new-4",
+      "status": "draft",
+      "title": "new 4"
     }
   ]
 }
